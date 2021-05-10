@@ -1,0 +1,1463 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"San Francisco, CA, United States",03/16/2017,64.8,55.2,59.2,,,0,0,0,18.9,258.29,29.8,8.9,62.6,79.83,Partially cloudy
+"San Francisco, CA, United States",03/17/2017,71.5,49.5,59,48.5,,0,0,0,13.2,237.5,,9.9,25.4,65.41,Partially cloudy
+"San Francisco, CA, United States",03/18/2017,68,55,59.5,,,0,0,0,13.2,241.58,,9.9,41.8,58.85,Partially cloudy
+"San Francisco, CA, United States",03/19/2017,63,55,58.1,,,0,0,0,13.5,208.88,,9.4,61.1,81.31,Partially cloudy
+"San Francisco, CA, United States",03/20/2017,62.8,55.7,58.9,,,0.26,0,0,16.4,169.92,26.4,9.3,67.6,74.83,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/21/2017,65.2,59.1,61.4,,,0.42,0,0,18.1,190,29.8,8.7,57.5,76.2,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/22/2017,60.1,52.5,56.6,,,0.31,0,0,21.8,250.88,31.1,9.2,53.1,72.05,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/23/2017,60.7,47.4,54.8,44.8,,0,0,0,15.3,279.04,25.3,9.9,42.1,65.65,Partially cloudy
+"San Francisco, CA, United States",03/24/2017,56.9,53.2,55.2,,,0.66,0,0,18.5,159.46,33.3,8.1,76.5,80.08,"Rain, Overcast"
+"San Francisco, CA, United States",03/25/2017,62.2,52.5,56.9,,,0,0,0,18.6,265.58,,9.8,45,76.16,Partially cloudy
+"San Francisco, CA, United States",03/26/2017,63.4,53.2,56.9,,,0.03,0,0,17.3,203.79,19.7,9.7,65.3,73.22,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/27/2017,62.8,51.8,56.9,,,0,0,0,23.4,299.17,36.8,9.9,30.6,68.01,Partially cloudy
+"San Francisco, CA, United States",03/28/2017,69.8,49.7,59.1,47.3,,0,0,0,20.8,299,33.3,9.9,21.7,62.63,Clear
+"San Francisco, CA, United States",03/29/2017,65.1,52.1,58.7,,,0,0,0,18.7,267.46,33.3,9.7,26.7,73.16,Partially cloudy
+"San Francisco, CA, United States",03/30/2017,63.6,53.3,58,,,0.01,0,0,25.9,286.33,40.4,9.2,37.7,67.57,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/31/2017,71,54.1,61,,,0,0,0,18.8,320.96,31.1,9.9,19.1,44.18,Clear
+"San Francisco, CA, United States",04/01/2017,75.9,52.5,62,,,0,0,0,14.5,243.71,,9.9,22.8,57.06,Clear
+"San Francisco, CA, United States",04/02/2017,73,53.2,60.4,,,0,0,0,17.3,295,,9.3,36.7,73.42,Partially cloudy
+"San Francisco, CA, United States",04/03/2017,68.2,48.9,57.8,46.5,,0,0,0,20.8,223.04,35.7,9.6,18.9,60.8,Clear
+"San Francisco, CA, United States",04/04/2017,68.1,50,57.7,49,,0,0,0,17.1,264.29,,9.7,39.4,65.96,Partially cloudy
+"San Francisco, CA, United States",04/05/2017,70.1,53.2,60.5,,,0,0,0,14.2,245.75,,9.9,59.7,44.77,Partially cloudy
+"San Francisco, CA, United States",04/06/2017,65.4,52.6,59.3,,,0.56,0,0,35.4,163.83,49.1,8.9,79.7,43.58,"Rain, Overcast"
+"San Francisco, CA, United States",04/07/2017,63.9,51.2,58.8,,,0.8,0,0,25.9,193.25,37.9,8.6,70.8,79.21,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/08/2017,56.5,49.6,52.4,43.5,,0.21,0,0,20.1,264.67,31.9,9.6,44.4,71.57,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/09/2017,60.6,44.4,52,40.7,,0,0,0,16.8,258.67,20.8,9.9,28.5,68.63,Partially cloudy
+"San Francisco, CA, United States",04/10/2017,65.2,46.9,55.1,45,,0,0,0,17,199.21,23,9.9,43.1,70.52,Partially cloudy
+"San Francisco, CA, United States",04/11/2017,65.4,55,59.8,,,0.01,0,0,19.9,185.96,33,9.8,73.2,66.02,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/12/2017,64.8,55.6,59.7,,,0.2,0,0,21,216.29,30.1,8,69.3,75.06,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/13/2017,59.6,51.5,56.2,,,0.08,0,0,21.4,240.42,30.6,9.7,55.8,69.28,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/14/2017,62.1,46.9,54.5,43.2,,0,0,0,23,308.33,31.1,9.9,19.6,58.57,Clear
+"San Francisco, CA, United States",04/15/2017,66.3,46.5,56.1,45.7,,0,0,0,15.9,228.79,,9.9,46.2,63.46,Partially cloudy
+"San Francisco, CA, United States",04/16/2017,60.9,52.6,56.3,,,0.15,0,0,16.6,141.96,32.3,9.3,74,71.04,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/17/2017,63,56.2,58.8,,,0.09,0,0,7.7,143.71,,8.3,70.5,82.52,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/18/2017,66.6,55,58.9,,,0.06,0,0,17,246.25,,9,54.9,79.56,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/19/2017,67.5,52.6,59.8,,,0,0,0,14,222.08,,9.9,42.2,69.21,Partially cloudy
+"San Francisco, CA, United States",04/20/2017,66.9,54.3,60.5,,,0.17,0,0,20.8,299,29.8,9.5,34.3,71.17,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/21/2017,73.7,51.2,61.5,,,0,0,0,14.9,251.29,,9.9,19.6,61.63,Clear
+"San Francisco, CA, United States",04/22/2017,64.7,51.5,58.9,,,0,0,0,20.1,244.71,29.8,9.9,35.3,63.96,Partially cloudy
+"San Francisco, CA, United States",04/23/2017,64.9,54.3,58.5,,,0,0,0,26.2,279.63,40.3,9.9,40.4,67.41,Partially cloudy
+"San Francisco, CA, United States",04/24/2017,61.6,54.3,57.5,,,0,0,0,24.7,268.67,32.5,9.9,67.9,73.2,Partially cloudy
+"San Francisco, CA, United States",04/25/2017,63.6,54,58.5,,,0,0,0,21.4,279.54,32.2,9.9,47.6,69.12,Partially cloudy
+"San Francisco, CA, United States",04/26/2017,64.4,57.6,59.9,,,0,0,0,21.9,255.83,32.2,8.7,87,83.41,Overcast
+"San Francisco, CA, United States",04/27/2017,66.6,52.4,59,,,0,0,0,23.1,277.63,41.1,9.9,46.2,67.74,Partially cloudy
+"San Francisco, CA, United States",04/28/2017,69,49,59.8,47.8,,0,0,0,21.3,284.58,33.3,9.9,18.4,57.98,Clear
+"San Francisco, CA, United States",04/29/2017,77.3,56.7,65.9,,,0,0,0,18.3,285.54,27.7,9.8,3.4,42.46,Clear
+"San Francisco, CA, United States",04/30/2017,74.1,52.5,61.5,,,0,0,0,18.7,293.5,31.7,9.9,1,65.75,Clear
+"San Francisco, CA, United States",05/01/2017,82.9,54.8,66.7,,81.3,0,0,0,20.3,246.25,29.8,9.9,5.8,58.99,Clear
+"San Francisco, CA, United States",05/02/2017,82.3,58.9,68.5,,81.2,0,0,0,18.4,264.75,31.1,9.9,21.4,57.34,Clear
+"San Francisco, CA, United States",05/03/2017,88,57.9,68.8,,86.4,0,0,0,15.1,263.96,,9.9,18,64.29,Clear
+"San Francisco, CA, United States",05/04/2017,67,54.5,59.6,,,0,0,0,22,298.04,36.7,9.9,36.3,76.71,Partially cloudy
+"San Francisco, CA, United States",05/05/2017,65.6,54.2,58.2,,,0,0,0,28.9,272.17,48.9,9.7,63.6,71.39,Partially cloudy
+"San Francisco, CA, United States",05/06/2017,63.2,51.8,57.1,,,0,0,0,24.3,273.46,47.8,9.6,48.3,59.19,Partially cloudy
+"San Francisco, CA, United States",05/07/2017,70.3,52.8,59.8,,,0,0,0,18.7,268.04,,8.8,29.8,62.33,Partially cloudy
+"San Francisco, CA, United States",05/08/2017,70.3,51.4,59.1,,,0,0,0,18.2,273.58,26.4,8.6,18.9,67.08,Clear
+"San Francisco, CA, United States",05/09/2017,74.8,52.2,60.8,,,0,0,0,20.5,268.71,31.1,9,28.5,67.24,Partially cloudy
+"San Francisco, CA, United States",05/10/2017,65.9,55,59.5,,,0,0,0,17.7,256.5,26.4,9.9,46.5,67.93,Partially cloudy
+"San Francisco, CA, United States",05/11/2017,67.7,54.2,59.6,,,0,0,0,18.4,257.58,25.8,9.9,65.2,68,Partially cloudy
+"San Francisco, CA, United States",05/12/2017,64.9,53.6,58.5,,,0,0,0,30.5,289.79,41.1,9.9,29.4,59.89,Partially cloudy
+"San Francisco, CA, United States",05/13/2017,64.5,50.6,57,,,0,0,0,28.2,289.21,41.4,9.9,21.5,57.73,Clear
+"San Francisco, CA, United States",05/14/2017,63.4,50,56,,,0,0,0,20.3,251.88,34.4,9.9,37.6,67.5,Partially cloudy
+"San Francisco, CA, United States",05/15/2017,63.8,51.8,56.6,,,0,0,0,24.9,236.13,43.7,9.8,40.5,68.1,Partially cloudy
+"San Francisco, CA, United States",05/16/2017,62.7,53.2,57.1,,,0,0,0,21.6,260.83,36.8,9.9,78.3,73.71,Overcast
+"San Francisco, CA, United States",05/17/2017,67.1,51.9,58.6,,,0,0,0,20.7,269.13,35.7,9.9,33.7,64.99,Partially cloudy
+"San Francisco, CA, United States",05/18/2017,74.3,50.4,60.6,,,0,0,0,21.7,274.79,33.9,9.9,18.6,64.55,Clear
+"San Francisco, CA, United States",05/19/2017,79.6,54.4,65.1,,,0,0,0,16.1,296.88,29.8,9.9,3.4,59.93,Clear
+"San Francisco, CA, United States",05/20/2017,86.3,54.7,66.7,,83.4,0,0,0,15.3,310.67,,9.9,6.2,59.97,Clear
+"San Francisco, CA, United States",05/21/2017,78.7,55.1,64.3,,,0,0,0,17.8,304.21,,9.9,20.3,65.73,Clear
+"San Francisco, CA, United States",05/22/2017,71.6,53.2,60.4,,,0,0,0,18,302.75,31.1,9.6,27.2,74.41,Partially cloudy
+"San Francisco, CA, United States",05/23/2017,68.5,54.8,59.5,,,0,0,0,20.6,298.42,24.2,9.8,38.6,76.25,Partially cloudy
+"San Francisco, CA, United States",05/24/2017,67.5,54.4,59.4,,,0,0,0,14.7,276.33,20.8,9.9,62.2,72.48,Partially cloudy
+"San Francisco, CA, United States",05/25/2017,65.5,56.7,60.6,,,0,0,0,21.6,209.38,33.4,9.9,52.3,66.62,Partially cloudy
+"San Francisco, CA, United States",05/26/2017,65.6,56,59.8,,,0,0,0,16.4,238.71,24.2,9.9,67.8,65.8,Partially cloudy
+"San Francisco, CA, United States",05/27/2017,67.1,55.5,59.9,,,0,0,0,18.1,262.46,29.8,9.9,48.3,66.61,Partially cloudy
+"San Francisco, CA, United States",05/28/2017,64,55.2,57.7,,,0,0,0,20.1,272.29,32.9,9.9,77.8,77.17,Overcast
+"San Francisco, CA, United States",05/29/2017,60.8,54.3,56.3,,,0,0,0,21.2,261.67,33.3,9.5,87.6,79.37,Overcast
+"San Francisco, CA, United States",05/30/2017,61.9,53.7,57,,,0,0,0,22.8,264.71,40.9,9.9,75.7,76.31,Overcast
+"San Francisco, CA, United States",05/31/2017,69.6,55.7,61.3,,,0,0,0,20.2,272.21,40.3,9.9,50.7,72.04,Partially cloudy
+"San Francisco, CA, United States",06/01/2017,68.8,56.7,61.4,,,0,0,0,20.8,282.17,34,9.9,58.1,76.77,Partially cloudy
+"San Francisco, CA, United States",06/02/2017,71.9,54.8,61.5,,,0,0,0,19.9,271.04,33.3,9.9,38.5,69.77,Partially cloudy
+"San Francisco, CA, United States",06/03/2017,67,55.5,59.9,,,0,0,0,17.9,276.25,33.3,9.8,49.5,73.21,Partially cloudy
+"San Francisco, CA, United States",06/04/2017,66.9,54.3,59.8,,,0,0,0,18.9,264.71,36.8,9.9,31.3,66.71,Partially cloudy
+"San Francisco, CA, United States",06/05/2017,72,52.1,60.6,,,0,0,0,21.4,255.42,32.2,9.4,29.3,67.15,Partially cloudy
+"San Francisco, CA, United States",06/06/2017,65.2,53.9,58.8,,,0,0,0,19.2,279.67,35,9.5,37.8,72.89,Partially cloudy
+"San Francisco, CA, United States",06/07/2017,65.7,55.5,60.3,,,0,0,0,16.2,265.25,,9.8,65.7,68.08,Partially cloudy
+"San Francisco, CA, United States",06/08/2017,66.6,61,63.3,,,0.04,0,0,12.9,228.42,25.3,9.6,74.4,68.84,"Rain, Partially cloudy"
+"San Francisco, CA, United States",06/09/2017,67.1,57.9,62,,,0,0,0,22.7,278,35.7,9.9,54.2,70.96,Partially cloudy
+"San Francisco, CA, United States",06/10/2017,68.6,56,61.2,,,0,0,0,22.2,277.21,31.1,9.9,30.5,65.73,Partially cloudy
+"San Francisco, CA, United States",06/11/2017,65.4,55.2,59.6,,,0,0,0,28.6,281.33,42.2,9.9,29.9,63.47,Partially cloudy
+"San Francisco, CA, United States",06/12/2017,66.6,53.7,59.8,,,0,0,0,17.3,257.17,36.7,9.9,34.8,68.81,Partially cloudy
+"San Francisco, CA, United States",06/13/2017,70,53.2,61,,,0,0,0,19.3,248.54,33.3,9.9,17.9,67.52,Clear
+"San Francisco, CA, United States",06/14/2017,73.6,53.4,62.5,,,0,0,0,21.6,278.92,39.1,9.9,10.4,63.58,Clear
+"San Francisco, CA, United States",06/15/2017,73.3,55.9,63.8,,,0,0,0,22.2,270.79,44.8,9.9,18.8,65.97,Clear
+"San Francisco, CA, United States",06/16/2017,75.5,59.5,67.6,,,0,0,0,20.4,271.13,36.8,9.9,13.6,65.05,Clear
+"San Francisco, CA, United States",06/17/2017,79.3,58.7,68.7,,,0,0,0,19.6,288.5,32.2,9.9,24,60.98,Clear
+"San Francisco, CA, United States",06/18/2017,96.5,67.1,77.3,,95.5,0,0,0,16.9,314.46,,9.7,8.5,52.22,Clear
+"San Francisco, CA, United States",06/19/2017,78.4,60.5,68.5,,,0,0,0,21.2,305.63,31.1,9.8,19.5,64.37,Clear
+"San Francisco, CA, United States",06/20/2017,74.7,58.8,65.1,,,0,0,0,21.7,294.5,35.6,9.7,10.1,68.92,Clear
+"San Francisco, CA, United States",06/21/2017,77.4,56.4,65.6,,,0,0,0,17.3,299.58,,9.8,23.9,68.37,Clear
+"San Francisco, CA, United States",06/22/2017,82.6,62.3,69.7,,82.6,0,0,0,17.7,313.96,23,8.5,4.3,62.69,Clear
+"San Francisco, CA, United States",06/23/2017,72.4,58.5,64.6,,,0,0,0,21.1,271.5,29.8,9.9,34.7,74.64,Partially cloudy
+"San Francisco, CA, United States",06/24/2017,69.7,59.2,63.1,,,0,0,0,20.1,296.33,34.4,9.9,63.8,75.38,Partially cloudy
+"San Francisco, CA, United States",06/25/2017,68.6,58.8,62.4,,,0,0,0,19.8,274.96,31.1,9.9,68,74.09,Partially cloudy
+"San Francisco, CA, United States",06/26/2017,73.5,60.9,65.7,,,0,0,0,20.6,274.21,29.8,9.9,56.5,67.43,Partially cloudy
+"San Francisco, CA, United States",06/27/2017,66.3,59.2,61.7,,,0,0,0,19.6,268.75,32.2,9.6,84.4,76.51,Overcast
+"San Francisco, CA, United States",06/28/2017,66.3,58.1,61.1,,,0,0,0,18.8,265.67,29.9,9.6,64.5,73.67,Partially cloudy
+"San Francisco, CA, United States",06/29/2017,66.3,57.5,60.5,,,0,0,0,21.8,266.75,39.1,9.1,69,73.44,Partially cloudy
+"San Francisco, CA, United States",06/30/2017,65.4,55.3,59.7,,,0,0,0,20.2,260.92,33.4,9.8,66.6,74.54,Partially cloudy
+"San Francisco, CA, United States",07/01/2017,66.1,55.7,59.6,,,0,0,0,19.8,262.75,34.4,9.4,61.5,74.55,Partially cloudy
+"San Francisco, CA, United States",07/02/2017,71,55.4,61.9,,,0,0,0,15,282.96,23,9.9,42.1,72.69,Partially cloudy
+"San Francisco, CA, United States",07/03/2017,72.8,56.9,62.6,,,0,0,0,17,306.42,26.4,9.9,47,73.58,Partially cloudy
+"San Francisco, CA, United States",07/04/2017,71.4,57.1,62.4,,,0,0,0,20.6,299.08,31.1,9.9,50.2,74.51,Partially cloudy
+"San Francisco, CA, United States",07/05/2017,68.5,56.2,61.2,,,0,0,0,19.5,292.33,29.8,9.9,53.9,74.66,Partially cloudy
+"San Francisco, CA, United States",07/06/2017,73.3,56.3,63.3,,,0,0,0,17.5,296.25,33.3,9.9,21.2,68.99,Clear
+"San Francisco, CA, United States",07/07/2017,81.2,57.4,67.8,,80.4,0,0,0,18.1,303.67,35.6,9.9,6.7,59.91,Clear
+"San Francisco, CA, United States",07/08/2017,77.7,59.9,67.5,,,0,0,0,19.5,296.75,32.2,9.9,20.1,59.54,Clear
+"San Francisco, CA, United States",07/09/2017,71.4,55.2,61.7,,,0,0,0,18,302.46,,9.8,31.9,72.31,Partially cloudy
+"San Francisco, CA, United States",07/10/2017,69.1,56.1,62.2,,,0,0,0,20.5,311.25,34.4,9.6,23,71.86,Clear
+"San Francisco, CA, United States",07/11/2017,74.1,56.1,63.3,,,0,0,0,19.5,288.92,29.8,9,16.3,66.76,Clear
+"San Francisco, CA, United States",07/12/2017,70.6,56.9,62.5,,,0,0,0,20.9,307.42,23,9.6,17,70.67,Clear
+"San Francisco, CA, United States",07/13/2017,70.2,55.7,62.2,,,0,0,0,18.6,300.13,,9.7,40.2,74.23,Partially cloudy
+"San Francisco, CA, United States",07/14/2017,74.4,57.1,63.2,,,0,0,0,21.5,315.25,29.9,9.7,39.6,73.24,Partially cloudy
+"San Francisco, CA, United States",07/15/2017,84,56.7,67.2,,82.9,0,0,0,18.5,294.67,,9.9,36,65.12,Partially cloudy
+"San Francisco, CA, United States",07/16/2017,83.9,60.3,70.7,,82.5,0,0,0,18.8,288.08,41.4,9.9,17.5,55.75,Clear
+"San Francisco, CA, United States",07/17/2017,72.6,59.8,65.2,,,0,0,0,18.9,293.58,31.1,9.5,8.1,63.15,Clear
+"San Francisco, CA, United States",07/18/2017,67.6,56.3,60.8,,,0,0,0,18.2,272.92,31.1,9.8,47,72.31,Partially cloudy
+"San Francisco, CA, United States",07/19/2017,70.6,56.5,62.5,,,0,0,0,19.9,272.63,34.4,9.9,34.1,69.9,Partially cloudy
+"San Francisco, CA, United States",07/20/2017,68.6,58,62.3,,,0,0,0,17.1,271.75,31.1,9.9,39.9,71.44,Partially cloudy
+"San Francisco, CA, United States",07/21/2017,71.3,56.9,62.7,,,0,0,0,18.9,266.21,33.4,9.9,25.7,69.4,Partially cloudy
+"San Francisco, CA, United States",07/22/2017,81.3,56.6,67.4,,80.8,0,0,0,14.7,249.58,,9.9,20.1,64.52,Clear
+"San Francisco, CA, United States",07/23/2017,72.3,58.6,64.5,,,0,0,0,19.9,306.29,33.3,9.9,22,70.77,Clear
+"San Francisco, CA, United States",07/24/2017,73.7,57.1,64.5,,,0,0,0,21.3,264.29,40.3,9.9,38.7,70.21,Partially cloudy
+"San Francisco, CA, United States",07/25/2017,74.3,59.6,65.9,,,0,0,0,15.8,233.33,,9.9,33.2,68.18,Partially cloudy
+"San Francisco, CA, United States",07/26/2017,72.2,57.5,62.9,,,0,0,0,18.2,300.88,32.2,9.8,43,77.05,Partially cloudy
+"San Francisco, CA, United States",07/27/2017,75.9,56.5,63.2,,,0,0,0,18.4,305.83,30.6,9,37,75.13,Partially cloudy
+"San Francisco, CA, United States",07/28/2017,67.2,56.9,60.9,,,0,0,0,20,300.63,32.2,9.5,28.7,77.81,Partially cloudy
+"San Francisco, CA, United States",07/29/2017,67.4,56.3,60.6,,,0,0,0,20,311.83,23,9.6,39.1,77.88,Partially cloudy
+"San Francisco, CA, United States",07/30/2017,70.5,56.7,61.8,,,0,0,0,17.7,285.17,,9.4,53.8,77.63,Partially cloudy
+"San Francisco, CA, United States",07/31/2017,69.5,56.9,61.7,,,0,0,0,18.8,291.46,30,9.9,50.7,78.51,Partially cloudy
+"San Francisco, CA, United States",08/01/2017,74.9,54.3,63.2,,,0,0,0,17.5,301.88,,9.9,26.2,74.83,Partially cloudy
+"San Francisco, CA, United States",08/02/2017,81.6,58.6,66.9,,81.3,0,0,0,17.3,307.42,,9.9,36.3,69.8,Partially cloudy
+"San Francisco, CA, United States",08/03/2017,75.8,64.3,69.9,,,0,0,0,15.7,279.63,24.2,9.9,64.5,65.8,Partially cloudy
+"San Francisco, CA, United States",08/04/2017,73.4,63.2,69,,,0,0,0,14.7,286.88,32.2,9.9,60.4,71.6,Partially cloudy
+"San Francisco, CA, United States",08/05/2017,71.8,60,64.6,,,0,0,0,19.8,296.63,29.8,9.9,53,81.65,Partially cloudy
+"San Francisco, CA, United States",08/06/2017,69.9,60.9,64,,,0,0,0,21.2,282.92,30,9.9,61.2,77.26,Partially cloudy
+"San Francisco, CA, United States",08/07/2017,70.1,61.6,64.2,,,0,0,0,19.2,270.08,29.8,9.8,73.3,75.06,Partially cloudy
+"San Francisco, CA, United States",08/08/2017,69.6,59.8,63.4,,,0,0,0,19.7,269.96,29.8,9.5,75.2,78.76,Overcast
+"San Francisco, CA, United States",08/09/2017,65.9,58.7,61.5,,,0,0,0,18.1,262.75,30.1,9.4,94.6,83.04,Overcast
+"San Francisco, CA, United States",08/10/2017,68.9,59.2,62.2,,,0,0,0,19.4,267.13,30.6,9.6,73.3,80.86,Partially cloudy
+"San Francisco, CA, United States",08/11/2017,69.5,58.7,62.4,,,0,0,0,21.3,269.21,34.4,9.6,65.5,80.55,Partially cloudy
+"San Francisco, CA, United States",08/12/2017,68.6,59.8,62.6,,,0,0,0,17.1,280.29,31.1,9.4,68.6,76.5,Partially cloudy
+"San Francisco, CA, United States",08/13/2017,69.4,58.6,63.4,,,0,0,0,17.8,268.38,32.2,9.8,59.3,75.39,Partially cloudy
+"San Francisco, CA, United States",08/14/2017,63.3,58.3,61.1,,,0,0,0,17.7,251.38,26.4,9,93.7,80.75,Overcast
+"San Francisco, CA, United States",08/15/2017,68.7,58.7,61.7,,,0,0,0,17.3,249.54,28.8,9.9,61.5,73.82,Partially cloudy
+"San Francisco, CA, United States",08/16/2017,72.8,60.2,64.9,,,0,0,0,15.9,249.13,21.9,9.8,41.9,70.68,Partially cloudy
+"San Francisco, CA, United States",08/17/2017,71.7,60.8,65.1,,,0,0,0,19.9,311.17,,9.3,39.7,74.89,Partially cloudy
+"San Francisco, CA, United States",08/18/2017,71.1,60.9,64.6,,,0,0,0,18.4,284.58,,9.7,44.7,76.02,Partially cloudy
+"San Francisco, CA, United States",08/19/2017,72.4,59.8,64.1,,,0,0,0,13.5,277.17,18.3,9.6,55.1,78.88,Partially cloudy
+"San Francisco, CA, United States",08/20/2017,72.4,61.4,65.4,,,0,0,0,14.3,262.17,,9.9,42.3,73.76,Partially cloudy
+"San Francisco, CA, United States",08/21/2017,73.2,62.4,65.6,,,0,0,0,16.6,266,16.1,9.9,54.9,75.23,Partially cloudy
+"San Francisco, CA, United States",08/22/2017,72.1,60.7,64.7,,,0,0,0,20.5,294.58,31.1,9.7,43.9,75.33,Partially cloudy
+"San Francisco, CA, United States",08/23/2017,69.1,59.3,62.5,,,0,0,0,19.4,287.67,29.8,8.3,62.3,81.37,Partially cloudy
+"San Francisco, CA, United States",08/24/2017,67.7,58.7,61.8,,,0,0,0,14.9,271.33,,9.7,66.7,79.9,Partially cloudy
+"San Francisco, CA, United States",08/25/2017,69.9,56.7,61.3,,,0,0,0,19,294.63,31.1,9.2,32.5,78.22,Partially cloudy
+"San Francisco, CA, United States",08/26/2017,81.7,53.7,66,,81.1,0,0,0,16.1,308.08,,9.8,13,72.25,Clear
+"San Francisco, CA, United States",08/27/2017,78.9,59.7,68,,,0,0,0,16.9,302.08,29.9,9.4,15.8,70.27,Clear
+"San Francisco, CA, United States",08/28/2017,73.8,58.7,64.4,,,0,0,0,19.8,299.5,31.1,9.3,20,79.52,Clear
+"San Francisco, CA, United States",08/29/2017,66.5,58.2,61.6,,,0,0,0,18.2,287.33,32.2,9.4,49.5,81.07,Partially cloudy
+"San Francisco, CA, United States",08/30/2017,69.1,56.3,61.4,,,0,0,0,18.5,290.08,31.1,9.9,42.2,78.13,Partially cloudy
+"San Francisco, CA, United States",08/31/2017,88.2,55.3,69.7,,86.1,0,0,0,13.8,253,,9.3,9.6,64.59,Clear
+"San Francisco, CA, United States",09/01/2017,98.8,66.3,81,,95.8,0,0,0,13.4,178.63,,7.2,11.4,43.09,Clear
+"San Francisco, CA, United States",09/02/2017,100.6,71.2,83.3,,98.4,0,0,0,14.3,230.63,,7.6,16,38.83,Clear
+"San Francisco, CA, United States",09/03/2017,87.1,70.4,77.6,,86.5,0,0,0,13.8,291.13,,7.5,57.8,53.16,Partially cloudy
+"San Francisco, CA, United States",09/04/2017,81.6,67.3,73.4,,83,0,0,0,10.8,298.75,,5.4,75.5,66.74,Overcast
+"San Francisco, CA, United States",09/05/2017,81.1,67.1,73.1,,82.8,0,0,0,14,252.5,,9.6,44.7,72.78,Partially cloudy
+"San Francisco, CA, United States",09/06/2017,76.9,63.6,68.6,,,0,0,0,16.2,249.75,,9,48.8,77.27,Partially cloudy
+"San Francisco, CA, United States",09/07/2017,72.1,64.4,68.1,,,0,0,0,11.8,233.79,,9.8,68.2,76.1,Partially cloudy
+"San Francisco, CA, United States",09/08/2017,70.4,61.4,64.2,,,0,0,0,17.4,268.33,,9.4,73.8,84.66,Partially cloudy
+"San Francisco, CA, United States",09/09/2017,74.3,61.7,66,,,0,0,0,18.5,272.46,29.8,9.9,54.7,80.09,Partially cloudy
+"San Francisco, CA, United States",09/10/2017,91.8,60,71.9,,91.4,0,0,0,12.8,300.83,,9.9,25.1,68.96,Partially cloudy
+"San Francisco, CA, United States",09/11/2017,84.5,67.1,73.5,,82.7,0.12,0,0,17.6,206.54,23,9.6,58.6,63.77,"Rain, Partially cloudy"
+"San Francisco, CA, United States",09/12/2017,81.5,65.1,70.6,,83.3,0,0,0,17.1,186.08,29.1,9.8,38.9,76.68,Partially cloudy
+"San Francisco, CA, United States",09/13/2017,72.3,64.8,67.1,,,0,0,0,14.6,252.96,23,9.9,70.4,76.27,Partially cloudy
+"San Francisco, CA, United States",09/14/2017,69.7,61.4,64.4,,,0,0,0,18.6,256.38,33.3,9.9,54.4,72.05,Partially cloudy
+"San Francisco, CA, United States",09/15/2017,70.8,57.5,62.9,,,0,0,0,19,277.08,28.9,9.9,27.5,70.62,Partially cloudy
+"San Francisco, CA, United States",09/16/2017,71.1,55.8,62.1,,,0,0,0,17.2,279.79,,9.9,38.8,76.67,Partially cloudy
+"San Francisco, CA, United States",09/17/2017,70.7,57.6,63.1,,,0,0,0,17.4,222.17,29.9,9.9,51.1,75.6,Partially cloudy
+"San Francisco, CA, United States",09/18/2017,71.4,61.6,65.6,,,0,0,0,20.6,265.58,30.1,9.9,71.5,78.33,Partially cloudy
+"San Francisco, CA, United States",09/19/2017,72.1,56.1,63.9,,,0,0,0,18.5,284.08,34.4,9.9,22,65.14,Clear
+"San Francisco, CA, United States",09/20/2017,70.6,59.6,64.1,,,0,0,0,19.8,273.83,26.4,9.7,53.7,75.49,Partially cloudy
+"San Francisco, CA, United States",09/21/2017,66.5,56.6,61.2,,,0,0,0,25.4,282.83,39.9,9.9,22.3,62.84,Clear
+"San Francisco, CA, United States",09/22/2017,68,55.8,60.9,,,0,0,0,15,266.42,17.2,9.9,27,64.85,Partially cloudy
+"San Francisco, CA, United States",09/23/2017,76.1,52,62.8,,,0,0,0,21.5,246.63,32.2,9.9,3.3,58.39,Clear
+"San Francisco, CA, United States",09/24/2017,78,52.9,64.1,,,0,0,0,20.5,216.96,29.8,9.9,22.1,56.03,Clear
+"San Francisco, CA, United States",09/25/2017,80.5,54.8,65.6,,79.3,0,0,0,15,222.67,,9.9,15.9,55.93,Clear
+"San Francisco, CA, United States",09/26/2017,89.6,57.6,70.4,,85.7,0,0,0,13.3,233.21,20.8,9.9,10.8,49.65,Clear
+"San Francisco, CA, United States",09/27/2017,86.3,60.2,71.3,,83.2,0,0,0,12.5,236.88,,9.9,8.1,46.98,Clear
+"San Francisco, CA, United States",09/28/2017,80.4,57.5,66.1,,79.5,0,0,0,18.4,280.25,,9.9,17.3,60.72,Clear
+"San Francisco, CA, United States",09/29/2017,66.6,57.5,61.6,,,0,0,0,20.4,283.21,36.8,9.9,57.9,80.54,Partially cloudy
+"San Francisco, CA, United States",09/30/2017,72.8,58.2,63.2,,,0,0,0,18.8,265.58,33.3,9.8,51.1,73.1,Partially cloudy
+"San Francisco, CA, United States",10/01/2017,71.9,54.4,62,,,0,0,0,20.6,279.79,36.7,9.9,30.7,64.18,Partially cloudy
+"San Francisco, CA, United States",10/02/2017,72.8,56,63.4,,,0,0,0,20.7,273.58,32.8,9.9,6.7,48.01,Clear
+"San Francisco, CA, United States",10/03/2017,71.4,52.6,60.1,,,0,0,0,18.8,283,28.8,9.9,11.8,60.27,Clear
+"San Francisco, CA, United States",10/04/2017,74.7,50.4,60.2,,,0,0,0,14.2,269.92,,9.9,8.2,60.83,Clear
+"San Francisco, CA, United States",10/05/2017,75.8,50,61.3,,,0,0,0,14.7,266,,9.9,1.9,59.53,Clear
+"San Francisco, CA, United States",10/06/2017,81,51.6,63.8,,79.3,0,0,0,15.1,250.08,,9.9,4.3,52.7,Clear
+"San Francisco, CA, United States",10/07/2017,77.3,52.8,62.3,,,0,0,0,17.9,289.75,33.3,9.9,11.7,63.55,Clear
+"San Francisco, CA, United States",10/08/2017,77.7,51.1,63.6,,,0,0,0,13.5,227.13,18.3,9.5,3.7,60.7,Clear
+"San Francisco, CA, United States",10/09/2017,77.2,62.9,69.6,,,0,0,0,18.3,158.96,39.1,9.7,13.1,26.64,Clear
+"San Francisco, CA, United States",10/10/2017,74.4,53.8,61.4,,,0,0,0,18.6,225.13,31.1,8.9,38,61.7,Partially cloudy
+"San Francisco, CA, United States",10/11/2017,65.3,51.2,57.1,,,0,0,0,15.3,296.63,,7.5,67.4,70.86,Partially cloudy
+"San Francisco, CA, United States",10/12/2017,68.8,49.5,57.6,48,,0,0,0,14.7,275.29,,7.4,42.1,54.74,Partially cloudy
+"San Francisco, CA, United States",10/13/2017,71.8,48.1,57.9,45.9,,0,0,0,15.1,227.13,,6.8,36.1,57.36,Partially cloudy
+"San Francisco, CA, United States",10/14/2017,77.9,49.7,63.2,49,,0,0,0,9.1,98.38,23,8.8,23.4,43.39,Clear
+"San Francisco, CA, United States",10/15/2017,79.5,52.9,65.2,,,0,0,0,8.3,176.54,,9.9,18.5,40.01,Clear
+"San Francisco, CA, United States",10/16/2017,80.5,54.4,65.7,,79,0,0,0,7,180.5,,9.7,34.8,47.39,Partially cloudy
+"San Francisco, CA, United States",10/17/2017,75.1,52,61.6,,,0,0,0,12,191.63,,8.8,43.7,56.35,Partially cloudy
+"San Francisco, CA, United States",10/18/2017,62.5,45.8,53.3,44.1,,0,0,0,19.4,266.79,17.2,8.4,36.1,84.42,Partially cloudy
+"San Francisco, CA, United States",10/19/2017,64,54.6,59.3,,,0,0,0,16.6,240.42,26.4,9.8,81,80.95,Overcast
+"San Francisco, CA, United States",10/20/2017,63,53.1,57.2,,,0.16,0,0,24.7,278.92,41.6,9.5,55.6,76.08,"Rain, Partially cloudy"
+"San Francisco, CA, United States",10/21/2017,66.3,48.1,56.9,47.1,,0,0,0,16.3,275.75,,9.9,20.3,70.47,Clear
+"San Francisco, CA, United States",10/22/2017,71.7,50.6,60,,,0,0,0,12.3,213.83,,9.9,4.2,76.62,Clear
+"San Francisco, CA, United States",10/23/2017,83.4,55,67.6,,81.7,0,0,0,8.5,107.04,24.2,9.9,13,61.17,Clear
+"San Francisco, CA, United States",10/24/2017,89.2,63.5,74.1,,85.7,0,0,0,11.7,169.5,,9.9,13.9,47.52,Clear
+"San Francisco, CA, United States",10/25/2017,81.4,59.9,69.1,,80.5,0,0,0,12.3,193.67,,9.9,1.9,57.19,Clear
+"San Francisco, CA, United States",10/26/2017,82.5,59.4,68.5,,80.9,0,0,0,11.1,180.5,,9.9,1,58.78,Clear
+"San Francisco, CA, United States",10/27/2017,79.6,55.8,64.5,,,0,0,0,11.2,275.5,,9.9,2.4,66.88,Clear
+"San Francisco, CA, United States",10/28/2017,66,51.8,56.7,,,0,0,0,17.7,308.46,29.8,9.3,30.4,85.36,Partially cloudy
+"San Francisco, CA, United States",10/29/2017,61.6,53.1,55.8,,,0,0,0,14.5,274.29,,8.6,76.6,87.07,Overcast
+"San Francisco, CA, United States",10/30/2017,61.1,54.8,57.2,,,0,0,0,20.5,247.5,34.4,9.9,74.7,72.9,Partially cloudy
+"San Francisco, CA, United States",10/31/2017,65.1,51.1,57.7,,,0,0,0,13,220.25,,9.9,29.4,72.69,Partially cloudy
+"San Francisco, CA, United States",11/01/2017,65.7,49.3,56.2,48.3,,0,0,0,14.7,202,,9.9,11.5,75.95,Clear
+"San Francisco, CA, United States",11/02/2017,65,49.6,57.4,48.4,,0,0,0,10.6,189.25,,9.7,36.4,71.92,Partially cloudy
+"San Francisco, CA, United States",11/03/2017,65.4,56.3,60.3,,,0.06,0,0,15.1,139.58,23,9.8,79.4,70.87,"Rain, Overcast"
+"San Francisco, CA, United States",11/04/2017,61.2,51.3,56.9,,,0.39,0,0,15.2,241.42,25.3,9.5,60.5,70.81,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/05/2017,59,48.7,53.7,44.6,,0,0,0,12.6,268.67,,9.9,27,65.7,Partially cloudy
+"San Francisco, CA, United States",11/06/2017,62.4,50,54.9,48,,0,0,0,13.2,219.67,,9.9,42.6,70.51,Partially cloudy
+"San Francisco, CA, United States",11/07/2017,63.6,44.9,54,45.2,,0,0,0,6.7,194.54,,9.9,16.7,65.97,Clear
+"San Francisco, CA, United States",11/08/2017,63.8,50,57.9,,,0.02,0,0,15.8,143,32.2,9.8,75.3,71.38,"Rain, Overcast"
+"San Francisco, CA, United States",11/09/2017,66.6,56.6,61.2,,,0.09,0,0,17.1,184.04,31.7,9.5,61.5,80.93,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/10/2017,63.4,55.4,58.6,,,0.06,0,0,9,197.38,,9.8,55.5,84.22,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/11/2017,63.3,53.3,57.4,,,0,0,0,12.2,228.88,,9.6,53.2,81.12,Partially cloudy
+"San Francisco, CA, United States",11/12/2017,63.3,49.8,56.1,,,0,0,0,6.7,136.38,,9.9,40.2,76.57,Partially cloudy
+"San Francisco, CA, United States",11/13/2017,66.1,54.3,59.2,,,0.01,0,0,9.6,176.67,,9.8,68.3,78.28,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/14/2017,63.4,52.8,57.5,,,0,0,0,10.7,300.88,,9.8,41.9,74.35,Partially cloudy
+"San Francisco, CA, United States",11/15/2017,64.4,53.5,57.7,,,0.05,0,0,17.1,162.79,26.4,9.9,71.3,69.93,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/16/2017,60.6,54.6,56.8,,,1.63,0,0,20.3,247.13,32.2,5.6,71.4,92,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/17/2017,61.9,49.1,55.2,47.5,,0.02,0,0,14.9,183.79,17.2,9.7,31.4,70.61,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/18/2017,60.4,41.4,51.3,38.4,,0,0,0,10,193.25,,9.9,30.3,63.49,Partially cloudy
+"San Francisco, CA, United States",11/19/2017,59.2,43.7,52.1,42.6,,0,0,0,6.7,181.79,,9.9,49.8,74.89,Partially cloudy
+"San Francisco, CA, United States",11/20/2017,64.3,55.7,59.2,,,0,0,0,5.3,146.88,,9.9,86.3,72.14,Overcast
+"San Francisco, CA, United States",11/21/2017,65.1,55.4,59.7,,,0,0,0,9,158.92,,8.7,52.9,79.1,Partially cloudy
+"San Francisco, CA, United States",11/22/2017,65.7,52.8,60,,,0,0,0,8.5,178.92,,8.3,50.9,82.39,Partially cloudy
+"San Francisco, CA, United States",11/23/2017,64.7,56.1,60.7,,,0,0,0,6.3,186.96,,9.7,68.9,85.77,Partially cloudy
+"San Francisco, CA, United States",11/24/2017,66.6,54.2,60.3,,,0,0,0,8.2,273.83,,8.9,55.3,86.67,Partially cloudy
+"San Francisco, CA, United States",11/25/2017,66.9,55.2,61.3,,,0,0,0,8,174.25,,9.9,57.3,77.57,Partially cloudy
+"San Francisco, CA, United States",11/26/2017,63.6,59.2,61.9,,,0.1,0,0,18.5,193.08,30.7,8.4,61.2,79.43,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/27/2017,58.5,48.7,54.1,47.1,,0.27,0,0,18.9,264.88,41.4,9.5,34.9,73.45,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/28/2017,59.7,44.6,52,42.5,,0,0,0,11.1,208.63,,9.9,27.7,80.23,Partially cloudy
+"San Francisco, CA, United States",11/29/2017,62.3,46,53.3,45.2,,0,0,0,8.8,197.92,,9.9,18.2,74.31,Clear
+"San Francisco, CA, United States",11/30/2017,62.9,47.1,53.3,46,,0,0,0,11.2,195.08,,9.9,28,71.18,Partially cloudy
+"San Francisco, CA, United States",12/01/2017,58.3,45,51.3,42.7,,0,0,0,8.7,285.83,,9.8,32.6,82.89,Partially cloudy
+"San Francisco, CA, United States",12/02/2017,56.9,46,51.8,43.9,,0,0,0,5.9,175.79,,9.1,55.3,79.81,Partially cloudy
+"San Francisco, CA, United States",12/03/2017,57.8,48.9,53.5,46.9,,0.03,0,0,15.5,282.96,24.2,9.8,29.5,63.56,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/04/2017,62.6,44.8,54.3,40.6,,0,0,0,17.9,136.88,35.8,9.9,11.9,38.75,Clear
+"San Francisco, CA, United States",12/05/2017,65.1,47.9,55.4,46.2,,0,0,0,12.2,184.08,23,9.9,0,37.23,Clear
+"San Francisco, CA, United States",12/06/2017,62.8,40.7,52.2,37,,0,0,0,10.6,101.17,,9.9,4.1,49.54,Clear
+"San Francisco, CA, United States",12/07/2017,61.6,45.4,52.8,41.5,,0,0,0,8.9,171.38,,9.9,28,51.99,Partially cloudy
+"San Francisco, CA, United States",12/08/2017,61.8,41.8,50.9,42,,0,0,0,6.1,152.38,,9.9,42.9,59.88,Partially cloudy
+"San Francisco, CA, United States",12/09/2017,63,41.4,51,42.3,,0,0,0,9.5,113.83,,9.8,38.2,61.83,Partially cloudy
+"San Francisco, CA, United States",12/10/2017,61.8,40.9,51.5,40.1,,0,0,0,6.6,138.63,,9.9,22.6,59.01,Clear
+"San Francisco, CA, United States",12/11/2017,61.7,42.3,51.5,40.5,,0,0,0,4.8,147.54,,9.9,46.5,60.62,Partially cloudy
+"San Francisco, CA, United States",12/12/2017,59.5,41.2,49.9,39.8,,0,0,0,6.3,136.79,,9.9,22.7,68.4,Clear
+"San Francisco, CA, United States",12/13/2017,58,39.4,48.9,38.6,,0,0,0,7.2,222.04,,9.7,24.9,72.16,Clear
+"San Francisco, CA, United States",12/14/2017,63.9,40.9,50.9,38.6,,0,0,0,7.6,188.5,,9.6,18.7,68.88,Clear
+"San Francisco, CA, United States",12/15/2017,56.7,42.1,50.5,39.4,,0,0,0,10.6,219.04,,7.1,47.9,76.41,Partially cloudy
+"San Francisco, CA, United States",12/16/2017,63.9,45.4,56.1,43.7,,0,0,0,22.2,318.5,35.6,9.3,30.7,43.92,Partially cloudy
+"San Francisco, CA, United States",12/17/2017,63.1,49.4,55.4,46.8,,0,0,0,10.4,153.38,23,9.9,33.7,32.57,Partially cloudy
+"San Francisco, CA, United States",12/18/2017,58.5,42.8,50.1,41.7,,0,0,0,5.7,141.42,,9.9,18.2,57.92,Clear
+"San Francisco, CA, United States",12/19/2017,58,41.3,49.6,44,,0,0,0,13.5,184.88,,9.9,52,71.78,Partially cloudy
+"San Francisco, CA, United States",12/20/2017,55.3,45.7,50.8,42.4,,0.05,0,0,17.7,288.42,30,9.6,36.4,67.92,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/21/2017,56.9,41.2,48.2,38.7,,0,0,0,10.8,247.54,20.8,9.9,7.2,50.7,Clear
+"San Francisco, CA, United States",12/22/2017,53.6,37.1,45.1,34.2,,0,0,0,9.6,182.21,,9.8,47.2,62.34,Partially cloudy
+"San Francisco, CA, United States",12/23/2017,53.1,43.3,48.3,39.4,,0,0,0,6.4,115.54,,9,68.4,63.99,Partially cloudy
+"San Francisco, CA, United States",12/24/2017,53.2,45.6,49.7,44.4,,0,0,0,5.5,102.75,,9.7,74.3,67.25,Partially cloudy
+"San Francisco, CA, United States",12/25/2017,55.8,44.6,50.5,41.6,,0,0,0,8.6,128.58,,9.5,69.2,65.95,Partially cloudy
+"San Francisco, CA, United States",12/26/2017,59,41.1,49.3,38.3,,0,0,0,13.8,181.21,,9.9,29.3,73.67,Partially cloudy
+"San Francisco, CA, United States",12/27/2017,55.3,41.4,47.6,38.8,,0,0,0,6.9,223.38,,8.1,39.1,85.66,Partially cloudy
+"San Francisco, CA, United States",12/28/2017,57.2,40.9,49.1,40.6,,0,0,0,6.5,130.71,,9.8,28.5,79.83,Partially cloudy
+"San Francisco, CA, United States",12/29/2017,56.9,42.9,49.9,42.8,,0,0,0,6.1,176.63,,9.1,38.7,77.66,Partially cloudy
+"San Francisco, CA, United States",12/30/2017,55.8,41.7,48.8,39.8,,0,0,0,4.8,126.42,,7.1,52.4,82.58,Partially cloudy
+"San Francisco, CA, United States",12/31/2017,57.5,43.6,50.2,45.7,,0,0,0,5.3,135.17,,7.3,73.7,82.33,Partially cloudy
+"San Francisco, CA, United States",01/01/2018,56.7,43.3,50.8,,,0,0,0,5.5,157.92,,7.4,69.4,84.54,Partially cloudy
+"San Francisco, CA, United States",01/02/2018,57.1,47.6,52.5,46.3,,0,0,0,6.2,97.96,,8.9,82.7,77.13,Overcast
+"San Francisco, CA, United States",01/03/2018,54.8,49.3,52.7,,,0.44,0,0,8.1,111.63,,5.7,90.7,84.17,"Rain, Overcast"
+"San Francisco, CA, United States",01/04/2018,60.7,53.4,56.8,,,0.05,0,0,8.3,149.75,,7.8,90.5,87.38,"Rain, Overcast"
+"San Francisco, CA, United States",01/05/2018,61.5,52.6,57.3,,,0.25,0,0,11.4,193.04,19.7,8.1,96.8,90.59,"Rain, Overcast"
+"San Francisco, CA, United States",01/06/2018,56.7,48.4,53,46.5,,0.02,0,0,9.5,255,,8.8,62.1,86.74,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/07/2018,52.1,45.5,49.6,42.9,,0,0,0,6.3,119.25,,7.9,81.2,89.34,Overcast
+"San Francisco, CA, United States",01/08/2018,58,50.8,53.8,,,2.2,0,0,6.7,98.17,,4.4,99.8,93.57,"Rain, Overcast"
+"San Francisco, CA, United States",01/09/2018,57.5,52.1,55.7,,,0.83,0,0,19.9,236.46,46,8.5,94.2,89.41,"Rain, Overcast"
+"San Francisco, CA, United States",01/10/2018,56.2,47.8,52.9,43.3,,0,0,0,18.5,210.38,35.6,9.4,75.3,83.35,Overcast
+"San Francisco, CA, United States",01/11/2018,58.2,52.3,54.8,,,0,0,0,7.5,263.08,,8.5,82.7,87.31,Overcast
+"San Francisco, CA, United States",01/12/2018,56.3,50.4,52.3,,,0,0,0,6.3,118.33,,6.4,72.5,91.31,Partially cloudy
+"San Francisco, CA, United States",01/13/2018,61.6,45.3,52.3,42.7,,0,0,0,12,81,,8.7,39.1,83.78,Partially cloudy
+"San Francisco, CA, United States",01/14/2018,54.8,47.4,51.3,43.6,,0,0,0,11.6,142.04,,7.5,69.1,86.02,Partially cloudy
+"San Francisco, CA, United States",01/15/2018,57.8,46.5,53,46,,0,0,0,8.5,164.79,,6.5,75.4,83.85,Overcast
+"San Francisco, CA, United States",01/16/2018,59.5,55.1,56.7,,,0,0,0,10.2,147.04,,7.8,94.4,86.03,Overcast
+"San Francisco, CA, United States",01/17/2018,58.3,51.7,54.9,,,0,0,0,8.8,163.08,,6,75.3,89.31,Overcast
+"San Francisco, CA, United States",01/18/2018,58.4,51.2,53.3,,,0.12,0,0,12.8,213,,4.1,96.4,92.69,"Rain, Overcast"
+"San Francisco, CA, United States",01/19/2018,55.8,46.5,51.2,44.7,,0.01,0,0,14.2,239.21,,9.9,58.9,75.01,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/20/2018,55.5,42,48.4,39.7,,0,0,0,10.1,266.13,,9.9,13.4,70.44,Clear
+"San Francisco, CA, United States",01/21/2018,56.2,40.4,48.5,38.4,,0,0,0,9.3,136.46,,9.9,52.5,76.99,Partially cloudy
+"San Francisco, CA, United States",01/22/2018,57.6,50.4,53.3,,,0.25,0,0,12.5,207.13,,8.3,79.4,80.19,"Rain, Overcast"
+"San Francisco, CA, United States",01/23/2018,55.8,43.7,50.4,42.1,,0,0,0,7.8,201.13,,9.9,43.7,81,Partially cloudy
+"San Francisco, CA, United States",01/24/2018,59.2,44.1,49.9,42,,0.26,0,0,21.4,130.46,42.8,8.6,70.9,86.09,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/25/2018,56.4,44.2,50.2,42.5,,0.1,0,0,14.2,214.96,,9.8,63.1,76.54,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/26/2018,54.3,41.4,48.3,39.3,,0,0,0,10.6,214.25,,9.9,46.4,79.49,Partially cloudy
+"San Francisco, CA, United States",01/27/2018,59.2,40.8,49.8,36.9,,0,0,0,9.2,225.25,,9.9,52.9,77.89,Partially cloudy
+"San Francisco, CA, United States",01/28/2018,67.4,46.8,55.8,45.2,,0,0,0,10.4,91.13,,9.9,33.4,64.24,Partially cloudy
+"San Francisco, CA, United States",01/29/2018,59,47.2,53.3,44.6,,0,0,0,7.5,164,,9.9,73.4,77.01,Partially cloudy
+"San Francisco, CA, United States",01/30/2018,63.9,46.4,54,48.8,,0,0,0,9.3,202.33,,9.7,54.9,79,Partially cloudy
+"San Francisco, CA, United States",01/31/2018,64.9,45.2,53.9,43.6,,0,0,0,11.1,197.5,20.8,9.7,45,78.08,Partially cloudy
+"San Francisco, CA, United States",02/01/2018,69,49.4,57.2,,,0,0,0,7,229.17,,9.9,62.2,67.51,Partially cloudy
+"San Francisco, CA, United States",02/02/2018,71,49.8,58.8,,,0,0,0,8.9,176.21,19.7,9.9,46.9,66.22,Partially cloudy
+"San Francisco, CA, United States",02/03/2018,73.2,49.3,61.7,,,0,0,0,13.2,141.17,23,9.9,15.8,61.34,Clear
+"San Francisco, CA, United States",02/04/2018,70.7,52.5,60.3,,,0,0,0,9.2,253.08,,9.9,37.4,68.89,Partially cloudy
+"San Francisco, CA, United States",02/05/2018,70.2,50.4,57.9,,,0,0,0,12.6,156.63,24.2,9.9,23.3,74.5,Clear
+"San Francisco, CA, United States",02/06/2018,72,49.9,60.4,,,0,0,0,6.3,146.54,,9.9,7.2,54.59,Clear
+"San Francisco, CA, United States",02/07/2018,70.1,51.9,60.4,,,0,0,0,9.1,139.54,,9.7,1.9,55.19,Clear
+"San Francisco, CA, United States",02/08/2018,70.7,50.6,58.9,,,0,0,0,9.3,192.88,,8.3,13.8,69,Clear
+"San Francisco, CA, United States",02/09/2018,72,49.4,58.6,,,0,0,0,11.5,198.79,21.9,9.9,28.8,66.73,Partially cloudy
+"San Francisco, CA, United States",02/10/2018,65.6,49.6,57.8,45.8,,0,0,0,17.1,294.92,24.2,9.8,31.3,60.98,Partially cloudy
+"San Francisco, CA, United States",02/11/2018,59,43.8,51.6,41.8,,0,0,0,29.7,243.54,38.6,9.9,36.9,58.17,Partially cloudy
+"San Francisco, CA, United States",02/12/2018,58.9,44.4,50.9,39.6,,0,0,0,15.1,285.92,18.3,9.9,28,63.56,Partially cloudy
+"San Francisco, CA, United States",02/13/2018,60.6,46.8,53.7,41.9,,0,0,0,11.6,192.96,,9.9,8.6,40.68,Clear
+"San Francisco, CA, United States",02/14/2018,58.3,42.2,50.2,40.2,,0,0,0,20.1,172.29,24.2,9.9,41.8,62.74,Partially cloudy
+"San Francisco, CA, United States",02/15/2018,62.8,42,51.4,39.6,,0,0,0,15.3,264,,9.9,7.1,61.73,Clear
+"San Francisco, CA, United States",02/16/2018,62,41,50.6,37.4,,0,0,0,12.7,228.88,,9.9,7.7,58.03,Clear
+"San Francisco, CA, United States",02/17/2018,64.9,43.7,52.6,42.4,,0,0,0,16.1,220.96,21.9,9.9,11,64.82,Clear
+"San Francisco, CA, United States",02/18/2018,56.2,45.5,51.4,38.1,,0.01,0,0,27.5,281.75,37.1,9.9,59,68.77,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/19/2018,51.9,42.8,46.4,34.8,,0,0,0,17.9,316,35.6,9.9,36.3,51.84,Partially cloudy
+"San Francisco, CA, United States",02/20/2018,50.9,34.7,44.4,30.8,,0,0,0,14.7,227.63,,9.9,41.3,55.64,Partially cloudy
+"San Francisco, CA, United States",02/21/2018,55.3,41.2,47.8,37.9,,0,0,0,15.2,196.21,,9.9,46,59.1,Partially cloudy
+"San Francisco, CA, United States",02/22/2018,54.6,44.4,48.6,38.5,,0.01,0,0,32.1,290.33,40,9.9,54.8,59.7,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/23/2018,53.9,38.9,45.9,35,,0,0,0,17.4,321.79,21.9,9.9,5,48.62,Clear
+"San Francisco, CA, United States",02/24/2018,54.5,38.3,46.5,33.9,,0,0,0,22.7,214.46,32.8,9.9,40.6,66.2,Partially cloudy
+"San Francisco, CA, United States",02/25/2018,56.3,38.8,47.9,36.5,,0,0,0,17.8,259.63,34.4,9.9,24.2,69.53,Clear
+"San Francisco, CA, United States",02/26/2018,53.1,44.9,49.5,39.7,,0.2,0,0,21.1,234.25,35,9.2,83.1,72.7,"Rain, Overcast"
+"San Francisco, CA, United States",02/27/2018,55.5,44.1,48.8,38,,0,0,0,13.6,283.13,32.2,9.9,36,41.6,Partially cloudy
+"San Francisco, CA, United States",02/28/2018,54.1,39.1,48,36.2,,0,0,0,13,157.04,,9.9,73.5,69.73,Partially cloudy
+"San Francisco, CA, United States",03/01/2018,57.3,49.3,52.8,42.3,,0.98,0,0,22.7,196.17,40.3,7.2,93.1,81.75,"Rain, Overcast"
+"San Francisco, CA, United States",03/02/2018,53.7,43.8,48.4,41.6,,0.23,0,0,16.2,207.71,33.3,9.4,89.9,75.93,"Rain, Overcast"
+"San Francisco, CA, United States",03/03/2018,51.1,42.3,46.7,38.4,,0.13,0,0,16.8,214.5,29.8,9.6,69.1,77.06,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/04/2018,54.6,39.5,47.2,35.5,,0.04,0,0,10.8,208.5,,9.8,40.6,72.88,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/05/2018,61.4,39.9,50.7,37.1,,0,0,0,10.7,77.83,17.2,9.9,17.9,58.03,Clear
+"San Francisco, CA, United States",03/06/2018,63.3,44.1,53.2,42.2,,0,0,0,8.4,187.5,,9.9,51.2,58.93,Partially cloudy
+"San Francisco, CA, United States",03/07/2018,66.8,51.5,57.7,,,0,0,0,12.2,149.17,,9.9,69,53.16,Partially cloudy
+"San Francisco, CA, United States",03/08/2018,63.8,52.2,57.5,,,0.08,0,0,15.3,226.25,,9.8,83.9,78.49,"Rain, Overcast"
+"San Francisco, CA, United States",03/09/2018,62,49.5,53,47.6,,0,0,0,14.1,270.46,,7.5,85.2,87.04,Overcast
+"San Francisco, CA, United States",03/10/2018,57.1,50.3,53.6,,,0,0,0,8.2,290.08,,9.1,84.4,87.7,Overcast
+"San Francisco, CA, United States",03/11/2018,64.1,46.9,53.7,45.6,,0,0,0,9.8,263.08,,5.4,67.5,84.84,Partially cloudy
+"San Francisco, CA, United States",03/12/2018,67.6,49.8,57.9,,,0.11,0,0,13.9,168.29,24.2,9.1,68.4,82.21,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/13/2018,61.5,50.8,58.1,,,0.29,0,0,17.7,208.5,29.8,8.5,93.6,80.32,"Rain, Overcast"
+"San Francisco, CA, United States",03/14/2018,55.9,49.5,52.3,43.6,,0.1,0,0,16.8,202.46,21.9,9.7,77.7,75.52,"Rain, Overcast"
+"San Francisco, CA, United States",03/15/2018,57.3,42.2,50.7,39.3,,0.13,0,0,20.1,204.79,27.6,9.6,71.1,74.79,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/16/2018,54.8,48.1,51.1,43.7,,0.24,0,0,18.9,252.08,34.4,9.3,88.2,72.83,"Rain, Overcast"
+"San Francisco, CA, United States",03/17/2018,55.7,45.5,49.5,41.8,,0.04,0,0,13.7,198.92,,9.9,69.7,74.82,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/18/2018,55.3,40.1,48.8,36.9,,0,0,0,7.4,209.79,,9.9,61.9,76.43,Partially cloudy
+"San Francisco, CA, United States",03/19/2018,62.5,43,53.2,40.7,,0,0,0,8.8,167.79,,9.9,54.4,67.55,Partially cloudy
+"San Francisco, CA, United States",03/20/2018,57.6,52.6,55,,,0.32,0,0,11.6,171.38,,8.8,98.5,79.1,"Rain, Overcast"
+"San Francisco, CA, United States",03/21/2018,65.3,55.7,60.3,,,0.24,0,0,17,159.13,23,9.3,98.1,82.35,"Rain, Overcast"
+"San Francisco, CA, United States",03/22/2018,61,49.3,56,42,,0.53,0,0,28,233.21,39.1,8.8,72.5,73.12,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/23/2018,58,43.2,51.2,40.7,,0,0,0,14.5,207.75,21.9,9.9,45.3,64.56,Partially cloudy
+"San Francisco, CA, United States",03/24/2018,55.7,47.9,51.6,43.3,,0.15,0,0,19.7,230.25,33.3,9.7,85.3,68.24,"Rain, Overcast"
+"San Francisco, CA, United States",03/25/2018,57.1,43.5,50,40.2,,0.05,0,0,20.4,266.79,30,9.9,48.2,71.63,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/26/2018,62,44.4,52.9,41.7,,0,0,0,21.1,292.42,27,9.9,16,64.3,Clear
+"San Francisco, CA, United States",03/27/2018,69,46.6,57.5,47.1,,0,0,0,16.4,258,,9.9,25.7,62.54,Partially cloudy
+"San Francisco, CA, United States",03/28/2018,74.6,49.6,61,48,,0,0,0,14.2,219.54,,9.8,15,64.52,Clear
+"San Francisco, CA, United States",03/29/2018,78.6,52.8,63.9,,,0,0,0,13.5,249.54,,9.9,29.8,59.23,Partially cloudy
+"San Francisco, CA, United States",03/30/2018,76.3,54.2,64.1,,,0,0,0,12.6,269.13,,9.9,56.3,60.31,Partially cloudy
+"San Francisco, CA, United States",03/31/2018,62.9,52.1,57.1,,,0,0,0,18,305.92,25.3,9.9,69.8,77.01,Partially cloudy
+"San Francisco, CA, United States",04/01/2018,66.3,49.3,56.6,48.4,,0,0,0,18.7,238.75,36.9,9.9,25.5,74.05,Partially cloudy
+"San Francisco, CA, United States",04/02/2018,63.8,51.3,56.5,,,0,0,0,19.1,265.29,34,9.8,43.2,71.76,Partially cloudy
+"San Francisco, CA, United States",04/03/2018,64.1,47.4,54.8,45.6,,0,0,0,17,219.33,29.9,9.8,24.4,72.82,Clear
+"San Francisco, CA, United States",04/04/2018,62.6,51.7,56.1,,,0,0,0,16.9,274.88,,9.9,75.9,65.48,Overcast
+"San Francisco, CA, United States",04/05/2018,60.9,53.6,57.1,,,0.12,0,0,10.6,232.92,,9.7,88.8,66.63,"Rain, Overcast"
+"San Francisco, CA, United States",04/06/2018,62,56.9,59.6,,,1.39,0,0,17.1,142.04,30.9,4.7,99.8,92.29,"Rain, Overcast"
+"San Francisco, CA, United States",04/07/2018,63.2,56,60.3,,,0.82,0,0,17.4,243.75,25.3,8.4,81.1,81.64,"Rain, Overcast"
+"San Francisco, CA, United States",04/08/2018,63.6,50.2,57.3,,,0,0,0,22.4,285.13,32.2,9.9,30.7,68.75,Partially cloudy
+"San Francisco, CA, United States",04/09/2018,71.9,50.2,60.6,,,0,0,0,13.3,218.08,,9.9,51.7,66.56,Partially cloudy
+"San Francisco, CA, United States",04/10/2018,64.7,54.6,59.3,,,0,0,0,15.6,277.46,16.1,9.8,74.4,72.46,Partially cloudy
+"San Francisco, CA, United States",04/11/2018,61.2,51.2,55.2,,,0.18,0,0,24.4,260.04,36.5,9.4,71.4,72.4,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/12/2018,59.2,48.5,53.6,43.7,,0,0,0,23,301.46,34.4,9.9,34.1,61.04,Partially cloudy
+"San Francisco, CA, United States",04/13/2018,65.7,45,55.6,42.5,,0,0,0,17.9,276.88,,9.8,18.2,62.78,Clear
+"San Francisco, CA, United States",04/14/2018,70,50.3,58.7,,,0,0,0,18.5,203.5,23,9.9,18.5,67.81,Clear
+"San Francisco, CA, United States",04/15/2018,63,52.2,55.8,,,0.03,0,0,19.3,253.88,36.4,9.8,64.1,70.28,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/16/2018,55.7,48.2,51.5,44.8,,0.07,0,0,23.1,247.79,30.6,9.9,70.1,68.43,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/17/2018,62,42.4,52.3,39.9,,0,0,0,16.8,255.75,,9.9,36.4,64.02,Partially cloudy
+"San Francisco, CA, United States",04/18/2018,58.3,48.9,52.9,45.8,,0,0,0,15.3,266.88,,9.9,70.6,62.3,Partially cloudy
+"San Francisco, CA, United States",04/19/2018,62.9,44.9,54.5,42.4,,0,0,0,21.6,247.38,34.4,9.8,29,69.59,Partially cloudy
+"San Francisco, CA, United States",04/20/2018,66.4,47.9,56,48.1,,0,0,0,21.1,218.5,35.7,9.8,9.1,73.78,Clear
+"San Francisco, CA, United States",04/21/2018,72.6,49.3,58.6,47.4,,0,0,0,18.8,258,31.1,9.7,15.3,69.49,Clear
+"San Francisco, CA, United States",04/22/2018,75.5,49,60.2,47.3,,0,0,0,16.5,294.75,,9.5,39.5,69.42,Partially cloudy
+"San Francisco, CA, United States",04/23/2018,71.8,52.8,59.6,,,0,0,0,18.6,293.75,,9.2,42.8,72.04,Partially cloudy
+"San Francisco, CA, United States",04/24/2018,63.8,53,56.7,,,0,0,0,18.4,296.67,,9.2,67.1,74.5,Partially cloudy
+"San Francisco, CA, United States",04/25/2018,63,51.4,56.1,,,0,0,0,17,279.17,24.2,9.7,49.6,71.55,Partially cloudy
+"San Francisco, CA, United States",04/26/2018,61.5,51.9,55.5,,,0,0,0,21.3,272.46,29.9,9.7,58.9,67.81,Partially cloudy
+"San Francisco, CA, United States",04/27/2018,65.4,54.8,59.1,,,0,0,0,16.8,245.79,24.2,9.6,68.8,65.79,Partially cloudy
+"San Francisco, CA, United States",04/28/2018,63.4,55.2,58.1,,,0,0,0,15.7,258.33,23,9.9,80.7,66.06,Overcast
+"San Francisco, CA, United States",04/29/2018,63.2,53.6,57.4,,,0,0,0,21.9,279,34.5,9.9,68.3,68.55,Partially cloudy
+"San Francisco, CA, United States",04/30/2018,61.1,51.5,55.6,,,0,0,0,19.6,266.17,34,9.7,49,70.29,Partially cloudy
+"San Francisco, CA, United States",05/01/2018,65.2,50,55.9,,,0,0,0,18.4,228.96,35.7,9.6,52.2,68.73,Partially cloudy
+"San Francisco, CA, United States",05/02/2018,65.2,52.6,57.5,,,0,0,0,16.1,229.04,20.8,9.9,43.5,68.05,Partially cloudy
+"San Francisco, CA, United States",05/03/2018,61.8,52.3,55.6,,,0,0,0,21.4,269.5,19.7,9.7,76.3,74.2,Overcast
+"San Francisco, CA, United States",05/04/2018,67.9,51.9,57.9,,,0,0,0,20.3,253.58,34.4,9.8,77.7,71.67,Overcast
+"San Francisco, CA, United States",05/05/2018,60.8,52.4,56,,,0,0,0,19.7,289.33,31.1,9.9,80.5,75.82,Overcast
+"San Francisco, CA, United States",05/06/2018,63,53.6,57.2,,,0,0,0,18.4,270.21,32.4,9.9,81.3,68.29,Overcast
+"San Francisco, CA, United States",05/07/2018,69.5,51,59.9,,,0,0,0,17.6,250.83,32.2,9.9,30.8,67,Partially cloudy
+"San Francisco, CA, United States",05/08/2018,66.2,53.4,58.6,,,0,0,0,15.3,284.33,24.2,9.8,45.7,75.33,Partially cloudy
+"San Francisco, CA, United States",05/09/2018,65.6,56.2,59.6,,,0,0,0,28.8,269.96,42,9.7,71.6,77.64,Partially cloudy
+"San Francisco, CA, United States",05/10/2018,65.4,52.7,58.2,,,0,0,0,21.6,252.96,37.4,9.5,63,73.31,Partially cloudy
+"San Francisco, CA, United States",05/11/2018,72.2,51.1,62.1,,,0,0,0,20.7,218.04,29.8,9.5,35.7,64.07,Partially cloudy
+"San Francisco, CA, United States",05/12/2018,72.7,56.4,65.6,,,0,0,0,13.5,282.5,21.9,9.9,12.6,51.74,Clear
+"San Francisco, CA, United States",05/13/2018,65.7,55.5,59.6,,,0,0,0,17.1,245.83,24.2,9.9,40.6,67.92,Partially cloudy
+"San Francisco, CA, United States",05/14/2018,63.1,54.3,57.5,,,0,0,0,18,268.79,26.4,9.9,76.6,69.73,Overcast
+"San Francisco, CA, United States",05/15/2018,64.8,56,58.9,,,0,0,0,17.5,255.17,27.7,9.9,82.7,65.47,Overcast
+"San Francisco, CA, United States",05/16/2018,65.3,54.8,59.4,,,0,0,0,16.3,269.38,,9.9,56.7,67.56,Partially cloudy
+"San Francisco, CA, United States",05/17/2018,64,55.3,58.5,,,0,0,0,24,263.33,35.7,9.9,75.7,74.29,Overcast
+"San Francisco, CA, United States",05/18/2018,61.6,54.6,57,,,0,0,0,18.8,261.33,29.9,9.3,96.4,78.08,Overcast
+"San Francisco, CA, United States",05/19/2018,62,54.1,56.8,,,0,0,0,25.1,258.42,37.2,9.9,91.4,72.05,Overcast
+"San Francisco, CA, United States",05/20/2018,61.2,53.8,56.5,,,0,0,0,21.6,257.96,35.1,9.8,89,71.32,Overcast
+"San Francisco, CA, United States",05/21/2018,64.7,52.6,57.3,,,0,0,0,21.2,235.38,33.3,9.5,60.3,74.08,Partially cloudy
+"San Francisco, CA, United States",05/22/2018,59.5,54.3,56.1,,,0,0,0,15.6,247.13,21.4,8.6,99.4,82.2,Overcast
+"San Francisco, CA, United States",05/23/2018,62,54.6,57.2,,,0,0,0,17,256.83,24.2,9.2,95,77.86,Overcast
+"San Francisco, CA, United States",05/24/2018,62,54.1,57,,,0,0,0,15.7,257.25,21.9,9.8,96.4,71.22,Overcast
+"San Francisco, CA, United States",05/25/2018,63.6,55.5,58.5,,,0.01,0,0,13.9,235.04,20,9.7,93.2,74.23,"Rain, Overcast"
+"San Francisco, CA, United States",05/26/2018,64.7,55.2,58.4,,,0,0,0,17,261.83,27.7,9.7,77.6,74.03,Overcast
+"San Francisco, CA, United States",05/27/2018,71.6,52,61.1,,,0,0,0,15.8,260.96,,9.2,25.8,71.45,Partially cloudy
+"San Francisco, CA, United States",05/28/2018,81.9,55.3,65.9,,81.4,0,0,0,15.1,271.17,,9.2,7.2,67.04,Clear
+"San Francisco, CA, United States",05/29/2018,71.2,55.6,62.7,,,0,0,0,20.7,289.13,35.7,8.4,11.7,69.44,Clear
+"San Francisco, CA, United States",05/30/2018,61.1,53.6,56.7,,,0,0,0,27,255.58,40.6,8.5,71.1,69.73,Partially cloudy
+"San Francisco, CA, United States",05/31/2018,63.1,53.2,57.1,,,0,0,0,26.8,271.17,40.9,9.9,59.5,68.48,Partially cloudy
+"San Francisco, CA, United States",06/01/2018,72.2,51.7,60.3,,,0,0,0,21.5,247.54,35.6,9.8,4.7,64.57,Clear
+"San Francisco, CA, United States",06/02/2018,83.9,55.3,66,,82.3,0,0,0,16.7,272.96,29.8,9.8,6.7,60.25,Clear
+"San Francisco, CA, United States",06/03/2018,74.5,57.1,63.9,,,0,0,0,22.7,300.42,33.3,9.9,22.3,65.93,Clear
+"San Francisco, CA, United States",06/04/2018,66.8,55.1,60.1,,,0,0,0,26.1,259,42.5,9.6,21.9,68.57,Clear
+"San Francisco, CA, United States",06/05/2018,64.5,53,58,,,0,0,0,20.2,263.83,32.8,9.4,33.9,70.04,Partially cloudy
+"San Francisco, CA, United States",06/06/2018,62.9,53.6,57.8,,,0,0,0,20.8,247.67,34,9.6,80.4,72.38,Overcast
+"San Francisco, CA, United States",06/07/2018,64.9,55.1,59.3,,,0,0,0,19.8,260.96,38.1,9.4,53.5,68.9,Partially cloudy
+"San Francisco, CA, United States",06/08/2018,68.4,53.9,60.1,,,0,0,0,25.7,274.96,42,9.4,25.4,73.1,Partially cloudy
+"San Francisco, CA, United States",06/09/2018,66.8,56.5,60.7,,,0,0,0,28.3,275.79,44.4,9.2,81.2,71.06,Overcast
+"San Francisco, CA, United States",06/10/2018,67.6,51.7,60.1,,,0,0,0,25.3,278.71,46,9.9,29.3,57.94,Partially cloudy
+"San Francisco, CA, United States",06/11/2018,70.8,54.5,62.4,,,0,0,0,19.3,236.63,31.1,9.9,15.4,66.89,Clear
+"San Francisco, CA, United States",06/12/2018,74.5,56.7,64.4,,,0,0,0,21.9,300.67,35,9.5,4.3,67.34,Clear
+"San Francisco, CA, United States",06/13/2018,72.9,55.7,62.9,,,0,0,0,20.4,270.83,41.5,9.3,10.1,66.74,Clear
+"San Francisco, CA, United States",06/14/2018,71.6,56.1,61.7,,,0,0,0,16.5,277.58,33.4,9.4,31.2,67.21,Partially cloudy
+"San Francisco, CA, United States",06/15/2018,64.7,56.2,60.1,,,0,0,0,21.9,229.13,29.9,9.5,43.8,70.18,Partially cloudy
+"San Francisco, CA, United States",06/16/2018,69.3,56.7,61.2,,,0,0,0,23.5,200.21,35.7,9.9,39.4,69.31,Partially cloudy
+"San Francisco, CA, United States",06/17/2018,70.5,57.3,62.5,,,0,0,0,13.7,226.96,23,9.9,61.3,66.08,Partially cloudy
+"San Francisco, CA, United States",06/18/2018,68.9,56.2,61.7,,,0,0,0,21,273.92,33.3,9.7,56.1,72.74,Partially cloudy
+"San Francisco, CA, United States",06/19/2018,65.1,55.2,58.6,,,0,0,0,23.5,282.79,34.4,9.5,65.4,78.33,Partially cloudy
+"San Francisco, CA, United States",06/20/2018,64.3,54.8,58.4,,,0,0,0,21.4,269.63,34.5,9.5,72.3,75.15,Partially cloudy
+"San Francisco, CA, United States",06/21/2018,68.2,54.2,59.8,,,0,0,0,22,274.96,36.7,9.5,52.2,71.93,Partially cloudy
+"San Francisco, CA, United States",06/22/2018,79.8,54.6,64.8,,,0,0,0,21.8,287.25,33.3,9.9,15.8,64.99,Clear
+"San Francisco, CA, United States",06/23/2018,86.5,59,70.5,,84.8,0,0,0,17.3,297.38,,9.9,0,56.86,Clear
+"San Francisco, CA, United States",06/24/2018,77.2,59.8,66.9,,,0,0,0,15.3,251.88,,9.9,21.2,67.97,Clear
+"San Francisco, CA, United States",06/25/2018,72.8,58.6,64.1,,,0,0,0,19.1,292.92,25.3,9.7,55.4,70.25,Partially cloudy
+"San Francisco, CA, United States",06/26/2018,69.3,55,61.9,,,0,0,0,18.7,296.58,,9.6,19.7,67.43,Clear
+"San Francisco, CA, United States",06/27/2018,67,57.2,61.3,,,0,0,0,18.9,272.96,29.9,9.5,54.1,70.2,Partially cloudy
+"San Francisco, CA, United States",06/28/2018,67.8,57.9,62.1,,,0,0,0,19.3,260.63,35.7,9.5,22,64.62,Clear
+"San Francisco, CA, United States",06/29/2018,76,56.8,64.9,,,0,0,0,20.2,270.63,33.3,9.5,6.1,62.58,Clear
+"San Francisco, CA, United States",06/30/2018,84.4,59.6,68.9,,83.3,0,0,0,17.5,283.38,19.7,9.9,14,60.36,Clear
+"San Francisco, CA, United States",07/01/2018,71.9,59.2,64.8,,,0,0,0,16.1,294.38,26.4,9.9,63.3,72.87,Partially cloudy
+"San Francisco, CA, United States",07/02/2018,70.9,60,64,,,0,0,0,16.2,307.5,,9.8,80.7,72.04,Overcast
+"San Francisco, CA, United States",07/03/2018,72.2,59.2,65,,,0,0,0,16.6,249.33,,9.6,39.7,64.92,Partially cloudy
+"San Francisco, CA, United States",07/04/2018,71.5,59.7,64.8,,,0,0,0,17.6,237.25,26.4,9.9,45.3,62.89,Partially cloudy
+"San Francisco, CA, United States",07/05/2018,74.7,57.5,64.6,,,0,0,0,20.5,267.79,32.2,9.7,57.7,66.32,Partially cloudy
+"San Francisco, CA, United States",07/06/2018,81.4,63.6,71,,81,0,0,0,18.4,281.71,,9.9,64.9,58.94,Partially cloudy
+"San Francisco, CA, United States",07/07/2018,77.8,61.5,68.6,,,0,0,0,21.1,286.54,33.3,9.9,35,60.85,Partially cloudy
+"San Francisco, CA, United States",07/08/2018,74.8,58.1,63.7,,,0,0,0,18.1,278.46,35.6,9.9,21.8,66.58,Clear
+"San Francisco, CA, United States",07/09/2018,78.7,57.8,67.1,,,0,0,0,18.7,278.92,37.8,9.9,19.2,61.11,Clear
+"San Francisco, CA, United States",07/10/2018,75.9,61.7,66.8,,,0,0,0,23.3,280.46,40.4,9.9,18.5,62.14,Clear
+"San Francisco, CA, United States",07/11/2018,72.8,59.2,65.5,,,0,0,0,20.3,293.63,,9.9,47.2,70.17,Partially cloudy
+"San Francisco, CA, United States",07/12/2018,71.6,57.8,64,,,0,0,0,19.7,279.71,25.3,9.7,70.1,75.7,Partially cloudy
+"San Francisco, CA, United States",07/13/2018,72.2,60.1,65.2,,,0,0,0,18.5,301.88,28.9,9.9,56.9,76.52,Partially cloudy
+"San Francisco, CA, United States",07/14/2018,69.6,57.1,61.9,,,0,0,0,20.2,292.29,,9.9,52.9,81.01,Partially cloudy
+"San Francisco, CA, United States",07/15/2018,69.1,56.5,61.1,,,0,0,0,20.6,291.71,,9.8,55.9,78.48,Partially cloudy
+"San Francisco, CA, United States",07/16/2018,69.5,56.5,61.6,,,0,0,0,20.4,298.71,32.2,9.9,46.1,77.74,Partially cloudy
+"San Francisco, CA, United States",07/17/2018,68.5,56.5,61,,,0,0,0,19.8,296.17,,9.5,54.5,81.16,Partially cloudy
+"San Francisco, CA, United States",07/18/2018,71.2,56.3,61.9,,,0,0,0,19.8,308.96,,9.4,67.8,80.91,Partially cloudy
+"San Francisco, CA, United States",07/19/2018,71.4,56.7,62.8,,,0,0,0,17.7,303.33,25.3,9.6,51.9,78.98,Partially cloudy
+"San Francisco, CA, United States",07/20/2018,77.3,56.9,65.3,,,0,0,0,16.2,307.33,20.8,9.4,35.4,76.27,Partially cloudy
+"San Francisco, CA, United States",07/21/2018,73.1,60.9,65.5,,,0,0,0,21.3,297.33,21.9,9.9,42.9,78.51,Partially cloudy
+"San Francisco, CA, United States",07/22/2018,71.8,60.3,64.9,,,0,0,0,19.2,292.79,28.9,9.9,48.3,76.59,Partially cloudy
+"San Francisco, CA, United States",07/23/2018,70.3,57.3,62.7,,,0,0,0,20.9,291.46,31.1,9.6,47.3,77.79,Partially cloudy
+"San Francisco, CA, United States",07/24/2018,69.5,57.5,62.3,,,0,0,0,18.5,290.46,31.1,9.5,51.5,80.33,Partially cloudy
+"San Francisco, CA, United States",07/25/2018,70.1,57.1,62,,,0,0,0,20,291.29,,9.6,46,79.99,Partially cloudy
+"San Francisco, CA, United States",07/26/2018,66.1,56.3,60.1,,,0,0,0,21.1,288.58,33.3,9.7,61.6,81.52,Partially cloudy
+"San Francisco, CA, United States",07/27/2018,64.8,56.1,59.3,,,0,0,0,19.1,288.17,31.1,9.9,65.7,81.31,Partially cloudy
+"San Francisco, CA, United States",07/28/2018,66.9,54.9,59.3,,,0,0,0,18.9,287.29,28.9,9.9,66.3,79.78,Partially cloudy
+"San Francisco, CA, United States",07/29/2018,66.1,54.7,59,,,0,0,0,18.5,281.17,25.3,9.9,78,81.28,Overcast
+"San Francisco, CA, United States",07/30/2018,66.4,54.7,59.4,,,0,0,0,19.4,294.29,32.2,9.9,65.1,80.8,Partially cloudy
+"San Francisco, CA, United States",07/31/2018,65.7,54.1,58.9,,,0,0,0,19.6,295.29,32.2,9.8,51.6,81.22,Partially cloudy
+"San Francisco, CA, United States",08/01/2018,65,54.7,59.1,,,0,0,0,17.6,282.29,,9.8,59.8,79.78,Partially cloudy
+"San Francisco, CA, United States",08/02/2018,67.4,54.1,59.7,,,0,0,0,17.2,278.04,25.3,9.7,57.2,78.07,Partially cloudy
+"San Francisco, CA, United States",08/03/2018,72.4,53.5,62.6,,,0,0,0,17.1,296.92,31.1,9.5,32.3,71.44,Partially cloudy
+"San Francisco, CA, United States",08/04/2018,72.3,56,63.4,,,0,0,0,20.2,297.13,36.8,9.9,17.8,68.7,Clear
+"San Francisco, CA, United States",08/05/2018,68.6,55.1,60.8,,,0,0,0,16.3,300.92,,9.9,31.8,76.44,Partially cloudy
+"San Francisco, CA, United States",08/06/2018,72.9,53.3,61.8,,,0,0,0,18,300.63,34.4,9.9,29.5,73.06,Partially cloudy
+"San Francisco, CA, United States",08/07/2018,63.9,54.1,58.2,,,0,0,0,17.5,296.46,29.8,9.9,69.6,81.94,Partially cloudy
+"San Francisco, CA, United States",08/08/2018,71.4,55.1,60.3,,,0,0,0,19.1,297.83,31.1,9.8,61.7,80.1,Partially cloudy
+"San Francisco, CA, United States",08/09/2018,79.8,54.4,63,,,0,0,0,15.5,263.08,,9.7,42.8,75.43,Partially cloudy
+"San Francisco, CA, United States",08/10/2018,70.9,53.4,62.3,,,0,0,0,15.6,298.67,26.4,9.9,26.3,75.89,Partially cloudy
+"San Francisco, CA, United States",08/11/2018,72.9,58.2,64.8,,,0,0,0,17.8,295.67,28.8,9.9,20.1,70.69,Clear
+"San Francisco, CA, United States",08/12/2018,70.4,57.1,62.8,,,0,0,0,16.9,312.25,,9.8,28,76.63,Partially cloudy
+"San Francisco, CA, United States",08/13/2018,66.3,56.7,60.5,,,0,0,0,19.3,288.42,29.3,9.7,67.5,81.09,Partially cloudy
+"San Francisco, CA, United States",08/14/2018,66.5,57.3,61.2,,,0,0,0,18.9,264.25,29.3,9.7,94.9,81.09,Overcast
+"San Francisco, CA, United States",08/15/2018,70.4,61.2,64.2,,,0,0,0,20,266.96,29.8,9.7,72.2,75.69,Partially cloudy
+"San Francisco, CA, United States",08/16/2018,70.8,59,63.9,,,0,0,0,20.4,269.5,29.8,9.2,47.3,73.74,Partially cloudy
+"San Francisco, CA, United States",08/17/2018,73.1,57.2,62.6,,,0,0,0,20.8,286.75,31.1,9.2,51.3,76.75,Partially cloudy
+"San Francisco, CA, United States",08/18/2018,72.7,53.3,61.7,,,0,0,0,17.8,278.33,,9.6,17.7,78.04,Clear
+"San Francisco, CA, United States",08/19/2018,67.8,54.8,59.2,,,0,0,0,22.4,302.46,,8.3,51.7,82.99,Partially cloudy
+"San Francisco, CA, United States",08/20/2018,68.4,55.4,60.9,,,0,0,0,14.8,272.46,23,8.8,56.7,77.26,Partially cloudy
+"San Francisco, CA, United States",08/21/2018,67.2,56.5,61.4,,,0,0,0,13.9,256.17,,9.8,97.8,78.35,Overcast
+"San Francisco, CA, United States",08/22/2018,70.8,61.4,64.1,,,0,0,0,15.7,260.63,20.8,8,73.2,73.08,Partially cloudy
+"San Francisco, CA, United States",08/23/2018,68.8,61.6,63.8,,,0,0,0,16.3,264.46,,6.1,77.2,68.7,Overcast
+"San Francisco, CA, United States",08/24/2018,69.5,57.8,62.1,,,0,0,0,17.9,283.38,,8.3,74.1,75.65,Partially cloudy
+"San Francisco, CA, United States",08/25/2018,69.6,56.1,61.2,,,0,0,0,19.4,282.63,,9.4,64.2,79.08,Partially cloudy
+"San Francisco, CA, United States",08/26/2018,70.3,56.2,61.2,,,0,0,0,17.1,257.67,20.8,9.9,58.9,75.46,Partially cloudy
+"San Francisco, CA, United States",08/27/2018,69.9,57.7,62.3,,,0,0,0,16.4,234.63,,9.8,72.1,75.46,Partially cloudy
+"San Francisco, CA, United States",08/28/2018,69.1,58.9,63.1,,,0,0,0,13.7,247.13,,9.7,72.4,73.45,Partially cloudy
+"San Francisco, CA, United States",08/29/2018,73.4,58.1,65.1,,,0,0,0,17.9,184,27.7,9.9,36.3,69.09,Partially cloudy
+"San Francisco, CA, United States",08/30/2018,70.4,61.4,65.2,,,0,0,0,18.4,241.5,29.3,9.9,71.9,68.21,Partially cloudy
+"San Francisco, CA, United States",08/31/2018,70.3,57.5,62,,,0,0,0,19.8,269.29,35,9.8,66,77.57,Partially cloudy
+"San Francisco, CA, United States",09/01/2018,67.2,56.5,60.8,,,0,0,0,17.2,276.33,,9.8,54,77.39,Partially cloudy
+"San Francisco, CA, United States",09/02/2018,69.3,54.9,60.6,,,0,0,0,20,297.67,24.2,9.1,36,78.93,Partially cloudy
+"San Francisco, CA, United States",09/03/2018,69,56.5,61.1,,,0,0,0,18.6,280.08,,9.1,58.3,79.38,Partially cloudy
+"San Francisco, CA, United States",09/04/2018,69.9,58.1,61.9,,,0,0,0,18.1,295.88,29.8,9,55.2,79.49,Partially cloudy
+"San Francisco, CA, United States",09/05/2018,67.8,57.5,61.1,,,0,0,0,19.5,304.71,26.4,9.1,65.4,78.55,Partially cloudy
+"San Francisco, CA, United States",09/06/2018,65.3,55.9,59.4,,,0,0,0,17.5,284.58,30,9.6,61.8,81.4,Partially cloudy
+"San Francisco, CA, United States",09/07/2018,72.2,54.4,60.8,,,0,0,0,20,280.75,32.2,9,35.7,79.04,Partially cloudy
+"San Francisco, CA, United States",09/08/2018,72.3,54.8,62.8,,,0,0,0,17.5,290.96,36.8,9.9,17.5,73.1,Clear
+"San Francisco, CA, United States",09/09/2018,73.6,53.6,62.1,,,0,0,0,20,258.42,34.4,9.9,26.7,73.7,Partially cloudy
+"San Francisco, CA, United States",09/10/2018,74.9,55.9,62.6,,,0,0,0,18.7,259.21,36.3,9.8,21.5,73.15,Clear
+"San Francisco, CA, United States",09/11/2018,69.9,55.6,61.8,,,0,0,0,22.2,265.67,40.3,9.7,8.6,69.98,Clear
+"San Francisco, CA, United States",09/12/2018,67.1,54.5,60.2,,,0,0,0,21.4,275.67,40.3,9.8,58.2,75.05,Partially cloudy
+"San Francisco, CA, United States",09/13/2018,67.5,57.5,61.5,,,0,0,0,22.9,265.92,36.8,9.9,52.9,73.3,Partially cloudy
+"San Francisco, CA, United States",09/14/2018,70.6,56.2,60.6,,,0,0,0,19.6,272.25,31.1,9.9,75.5,74.06,Overcast
+"San Francisco, CA, United States",09/15/2018,65.5,56.5,59.8,,,0,0,0,22.8,264.29,34.4,9.9,56.3,77.19,Partially cloudy
+"San Francisco, CA, United States",09/16/2018,69.5,54.2,61.1,,,0,0,0,19.8,270.21,29.3,9.9,31.6,76.44,Partially cloudy
+"San Francisco, CA, United States",09/17/2018,65.3,56.9,60.4,,,0,0,0,19.9,262.92,33.3,9.9,64.2,76.9,Partially cloudy
+"San Francisco, CA, United States",09/18/2018,66.2,55.1,59.4,,,0,0,0,18,262.75,20.8,9.8,60.1,75.7,Partially cloudy
+"San Francisco, CA, United States",09/19/2018,73.4,53.2,61.2,,,0,0,0,19.2,266.58,,9.6,21.1,71.21,Clear
+"San Francisco, CA, United States",09/20/2018,85.7,54.2,66.5,,82.7,0,0,0,13.8,261.64,,9.8,1.4,57.97,Clear
+"San Francisco, CA, United States",09/21/2018,72.8,55.9,62.8,,,0,0,0,17.9,277.46,,9.8,9.5,64.9,Clear
+"San Francisco, CA, United States",09/22/2018,67.1,54.1,58.5,,,0,0,0,16.5,259.79,,8.6,49.6,82.03,Partially cloudy
+"San Francisco, CA, United States",09/23/2018,69.3,52.3,59.5,,,0,0,0,14.9,313.46,,9.9,29.7,76.28,Partially cloudy
+"San Francisco, CA, United States",09/24/2018,73.5,50,59.3,,,0,0,0,17.1,281.04,,9.4,14.7,75.3,Clear
+"San Francisco, CA, United States",09/25/2018,69,53.8,59,,,0,0,0,18.2,286.58,29.8,8.1,42.2,81.89,Partially cloudy
+"San Francisco, CA, United States",09/26/2018,72.4,52.2,58.7,,,0,0,0,16.4,286.54,,8,59,83.39,Partially cloudy
+"San Francisco, CA, United States",09/27/2018,65,53.1,57.6,,,0,0,0,17.1,302.33,,8.2,68.4,84.21,Partially cloudy
+"San Francisco, CA, United States",09/28/2018,66.5,56,60.5,,,0,0,0,16,269.04,20.8,9.9,66.3,74.71,Partially cloudy
+"San Francisco, CA, United States",09/29/2018,69.5,59.6,64.2,,,0,0,0,15.6,191.08,21.9,9.9,77,69.22,Overcast
+"San Francisco, CA, United States",09/30/2018,73.4,60.5,64.7,,,0,0,0,16.5,198.33,,9.9,71.8,72.05,Partially cloudy
+"San Francisco, CA, United States",10/01/2018,74.1,58.7,65,,,0,0,0,15.2,209.25,,9.9,75.2,72.17,Overcast
+"San Francisco, CA, United States",10/02/2018,74.2,62.5,67.2,,,0.1,0,0,18,253.08,,9.7,87.5,74.94,"Rain, Overcast"
+"San Francisco, CA, United States",10/03/2018,73.4,63.6,67.2,,,0,0,0,13.8,252.92,,9.9,80.4,76.63,Overcast
+"San Francisco, CA, United States",10/04/2018,69.4,59.3,63.5,,,0,0,0,14.8,266.96,25.3,9.9,81.4,73.57,Overcast
+"San Francisco, CA, United States",10/05/2018,70.4,55.9,61.8,,,0,0,0,17.1,255.67,31.1,9.9,39.1,72.4,Partially cloudy
+"San Francisco, CA, United States",10/06/2018,71.8,56.7,62.8,,,0,0,0,20.9,251.17,33.3,9.7,30.1,75,Partially cloudy
+"San Francisco, CA, United States",10/07/2018,79.1,61.7,69.7,,,0,0,0,19,314.25,29.5,9.7,13.3,42.86,Clear
+"San Francisco, CA, United States",10/08/2018,79.9,59.9,68.3,,,0,0,0,14.3,256.08,20.8,9.9,5.8,51.07,Clear
+"San Francisco, CA, United States",10/09/2018,71,56.1,61.8,,,0,0,0,18.4,276,23,9.7,31.3,76.26,Partially cloudy
+"San Francisco, CA, United States",10/10/2018,67.2,52.9,60.3,,,0,0,0,17.3,258.29,20.8,9.9,35.8,73.26,Partially cloudy
+"San Francisco, CA, United States",10/11/2018,69.4,54.5,60.6,,,0,0,0,15.7,222.58,,9.9,38.9,71.28,Partially cloudy
+"San Francisco, CA, United States",10/12/2018,77.3,52.4,63.6,,,0,0,0,14.1,216.75,,9.9,1.9,61.32,Clear
+"San Francisco, CA, United States",10/13/2018,68.7,52.9,60.5,,,0,0,0,18.9,288.88,,9.9,15.3,68.1,Clear
+"San Francisco, CA, United States",10/14/2018,70.6,55.3,60.2,,,0,0,0,15.5,274,,9.8,38.2,73.96,Partially cloudy
+"San Francisco, CA, United States",10/15/2018,78.2,58.2,67.2,,,0,0,0,13.3,194.96,29.8,9.9,0.5,27.11,Clear
+"San Francisco, CA, United States",10/16/2018,73.3,50.8,59.6,,,0,0,0,16.8,214.13,25.3,9.9,10.5,55.3,Clear
+"San Francisco, CA, United States",10/17/2018,67.3,50.2,57.1,,,0,0,0,17.1,278.42,,9.1,29.6,79.36,Partially cloudy
+"San Francisco, CA, United States",10/18/2018,69.4,51.7,58,,,0,0,0,16.2,281.96,,9.2,42.7,79.26,Partially cloudy
+"San Francisco, CA, United States",10/19/2018,74.8,50.5,60.2,,,0,0,0,13.5,305.58,,9.3,10.9,76.6,Clear
+"San Francisco, CA, United States",10/20/2018,68.2,51.2,57.6,,,0,0,0,19.1,279.54,25.3,8.9,28.7,81.67,Partially cloudy
+"San Francisco, CA, United States",10/21/2018,63.3,51.4,56.6,,,0,0,0,17.5,292.38,,8.9,52.5,81.46,Partially cloudy
+"San Francisco, CA, United States",10/22/2018,63.3,54.4,57.6,,,0,0,0,16.6,286.58,,9.9,56.3,75.63,Partially cloudy
+"San Francisco, CA, United States",10/23/2018,65,52.7,58,,,0,0,0,13.3,256.71,25.3,9.9,58.5,72.51,Partially cloudy
+"San Francisco, CA, United States",10/24/2018,69.2,52.1,59,,,0,0,0,15.6,225.58,,9.9,47.9,79.39,Partially cloudy
+"San Francisco, CA, United States",10/25/2018,71,55.8,60.3,,,0,0,0,16.4,251.75,,8.2,52.1,82.32,Partially cloudy
+"San Francisco, CA, United States",10/26/2018,73.5,54.5,61.3,,,0,0,0,15.3,275.38,29.8,9.9,46.2,76.83,Partially cloudy
+"San Francisco, CA, United States",10/27/2018,70.2,54.2,61.1,,,0,0,0,17,209.63,33.3,9.9,62.6,83.93,Partially cloudy
+"San Francisco, CA, United States",10/28/2018,69.4,57.9,61.8,,,0,0,0,15.5,246.13,37.9,9.3,75.5,83.17,Overcast
+"San Francisco, CA, United States",10/29/2018,67.7,52.9,60.1,,,0,0,0,18.1,295.46,,9.9,40.2,65.65,Partially cloudy
+"San Francisco, CA, United States",10/30/2018,68.3,50.6,58.7,,,0,0,0,16.2,292.42,,9.9,16.6,65.04,Clear
+"San Francisco, CA, United States",10/31/2018,73.1,49.7,59.9,,,0,0,0,8.6,202.92,,9.9,41.5,59.41,Partially cloudy
+"San Francisco, CA, United States",11/01/2018,78.5,54.5,64.7,,,0,0,0,10.2,236.54,,9.9,46.8,59.54,Partially cloudy
+"San Francisco, CA, United States",11/02/2018,73.3,54.4,62.5,,,0,0,0,13.7,278.58,,9.8,26.1,71.78,Partially cloudy
+"San Francisco, CA, United States",11/03/2018,77.2,50.9,62.1,,,0,0,0,11.7,292.75,,9.9,32.3,68.04,Partially cloudy
+"San Francisco, CA, United States",11/04/2018,65.5,51.6,59,,,0,0,0,14,251.08,,9.9,56.1,72.05,Partially cloudy
+"San Francisco, CA, United States",11/05/2018,68.7,51.7,58.4,,,0,0,0,16.7,259.79,,9.9,12.5,75.12,Clear
+"San Francisco, CA, United States",11/06/2018,71.3,48.2,58.4,47.3,,0,0,0,11.9,183.25,,9.9,17.3,57.48,Clear
+"San Francisco, CA, United States",11/07/2018,72.1,48.4,58.4,47,,0,0,0,13,238.88,,9.9,7.2,54.81,Clear
+"San Francisco, CA, United States",11/08/2018,71.1,47.4,59.3,46.4,,0,0,0,14.6,110.67,28.2,8.7,22.2,38.67,Clear
+"San Francisco, CA, United States",11/09/2018,66.6,50,58.3,,,0,0,0,9.9,182.29,,4.6,80.5,29.87,Overcast
+"San Francisco, CA, United States",11/10/2018,62.2,42.1,51.8,40.6,,0,0,0,5.4,171.21,,3.5,90,47.31,Overcast
+"San Francisco, CA, United States",11/11/2018,69.2,40.7,56.1,41.5,,0,0,0,17.6,60.29,27.7,5.8,45.8,39.63,Partially cloudy
+"San Francisco, CA, United States",11/12/2018,65.2,42.8,54,43.1,,0,0,0,5.6,135.08,,3.9,36.7,44.4,Partially cloudy
+"San Francisco, CA, United States",11/13/2018,61.5,45,53.4,43.5,,0,0,0,5.2,155.17,,3.6,62.3,57.32,Partially cloudy
+"San Francisco, CA, United States",11/14/2018,62.4,44.3,52.9,41.5,,0,0,0,6.7,200.38,,3.6,37.1,55.64,Partially cloudy
+"San Francisco, CA, United States",11/15/2018,62.1,42.5,51.5,41.7,,0,0,0,6.1,182.58,,2,71.3,54.41,Partially cloudy
+"San Francisco, CA, United States",11/16/2018,62.7,43.3,52.2,,,0,0,0,6.2,209.21,,1.6,75.3,58.75,Overcast
+"San Francisco, CA, United States",11/17/2018,60.1,42.8,50.9,40.9,,0,0,0,12,263.83,,2.2,70.7,70.33,Partially cloudy
+"San Francisco, CA, United States",11/18/2018,57.6,44,50.1,42.7,,0,0,0,6.5,160.92,,2.6,84.7,83.59,Overcast
+"San Francisco, CA, United States",11/19/2018,61,43.9,52.1,42,,0,0,0,5.9,180.21,,2.9,69.9,67.5,Partially cloudy
+"San Francisco, CA, United States",11/20/2018,61.6,43.8,53.1,43.7,,0,0,0,5.1,178.83,,4.6,52.3,66.39,Partially cloudy
+"San Francisco, CA, United States",11/21/2018,60,54.8,57.9,,,0.67,0,0,12.6,135.96,,7.2,94.6,81.55,"Rain, Overcast"
+"San Francisco, CA, United States",11/22/2018,62.4,55.7,58.4,,,0.57,0,0,16.7,203.96,25.3,8.8,74.8,79.33,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/23/2018,61.1,56,58.8,,,0.42,0,0,15.8,193.79,25.3,6.3,99.4,90.76,"Rain, Overcast"
+"San Francisco, CA, United States",11/24/2018,60.7,52.1,58.3,,,0.02,0,0,14.1,276.17,,8.4,76.3,86.41,"Rain, Overcast"
+"San Francisco, CA, United States",11/25/2018,61.9,48.8,53.8,47.3,,0,0,0,9.4,227.08,,8.5,55.1,87,Partially cloudy
+"San Francisco, CA, United States",11/26/2018,61.5,47.7,54.3,46.1,,0,0,0,7.3,218.67,,9.9,55,81.52,Partially cloudy
+"San Francisco, CA, United States",11/27/2018,59.5,50.2,56.1,,,0.1,0,0,12.1,153.58,,8.3,84.6,87.54,"Rain, Overcast"
+"San Francisco, CA, United States",11/28/2018,63.2,57.8,59.9,,,0.22,0,0,15.7,190.46,24.8,8.8,90.2,84.4,"Rain, Overcast"
+"San Francisco, CA, United States",11/29/2018,60.2,56,58.2,,,0.97,0,0,28.6,232.75,42.8,8.7,82.7,76.69,"Rain, Overcast"
+"San Francisco, CA, United States",11/30/2018,60.4,52.9,55.9,,,0,0,0,20.6,272.42,32.3,9.9,35.8,64.85,Partially cloudy
+"San Francisco, CA, United States",12/01/2018,58,48.3,53.5,46,,0.21,0,0,21.3,240,33.7,9.3,63.9,73.76,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/02/2018,54,41.4,49.3,41.2,,0,0,0,12.6,195.5,,9.9,36.7,67.54,Partially cloudy
+"San Francisco, CA, United States",12/03/2018,57.6,46.8,51.5,43.3,,0,0,0,15.4,79.5,21.9,9.9,75.9,64.97,Overcast
+"San Francisco, CA, United States",12/04/2018,54.2,49.9,51.8,45.8,,0.02,0,0,16,80,24.2,9.8,94.4,65.03,"Rain, Overcast"
+"San Francisco, CA, United States",12/05/2018,55.9,49.5,52.6,44.8,,0.33,0,0,12.7,49.63,,9.1,95.8,76.67,"Rain, Overcast"
+"San Francisco, CA, United States",12/06/2018,62,51.1,55.2,,,0.01,0,0,10.6,136.71,,9.9,50.9,61.34,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/07/2018,60.2,45.1,51.6,44.1,,0,0,0,6.8,157.63,,9.9,31.9,74.17,Partially cloudy
+"San Francisco, CA, United States",12/08/2018,60.1,43.8,51.6,43.8,,0,0,0,5.6,105.46,,9.5,20.5,77.21,Clear
+"San Francisco, CA, United States",12/09/2018,55,44.4,49.4,42,,0,0,0,7.6,119.71,,6.5,53.1,83.26,Partially cloudy
+"San Francisco, CA, United States",12/10/2018,56.4,45.9,50.7,43.3,,0.01,0,0,8,180.13,,6.6,61.5,83.85,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/11/2018,56,45.5,49.4,43.1,,0,0,0,8.3,123.29,,6.6,49.1,84.94,Partially cloudy
+"San Francisco, CA, United States",12/12/2018,62,49.5,54.3,48.4,,0,0,0,12.9,114.04,,8.6,63.9,76.74,Partially cloudy
+"San Francisco, CA, United States",12/13/2018,61.5,43.8,51.9,42.3,,0,0,0,9.3,140.71,,9.5,13.4,68.11,Clear
+"San Francisco, CA, United States",12/14/2018,62.2,47.3,54.8,48.2,,0.01,0,0,17.2,124.21,40.3,8.3,76.3,76.27,"Rain, Overcast"
+"San Francisco, CA, United States",12/15/2018,61.4,52.1,56.1,,,0,0,0,8.4,120.46,,9.9,83.5,77.11,Overcast
+"San Francisco, CA, United States",12/16/2018,60.9,53.5,57.4,,,0.53,0,0,15.1,139.54,25.3,9.1,94.3,79.42,"Rain, Overcast"
+"San Francisco, CA, United States",12/17/2018,58.5,50.9,54.5,,,0.09,0,0,7.2,196.67,,9.1,81,85.75,"Rain, Overcast"
+"San Francisco, CA, United States",12/18/2018,60.7,47.7,53,47.4,,0,0,0,5.3,133.08,,9.8,53.1,83.03,Partially cloudy
+"San Francisco, CA, United States",12/19/2018,59.7,51.7,55.5,,,0,0,0,7.7,97.96,,9.9,76,84.23,Overcast
+"San Francisco, CA, United States",12/20/2018,54.5,47,51.4,48.5,,0,0,0,5.8,129.38,,5.3,68,89.65,Partially cloudy
+"San Francisco, CA, United States",12/21/2018,58,52.5,54.2,,,0.07,0,0,9.9,122.67,,6.9,88.5,87.63,"Rain, Overcast"
+"San Francisco, CA, United States",12/22/2018,56.3,44.6,51.6,,,0,0,0,7.8,193.83,,9.9,65.4,70.9,Partially cloudy
+"San Francisco, CA, United States",12/23/2018,57.6,47.9,52.2,47.4,,0.01,0,0,9.3,150.38,,9.7,77.4,77.15,"Rain, Overcast"
+"San Francisco, CA, United States",12/24/2018,58.5,51.3,54.2,,,0.42,0,0,27.7,153.75,40.3,8,94.1,83.35,"Rain, Overcast"
+"San Francisco, CA, United States",12/25/2018,59.3,46.9,53.2,44,,0.02,0,0,18.7,306.13,31.2,9.8,40.8,70.64,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/26/2018,57.8,44.7,51.3,42.5,,0,0,0,12.9,197.5,,9.9,51.9,71.55,Partially cloudy
+"San Francisco, CA, United States",12/27/2018,59.9,47.3,52.9,43.6,,0,0,0,20.3,310.5,29.7,9.9,19.8,56.16,Clear
+"San Francisco, CA, United States",12/28/2018,59.3,46,52.4,42.5,,0,0,0,16.5,170.04,31.1,9.9,17.9,38.31,Clear
+"San Francisco, CA, United States",12/29/2018,57.3,40.5,48.1,38.4,,0,0,0,7.3,255.92,,9.9,35,57.28,Partially cloudy
+"San Francisco, CA, United States",12/30/2018,56.7,45,50.3,43.3,,0,0,0,21.1,206.58,35.7,9.8,57.1,78.27,Partially cloudy
+"San Francisco, CA, United States",12/31/2018,56.7,45,51,41,,0,0,0,24.8,265.83,35.6,9.9,25.5,46.73,Partially cloudy
+"San Francisco, CA, United States",01/01/2019,53.8,42.9,48.7,40.4,,0,0,0,21.6,143.04,34.8,9.9,30.7,36.22,Partially cloudy
+"San Francisco, CA, United States",01/02/2019,53.2,37,45.1,33.7,,0,0,0,5.3,127.67,,9.9,8.3,58.96,Clear
+"San Francisco, CA, United States",01/03/2019,53.8,38.1,45.8,34.7,,0,0,0,7.6,127.75,,9.8,39.5,62.23,Partially cloudy
+"San Francisco, CA, United States",01/04/2019,59.6,39.6,47.4,37.5,,0,0,0,8.5,152.13,,8.2,47.1,67.76,Partially cloudy
+"San Francisco, CA, United States",01/05/2019,56.3,47,52.4,44.2,,0.2,0,0,25.7,156.88,43.1,9.4,71.3,73.68,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/06/2019,58.8,47.4,51.7,43.1,,0.91,0,0,27.1,153.79,39,6.9,65.2,84.38,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/07/2019,57.9,53.5,55.9,,,0,0,0,17.5,158.79,,9.9,65.7,77.57,Partially cloudy
+"San Francisco, CA, United States",01/08/2019,59,52.1,56,,,0,0,0,18.3,102.71,32.2,9.9,74.6,80.78,Partially cloudy
+"San Francisco, CA, United States",01/09/2019,61,56.6,58.5,,,0.06,0,0,23.1,152.25,32.5,9.7,66.3,78.08,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/10/2019,60.3,48.8,53.1,,,0,0,0,7.7,144.92,,7.3,38.7,83.58,Partially cloudy
+"San Francisco, CA, United States",01/11/2019,59,49.6,54.1,47.7,,0.13,0,0,9.8,112.71,,9.2,63.1,79.37,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/12/2019,62.4,52.9,56.4,,,0.01,0,0,9.1,100.71,,9.9,52.7,74.03,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/13/2019,59,49.1,54.1,47.4,,0,0,0,8,115.46,,9.9,40.4,71.1,Partially cloudy
+"San Francisco, CA, United States",01/14/2019,57.8,50.9,54.2,,,0.01,0,0,16.8,87.63,27.7,9.9,70.8,69.19,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/15/2019,55.3,50.2,52.2,,,0.49,0,0,16.2,117.79,32.7,8.3,75.5,83.24,"Rain, Overcast"
+"San Francisco, CA, United States",01/16/2019,60.6,54.3,57,,,1,0,0,29.6,150,48,8.2,77.2,82.03,"Rain, Overcast"
+"San Francisco, CA, United States",01/17/2019,59.3,55.9,57.7,,,0.05,0,0,22.3,212.25,42.1,8.8,68.5,74.47,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/18/2019,62.8,53.9,57.6,,,0,0,0,7,119.04,,9.9,77.4,71.99,Overcast
+"San Francisco, CA, United States",01/19/2019,64.8,55.9,59.6,,,0.01,0,0,7,160.92,,9.8,74.5,70.65,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/20/2019,58.9,52.3,56.4,,,0.2,0,0,21.7,204.04,39.9,8.4,67.5,81.51,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/21/2019,57.8,50.1,53.9,,,0.02,0,0,18.6,303.71,31.1,9.9,30.9,65.09,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/22/2019,59,42.6,51.2,40,,0,0,0,6.4,224.96,,9.9,35.8,56.62,Partially cloudy
+"San Francisco, CA, United States",01/23/2019,60.2,42.5,50.8,41.2,,0,0,0,10.3,215.33,,9.9,22.7,62.6,Clear
+"San Francisco, CA, United States",01/24/2019,64.6,43.4,52.3,41.2,,0,0,0,6.2,177.54,,9.9,19.5,66.26,Clear
+"San Francisco, CA, United States",01/25/2019,63,45.3,53.1,43.3,,0,0,0,7.2,200.38,,9.8,10.5,68.69,Clear
+"San Francisco, CA, United States",01/26/2019,64.5,47.2,54.3,45.2,,0,0,0,6.7,140.54,,9.8,45.1,63.64,Partially cloudy
+"San Francisco, CA, United States",01/27/2019,65.3,48.3,55.7,45.9,,0,0,0,8.8,205.42,,9.4,49.1,69.92,Partially cloudy
+"San Francisco, CA, United States",01/28/2019,63.4,51.2,56.2,,,0,0,0,12.3,228.46,,9.8,63.4,76.69,Partially cloudy
+"San Francisco, CA, United States",01/29/2019,59.6,52.6,54.8,,,0.01,0,0,13.8,249.25,,9.8,62.5,83.78,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/30/2019,60.7,51.4,54.9,,,0.03,0,0,11,197.88,,9,71.5,80.42,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/31/2019,60,53.2,56,,,0.36,0,0,8.8,197.29,,7.7,56.7,83.88,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/01/2019,58.7,53,55.9,,,0.12,0,0,20.4,149.92,34.5,9.9,66.7,77.01,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/02/2019,58.7,50.8,54.9,,,0.5,0,0,27.5,146,35.7,9,66.8,75.68,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/03/2019,56.3,51.4,53.8,,,0.12,0,0,20.8,191.04,35.3,8.6,65.6,79.14,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/04/2019,52.6,44.2,49.2,38.2,,0.55,0,0,24.4,231.58,37.2,8.5,66.7,74.79,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/05/2019,50,41,45.1,35.8,,0.13,0,0,17.1,290.5,28.9,9.8,38.8,63.18,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/06/2019,54.6,38.6,46.2,34.7,,0,0,0,9.3,158.54,31.1,9.9,29.4,65.75,Partially cloudy
+"San Francisco, CA, United States",02/07/2019,54.6,39.5,46.9,36.6,,0,0,0,8,125.33,,9.9,44.2,64.39,Partially cloudy
+"San Francisco, CA, United States",02/08/2019,53.4,43.6,48,40.2,,0.41,0,0,12.1,109.83,,9.3,76.6,73.45,"Rain, Overcast"
+"San Francisco, CA, United States",02/09/2019,55.1,43.4,48.8,40,,0.23,0,0,20.9,192.25,39.1,9.3,62.7,78.94,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/10/2019,51.2,42.1,46.9,36.1,,0.25,0,0,19.8,290.79,35.6,9.2,50.7,68.97,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/11/2019,52.8,40.3,46.1,37.1,,0.01,0,0,9.4,172.96,,9.9,49.8,71.86,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/12/2019,53.6,40.5,47.3,37,,0.08,0,0,12.3,95.29,18.3,9.8,59,67.64,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/13/2019,62,49,54.4,42.8,,1.36,0,0,25.2,125.13,38.2,7,76.7,79.33,"Rain, Overcast"
+"San Francisco, CA, United States",02/14/2019,62.7,51.8,56,,,0.93,0,0,27,208.21,54.8,7.9,66.5,78.18,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/15/2019,53.4,46.2,49.7,41.2,,0.25,0,0,19.5,211.04,34.2,9.3,64.1,72.9,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/16/2019,53.9,45.8,49.1,41.3,,0.21,0,0,24.1,243.17,41.4,9.3,53.9,72.42,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/17/2019,54.1,43.9,48.4,39.5,,0.16,0,0,22.7,250.71,34.4,9.7,43.6,66.46,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/18/2019,57.1,38.6,47.3,34.1,,0,0,0,14.1,284.25,23,9.9,4.8,52.91,Clear
+"San Francisco, CA, United States",02/19/2019,56.2,36.8,47.2,35.9,,0,0,0,16.9,204.54,27.7,9.9,16.3,57.96,Clear
+"San Francisco, CA, United States",02/20/2019,56.7,47.4,51.2,41.7,,0,0,0,22.5,292.63,40.3,9.9,52.2,62.61,Partially cloudy
+"San Francisco, CA, United States",02/21/2019,57.1,42.5,49.7,38.5,,0,0,0,16.7,320.63,32.2,9.9,27.8,48.84,Partially cloudy
+"San Francisco, CA, United States",02/22/2019,54.8,39.2,48.4,38.5,,0,0,0,15.5,224,33.3,9.9,12,43.23,Clear
+"San Francisco, CA, United States",02/23/2019,55.8,39.8,47.8,36.3,,0,0,0,12.3,193.54,,9.9,40.4,67.53,Partially cloudy
+"San Francisco, CA, United States",02/24/2019,56.5,47,51.1,44.5,,0,0,0,10.5,148.08,,9.9,52.6,71.76,Partially cloudy
+"San Francisco, CA, United States",02/25/2019,56.6,50.3,53.7,,,0.01,0,0,20.6,164.29,36.8,9.8,69.8,71.49,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/26/2019,57.5,52.8,55.2,,,0.28,0,0,26.4,146.5,37.1,8.8,86.4,76.38,"Rain, Overcast"
+"San Francisco, CA, United States",02/27/2019,59.5,51.2,55,,,0.65,0,0,23.4,196.08,39.3,7.2,71.3,84.71,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/28/2019,56.2,50.2,52.3,,,0,0,0,12.7,279.5,,9.6,66.5,67.94,Partially cloudy
+"San Francisco, CA, United States",03/01/2019,54.9,45.8,50.8,43.9,,0,0,0,6.3,128.42,,9.9,74,70.59,Partially cloudy
+"San Francisco, CA, United States",03/02/2019,58.1,51.4,54.4,,,0.77,0,0,12.6,115.21,,6.4,75.4,87.65,"Rain, Overcast"
+"San Francisco, CA, United States",03/03/2019,57.3,52.8,55,,,0.02,0,0,16.8,230.46,20.8,8.5,66.5,84.07,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/04/2019,55.8,50.2,52.7,,,0.05,0,0,10.6,229.63,,9,67.1,78.92,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/05/2019,59,50.8,53.9,,,0.23,0,0,17.1,105.75,37.5,8.6,74.3,82.7,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/06/2019,58.5,53.4,56,,,0.74,0,0,22.6,186.38,39.1,8,68.4,81.37,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/07/2019,54.2,50,51.7,,,0.07,0,0,13.7,261.29,,9.3,71.4,73.42,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/08/2019,54.8,47.6,50.7,41.6,,0,0,0,19.7,277.63,29.8,9.9,52.1,58.85,Partially cloudy
+"San Francisco, CA, United States",03/09/2019,55.7,45.8,49.6,40.1,,0.16,0,0,18.8,149.5,29.9,9.6,62.6,71.67,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/10/2019,56.3,46.7,50.3,41.3,,0.24,0,0,15.3,138.79,,9.1,57.7,79.43,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/11/2019,62.8,40.7,51.2,37.9,,0,0,0,20,265.42,31.1,9.9,12.8,74.19,Clear
+"San Francisco, CA, United States",03/12/2019,59.6,46.6,52.6,41.9,,0,0,0,29.9,267.88,43,9.9,24.6,70.35,Clear
+"San Francisco, CA, United States",03/13/2019,62,44.6,52.9,39.8,,0,0,0,17.9,300.83,24.5,9.9,0,51.86,Clear
+"San Francisco, CA, United States",03/14/2019,65.9,42.3,53.8,40.6,,0,0,0,16.4,208.46,21.9,9.8,15,55.63,Clear
+"San Francisco, CA, United States",03/15/2019,67.2,44.6,54.1,43.4,,0,0,0,13.7,213.46,,9.7,16.6,64.39,Clear
+"San Francisco, CA, United States",03/16/2019,67.7,46.7,55.9,44.6,,0,0,0,13.8,250.46,,9.9,20.1,64.9,Clear
+"San Francisco, CA, United States",03/17/2019,71.1,47.7,58.1,45.9,,0,0,0,8.2,275.42,,9.4,45.7,67.96,Partially cloudy
+"San Francisco, CA, United States",03/18/2019,71.5,51.9,58.5,,,0,0,0,16.1,188.21,,9.6,29.1,71.18,Partially cloudy
+"San Francisco, CA, United States",03/19/2019,68.7,50.7,58.3,,,0,0,0,17.9,200.17,32.8,9.1,56,67.18,Partially cloudy
+"San Francisco, CA, United States",03/20/2019,61.7,53.3,56.5,,,0.51,0,0,14.1,207.75,31.1,8.7,62.3,72.06,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/21/2019,62.1,47.7,54.5,47,,0,0,0,17.1,229.92,,9.8,32.6,71.33,Partially cloudy
+"San Francisco, CA, United States",03/22/2019,58.5,51.3,55.1,,,0.15,0,0,12.9,127.13,21.9,9,72.5,78.67,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/23/2019,62.1,54.1,57.6,,,0.22,0,0,19.6,248.83,24.2,9.3,46.7,71.16,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/24/2019,64,46,55.6,44,,0,0,0,9.5,186,,9.6,42.9,64.08,Partially cloudy
+"San Francisco, CA, United States",03/25/2019,63.5,53.1,57.8,,,0.45,0,0,21.8,178.13,32.2,8.1,70.6,67.62,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/26/2019,64.6,50.8,57.9,,,0.08,0,0,7.8,214.58,,9.1,60.7,75.16,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/27/2019,61.5,55.5,59,,,0.07,0,0,21.4,192.92,34.7,9.4,68,69.33,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/28/2019,63.3,51.7,56.1,,,0.05,0,0,17.1,188.71,32.2,9.6,53.4,69.88,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/29/2019,61.6,46.7,54.4,44.6,,0,0,0,17.3,269,21.9,9.6,36.5,75.02,Partially cloudy
+"San Francisco, CA, United States",03/30/2019,65.4,46.9,55.5,46.2,,0,0,0,18.9,217.5,,9.6,21.3,72.68,Clear
+"San Francisco, CA, United States",03/31/2019,70.6,48.3,57.7,46.2,,0,0,0,13.6,241.38,,9.6,30.2,72.64,Partially cloudy
+"San Francisco, CA, United States",04/01/2019,62.6,52.3,57.5,,,0.03,0,0,11.6,190.29,,9.6,63.5,73.96,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/02/2019,61.2,54.3,57.3,,,0.11,0,0,16.4,215.54,,8.6,71.9,79.1,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/03/2019,59.6,54,56.8,,,0,0,0,7.9,250.92,,9.9,70.5,77.56,Partially cloudy
+"San Francisco, CA, United States",04/04/2019,61.9,54.4,57.6,,,0,0,0,15.3,213.21,20.8,9.7,71.4,73.26,Partially cloudy
+"San Francisco, CA, United States",04/05/2019,62.1,55.7,57.8,,,0.08,0,0,13,174.5,,9.3,71.6,73.26,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/06/2019,66.5,54.5,60.1,,,0,0,0,12.4,185.75,,9.9,63.6,72.39,Partially cloudy
+"San Francisco, CA, United States",04/07/2019,69.1,56.8,61.6,,,0,0,0,12.4,225.54,,9.8,54.8,76.95,Partially cloudy
+"San Francisco, CA, United States",04/08/2019,70.5,56.5,61.5,,,0.01,0,0,19.8,244.13,21.9,8.6,60.3,82.64,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/09/2019,64.4,54.4,58.7,,,0.01,0,0,28.1,293.88,39.2,9.7,34.9,65.27,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/10/2019,66.3,49.8,58,46,,0,0,0,19.7,295.42,31.1,9.9,12.3,60.25,Clear
+"San Francisco, CA, United States",04/11/2019,61,51.8,56.1,,,0,0,0,27.2,295.54,43.7,9.6,34.8,69.76,Partially cloudy
+"San Francisco, CA, United States",04/12/2019,66,48.4,57.2,45.4,,0,0,0,19.5,282.25,31.1,9.9,25,67.91,Clear
+"San Francisco, CA, United States",04/13/2019,72.4,49.3,57.7,48.8,,0,0,0,17.2,260.46,20.8,9.9,35.8,73.26,Partially cloudy
+"San Francisco, CA, United States",04/14/2019,60.3,51.1,54.8,,,0,0,0,22.3,262.08,36.8,9.3,63.6,73.25,Partially cloudy
+"San Francisco, CA, United States",04/15/2019,59.5,50.6,54.3,,,0.04,0,0,16.7,230.54,23,9.5,65.3,69.27,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/16/2019,62.4,52.2,56.9,,,0.04,0,0,18.3,260.42,31.1,9.5,46.7,71.84,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/17/2019,68.8,50,57.7,47.4,,0,0,0,17.3,258.33,,9.8,25.4,70.91,Partially cloudy
+"San Francisco, CA, United States",04/18/2019,79.8,50.7,62.4,,,0,0,0,13.6,263.08,,9.9,32.1,66.53,Partially cloudy
+"San Francisco, CA, United States",04/19/2019,65.7,54.1,59,,,0,0,0,17.6,294.5,19.7,9.9,50,72.48,Partially cloudy
+"San Francisco, CA, United States",04/20/2019,59.9,51,55.3,,,0,0,0,32.9,265.63,43.7,9,71.6,78.74,Partially cloudy
+"San Francisco, CA, United States",04/21/2019,63.9,50.2,55.9,,,0,0,0,19.3,258.67,35.7,9.5,28,72.72,Partially cloudy
+"San Francisco, CA, United States",04/22/2019,73.4,49.3,59.5,47,,0,0,0,16.3,260.08,31.1,9.6,21,69.49,Clear
+"San Francisco, CA, United States",04/23/2019,85.3,54.5,67.6,,83.4,0,0,0,12.4,254.83,,9.8,31.3,59.1,Partially cloudy
+"San Francisco, CA, United States",04/24/2019,79.5,56.9,65.6,,,0,0,0,18.8,291.29,31.1,9.5,14.4,64.97,Clear
+"San Francisco, CA, United States",04/25/2019,65,53.5,57.9,,,0,0,0,21,299.71,32.2,9.1,21.7,75.03,Clear
+"San Francisco, CA, United States",04/26/2019,70.6,53,59.4,,,0,0,0,21,274,,9.3,60.3,73.15,Partially cloudy
+"San Francisco, CA, United States",04/27/2019,66.6,52.6,58.7,,,0,0,0,12.9,291.21,,9.5,44.3,71.53,Partially cloudy
+"San Francisco, CA, United States",04/28/2019,64.7,52.3,57.1,,,0,0,0,17.9,285,,8.9,44.3,69.21,Partially cloudy
+"San Francisco, CA, United States",04/29/2019,66.3,52.6,58.9,,,0,0,0,16.9,228.13,24.2,9.9,42.5,65.88,Partially cloudy
+"San Francisco, CA, United States",04/30/2019,64,54.4,58.4,,,0,0,0,19,247.46,26.4,9.9,42.1,65.25,Partially cloudy
+"San Francisco, CA, United States",05/01/2019,69.9,50,58.6,48.9,,0,0,0,20.7,279.42,,9.9,26,66.33,Partially cloudy
+"San Francisco, CA, United States",05/02/2019,71.1,50,59.4,,,0,0,0,18.5,308.46,,9.9,29,66.46,Partially cloudy
+"San Francisco, CA, United States",05/03/2019,67.5,50.6,57.8,,,0,0,0,19.6,281.38,,9.9,32.4,69.5,Partially cloudy
+"San Francisco, CA, United States",05/04/2019,63.5,50.9,55.9,,,0,0,0,18.5,280.42,21.9,9.9,49,70.26,Partially cloudy
+"San Francisco, CA, United States",05/05/2019,63.1,52,56.6,,,0,0,0,20.1,248.71,27.7,9.9,67.9,65.98,Partially cloudy
+"San Francisco, CA, United States",05/06/2019,61.6,54.5,57.4,,,0,0,0,16.7,243.96,24.2,9.8,79.6,71.25,Overcast
+"San Francisco, CA, United States",05/07/2019,64.6,54.5,58.4,,,0,0,0,15.5,247.08,16.1,9.9,55,69.82,Partially cloudy
+"San Francisco, CA, United States",05/08/2019,66.4,54.5,58.6,,,0,0,0,19.7,263.96,,9.9,62.9,73.14,Partially cloudy
+"San Francisco, CA, United States",05/09/2019,65,56,59.3,,,0,0,0,15.9,241.21,,9.8,76,73.58,Overcast
+"San Francisco, CA, United States",05/10/2019,67.5,55,59.9,,,0,0,0,18.7,290.08,,9.9,51.6,71.2,Partially cloudy
+"San Francisco, CA, United States",05/11/2019,66.1,55.9,59.1,,,0,0,0,19.6,280.08,21.9,9.9,56.3,72.29,Partially cloudy
+"San Francisco, CA, United States",05/12/2019,63.9,55,57.9,,,0,0,0,16.9,265.58,31.1,9.9,65.8,73.21,Partially cloudy
+"San Francisco, CA, United States",05/13/2019,65.3,54,58,,,0,0,0,20.3,271.67,29.9,9.9,65.9,71.45,Partially cloudy
+"San Francisco, CA, United States",05/14/2019,64.5,56,59.5,,,0,0,0,13.7,263.79,21.9,9.9,73.4,67.91,Partially cloudy
+"San Francisco, CA, United States",05/15/2019,65.2,55,60.4,,,0.45,0,0,24,174.67,34.9,8.9,74,76.69,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/16/2019,60.2,54.8,56.6,,,0.24,0,0,22.5,246.54,33.4,9.3,63.7,72.6,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/17/2019,63.4,53.5,57.8,,,0,0,0,19,273.71,26.4,9.9,48.1,62.42,Partially cloudy
+"San Francisco, CA, United States",05/18/2019,56.9,51.5,54.7,,,0.53,0,0,22.9,170.63,35.1,8.4,63.5,77.7,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/19/2019,60,51.5,56.1,,,0.52,0,0,15.1,219.67,27.4,9.2,63.9,74.78,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/20/2019,63.1,49.3,56.6,47.5,,0,0,0,17,256.83,21.9,9.9,54,72.48,Partially cloudy
+"San Francisco, CA, United States",05/21/2019,62.6,54.3,57.3,,,0.21,0,0,27.3,269,35,8.3,70,74.43,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/22/2019,66.8,52.5,59.7,,,0,0,0,19.1,283.42,31.1,9.6,47.1,70.39,Partially cloudy
+"San Francisco, CA, United States",05/23/2019,68.9,55,60.9,,,0,0,0,13.1,260.21,24.2,9.1,44.5,73.41,Partially cloudy
+"San Francisco, CA, United States",05/24/2019,67.3,55.5,60.4,,,0,0,0,17.4,246.21,25.3,9.9,57.7,71.54,Partially cloudy
+"San Francisco, CA, United States",05/25/2019,66.5,54.6,58.6,,,0,0,0,18.3,246.04,30,9.3,57.6,68.64,Partially cloudy
+"San Francisco, CA, United States",05/26/2019,61,53.5,56.3,,,0.04,0,0,30.8,270.71,37.3,9.4,65.7,68.42,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/27/2019,62.5,53.9,57.2,,,0,0,0,20.4,253.33,33.3,9.4,77.5,72.12,Overcast
+"San Francisco, CA, United States",05/28/2019,65,54.2,58.4,,,0,0,0,18.2,249.54,29.8,9.5,62.3,74.38,Partially cloudy
+"San Francisco, CA, United States",05/29/2019,67.3,54.6,59,,,0,0,0,21.7,275.88,35,8.7,49.6,74.42,Partially cloudy
+"San Francisco, CA, United States",05/30/2019,61.2,53.6,56.3,,,0,0,0,18,258.83,27.7,9.2,77.3,78.27,Overcast
+"San Francisco, CA, United States",05/31/2019,68,54.1,58.9,,,0,0,0,18.8,254.96,31.1,9.3,55.4,76.82,Partially cloudy
+"San Francisco, CA, United States",06/01/2019,70.8,54.1,59.8,,,0,0,0,19.8,267.71,27.1,9.1,48.1,77.88,Partially cloudy
+"San Francisco, CA, United States",06/02/2019,68,56,61.1,,,0,0,0,14.5,268.88,23,9.9,51.4,74.93,Partially cloudy
+"San Francisco, CA, United States",06/03/2019,68.9,54.6,59.7,,,0,0,0,18.4,298.83,,9.5,48.5,75.76,Partially cloudy
+"San Francisco, CA, United States",06/04/2019,79.4,53.4,64.3,,,0,0,0,15.3,308.79,,9.3,18.2,67.25,Clear
+"San Francisco, CA, United States",06/05/2019,72.5,57.6,63.8,,,0,0,0,20.2,290.79,32.2,9.3,30.8,67.11,Partially cloudy
+"San Francisco, CA, United States",06/06/2019,65.4,54.6,58.9,,,0,0,0,24.8,266.92,43.6,9.5,49.1,72.02,Partially cloudy
+"San Francisco, CA, United States",06/07/2019,70.5,51,60.7,,,0,0,0,19.5,266.46,41.4,9.8,18.3,61.13,Clear
+"San Francisco, CA, United States",06/08/2019,81.6,56.3,68.9,,79.8,0,0,0,15.7,275.79,21.9,9.9,25.7,46.8,Partially cloudy
+"San Francisco, CA, United States",06/09/2019,89.6,59.2,74.9,,86,0,0,0,14.1,194.25,21.9,9.7,43.5,38.64,Partially cloudy
+"San Francisco, CA, United States",06/10/2019,96.1,69.4,79.9,,94.2,0,0,0,15.2,198.25,,9.9,58,43.38,Partially cloudy
+"San Francisco, CA, United States",06/11/2019,97,68.4,80.2,,96.1,0,0,0,16.8,215.46,,9.9,35.1,45.2,Partially cloudy
+"San Francisco, CA, United States",06/12/2019,82.9,59.2,73.3,,82.8,0,0,0,18.8,289.17,27.7,9.9,46,57.6,Partially cloudy
+"San Francisco, CA, United States",06/13/2019,71.7,57.6,63.3,,,0,0,0,20.1,296.63,26.4,9.9,51.7,73.73,Partially cloudy
+"San Francisco, CA, United States",06/14/2019,66.8,56.5,59.8,,,0,0,0,21.3,268.29,31.1,9.6,65.4,75.12,Partially cloudy
+"San Francisco, CA, United States",06/15/2019,62.6,55.2,57.9,,,0,0,0,16.7,257.96,23,9.8,82.3,77.03,Overcast
+"San Francisco, CA, United States",06/16/2019,65.4,55,58.6,,,0,0,0,19.7,276.83,,9.6,67.3,76.36,Partially cloudy
+"San Francisco, CA, United States",06/17/2019,72.5,56.2,62.8,,,0,0,0,16.7,261.67,,9.7,43.7,71.62,Partially cloudy
+"San Francisco, CA, United States",06/18/2019,70.2,57.7,63,,,0,0,0,19.5,254.21,31.1,9.5,33.3,76,Partially cloudy
+"San Francisco, CA, United States",06/19/2019,70.8,59,63.4,,,0,0,0,20.4,253.88,25.3,9.2,61,76.45,Partially cloudy
+"San Francisco, CA, United States",06/20/2019,71.5,57.1,63.7,,,0,0,0,14.7,258.5,23,9.8,38.2,69.3,Partially cloudy
+"San Francisco, CA, United States",06/21/2019,70.3,56,62.6,,,0,0,0,19.2,257.58,,9.6,32.8,68.32,Partially cloudy
+"San Francisco, CA, United States",06/22/2019,78.8,54.8,65.7,,,0,0,0,18,291.88,,9.1,9.1,65.53,Clear
+"San Francisco, CA, United States",06/23/2019,79.3,56.9,66.6,,,0,0,0,20,307.96,29.8,9,16.8,67.18,Clear
+"San Francisco, CA, United States",06/24/2019,73.7,56.2,63.4,,,0,0,0,17.5,283.25,,9.5,48.1,73.61,Partially cloudy
+"San Francisco, CA, United States",06/25/2019,71.9,56.6,63.5,,,0,0,0,17,284.58,35.7,9.6,31.4,65.48,Partially cloudy
+"San Francisco, CA, United States",06/26/2019,68.6,58.2,62.6,,,0,0,0,18.1,267.42,31.1,9.9,47.6,69.43,Partially cloudy
+"San Francisco, CA, United States",06/27/2019,69.8,58.2,62.9,,,0,0,0,21.6,275.92,34.4,9.8,58.8,66.86,Partially cloudy
+"San Francisco, CA, United States",06/28/2019,70.3,58,63,,,0,0,0,19.6,271.92,33.3,9.9,45.4,65.86,Partially cloudy
+"San Francisco, CA, United States",06/29/2019,68.2,54.8,61.4,,,0,0,0,18.5,286.08,,9.9,41,68.79,Partially cloudy
+"San Francisco, CA, United States",06/30/2019,68.2,56,61.5,,,0,0,0,16.9,288.13,20.8,9.7,33.7,71.2,Partially cloudy
+"San Francisco, CA, United States",07/01/2019,68.9,56.9,61.9,,,0,0,0,17,263.38,26.4,9.7,50.5,70.9,Partially cloudy
+"San Francisco, CA, United States",07/02/2019,67.8,56.5,61.4,,,0,0,0,18.1,257.96,32.2,9.5,35.5,71.71,Partially cloudy
+"San Francisco, CA, United States",07/03/2019,68.7,56,61.4,,,0,0,0,17.4,260.58,33.3,9.4,52.9,71.11,Partially cloudy
+"San Francisco, CA, United States",07/04/2019,71.1,56.5,61.5,,,0,0,0,17.7,264,,9.1,44.6,72.01,Partially cloudy
+"San Francisco, CA, United States",07/05/2019,71.4,57.2,62.7,,,0,0,0,17.8,293.71,,9.6,35.5,69.91,Partially cloudy
+"San Francisco, CA, United States",07/06/2019,70.6,56.5,62.4,,,0,0,0,19.6,286.83,32.2,9.1,45.7,67.87,Partially cloudy
+"San Francisco, CA, United States",07/07/2019,66.3,56.8,61.2,,,0,0,0,18,259.63,32.2,9.2,53.4,70.79,Partially cloudy
+"San Francisco, CA, United States",07/08/2019,63.7,57.8,60.5,,,0,0,0,19.5,252,31.1,9.5,82.1,75.06,Overcast
+"San Francisco, CA, United States",07/09/2019,69.7,58.2,63.1,,,0,0,0,15.9,263.58,23,9.9,75,74.57,Partially cloudy
+"San Francisco, CA, United States",07/10/2019,72.7,61.9,65.9,,,0,0,0,20.1,275.42,29.8,9.9,51.3,73.78,Partially cloudy
+"San Francisco, CA, United States",07/11/2019,71,58.5,63.6,,,0,0,0,19.7,288.42,33.3,9.6,44.6,77.07,Partially cloudy
+"San Francisco, CA, United States",07/12/2019,69.8,57,61.9,,,0,0,0,20.3,286.13,35,9.7,49.2,75.85,Partially cloudy
+"San Francisco, CA, United States",07/13/2019,68.2,56.9,61.8,,,0,0,0,18.6,286.63,27.7,9.8,45.1,74.64,Partially cloudy
+"San Francisco, CA, United States",07/14/2019,67,56.6,62.5,,,0,0,0,17.1,288.38,25.3,9.7,28.5,71.99,Partially cloudy
+"San Francisco, CA, United States",07/15/2019,74.7,58,66,,,0,0,0,25.1,273.25,47.2,9.9,10.1,65.38,Clear
+"San Francisco, CA, United States",07/16/2019,73.9,59.2,64.7,,,0,0,0,22.2,268.67,40.3,9.9,47.2,71.69,Partially cloudy
+"San Francisco, CA, United States",07/17/2019,78.3,59.4,66.2,,,0,0,0,18.2,246.33,20.8,9.9,38.8,67.5,Partially cloudy
+"San Francisco, CA, United States",07/18/2019,75.1,58.3,65.3,,,0,0,0,15.2,292.21,17.2,9.9,42.7,71.69,Partially cloudy
+"San Francisco, CA, United States",07/19/2019,74.8,61.5,66.7,,,0,0,0,14.9,250.17,16.1,9.9,38.4,67.48,Partially cloudy
+"San Francisco, CA, United States",07/20/2019,72.9,59.5,64.9,,,0,0,0,18.4,278.83,19.7,9.9,48.7,68.94,Partially cloudy
+"San Francisco, CA, United States",07/21/2019,72.6,59.5,64.6,,,0,0,0,16.5,286.42,,9.9,51.5,71.91,Partially cloudy
+"San Francisco, CA, United States",07/22/2019,75.5,57.5,64.6,,,0,0,0,18,304.25,,9.9,21.9,71.78,Clear
+"San Francisco, CA, United States",07/23/2019,70.3,58.5,63.6,,,0,0,0,19.4,300.58,29.9,9.8,25.6,71.48,Partially cloudy
+"San Francisco, CA, United States",07/24/2019,84.6,55.6,67.7,,83.1,0,0,0,17.4,287.21,,9.7,20.1,64.12,Clear
+"San Francisco, CA, United States",07/25/2019,72.1,58.7,64.9,,,0,0,0,19.5,302.38,31.1,9.4,33.5,69.25,Partially cloudy
+"San Francisco, CA, United States",07/26/2019,73.2,56.7,63.7,,,0,0,0,18.4,302.75,,9.9,37.9,73.71,Partially cloudy
+"San Francisco, CA, United States",07/27/2019,80,56.6,67.3,,,0,0,0,15.2,260.25,,9.2,32.6,69.35,Partially cloudy
+"San Francisco, CA, United States",07/28/2019,76.6,59.7,67,,,0,0,0,21.2,304.04,32.2,9.8,13,66.8,Clear
+"San Francisco, CA, United States",07/29/2019,68.5,58.2,63.1,,,0,0,0,22.2,274.83,45.6,8.9,32.9,71.88,Partially cloudy
+"San Francisco, CA, United States",07/30/2019,69.5,58.5,62.9,,,0,0,0,18.9,262.42,39.2,9.4,53.7,71.04,Partially cloudy
+"San Francisco, CA, United States",07/31/2019,74.2,58.4,64,,,0,0,0,18.1,270.08,,9.8,38.3,72.08,Partially cloudy
+"San Francisco, CA, United States",08/01/2019,67.5,60.9,63.8,,,0,0,0,18.9,272.96,29.9,9.9,64.6,76.18,Partially cloudy
+"San Francisco, CA, United States",08/02/2019,70.1,60.9,64.2,,,0,0,0,18.2,268.92,32.2,9.4,58.3,77.75,Partially cloudy
+"San Francisco, CA, United States",08/03/2019,74.1,60.1,65.3,,,0,0,0,20.1,274.46,30.1,9.9,51.6,76.27,Partially cloudy
+"San Francisco, CA, United States",08/04/2019,72.6,61.2,65.2,,,0,0,0,20.3,274.67,37.9,9.8,60.7,75.76,Partially cloudy
+"San Francisco, CA, United States",08/05/2019,74.3,60.5,65.2,,,0,0,0,17.7,267.13,,9.3,64.9,74.26,Partially cloudy
+"San Francisco, CA, United States",08/06/2019,73.7,59.3,64.6,,,0,0,0,19.3,283.04,,9.4,48.4,74.33,Partially cloudy
+"San Francisco, CA, United States",08/07/2019,69.4,60.3,63.8,,,0,0,0,17.4,255.92,32.8,9.6,57.7,72.77,Partially cloudy
+"San Francisco, CA, United States",08/08/2019,71.1,60.2,64.9,,,0,0,0,24.7,260.25,34.4,9.8,59.4,69.69,Partially cloudy
+"San Francisco, CA, United States",08/09/2019,76,61.2,67.5,,,0,0,0,17.6,273,30,9.9,41,67.82,Partially cloudy
+"San Francisco, CA, United States",08/10/2019,74.6,61.9,68.1,,,0,0,0,18.6,283.63,27.7,9.8,59.2,75.79,Partially cloudy
+"San Francisco, CA, United States",08/11/2019,80,60.3,67.5,,,0,0,0,21.2,290.79,32.2,9.9,45.1,69.72,Partially cloudy
+"San Francisco, CA, United States",08/12/2019,84.8,60.1,68.9,,83.9,0,0,0,21.1,255.5,35.1,9.9,10.6,66.04,Clear
+"San Francisco, CA, United States",08/13/2019,81.6,58,69.5,,81.2,0,0,0,17.9,298.92,28.9,9.9,12.1,64.78,Clear
+"San Francisco, CA, United States",08/14/2019,92.5,61.2,73.7,,90.9,0,0,0,16.6,297.67,21.9,9.9,0,58.02,Clear
+"San Francisco, CA, United States",08/15/2019,91.6,62.5,74.4,,90.7,0,0,0,13.7,309.75,,9.9,0.5,58.54,Clear
+"San Francisco, CA, United States",08/16/2019,80.7,61.4,69.2,,81,0,0,0,18.2,298.21,26.4,9.4,4.3,66.1,Clear
+"San Francisco, CA, United States",08/17/2019,74,61.1,66.3,,,0,0,0,15.4,229,23,9.7,27.5,67.7,Partially cloudy
+"San Francisco, CA, United States",08/18/2019,74.4,61.6,66.4,,,0,0,0,18.8,195.92,27.7,9.9,33,66.75,Partially cloudy
+"San Francisco, CA, United States",08/19/2019,70.6,60.2,64.4,,,0,0,0,17.3,254.75,24.2,9.9,65.9,72.7,Partially cloudy
+"San Francisco, CA, United States",08/20/2019,70.9,62.6,65.9,,,0,0,0,20.5,270.63,31.1,9.9,66.5,70.62,Partially cloudy
+"San Francisco, CA, United States",08/21/2019,77.5,59.7,68.1,,,0,0,0,20.9,279.58,42.6,9.9,34.5,71.43,Partially cloudy
+"San Francisco, CA, United States",08/22/2019,79.2,62.2,69.2,,,0,0,0,20.6,283.29,34.5,8.9,50.5,75.86,Partially cloudy
+"San Francisco, CA, United States",08/23/2019,77,60.2,67.2,,,0,0,0,17.7,311.29,24.2,9.4,17.9,72.12,Clear
+"San Francisco, CA, United States",08/24/2019,72.9,61.8,66,,,0,0,0,16.4,299.75,26.4,9.7,41.4,74.94,Partially cloudy
+"San Francisco, CA, United States",08/25/2019,75.2,59.2,65.6,,,0,0,0,17.1,306.96,25.3,8.8,37.1,75.96,Partially cloudy
+"San Francisco, CA, United States",08/26/2019,80.4,56.7,66,,80.4,0,0,0,17.1,294.71,,9.9,25,71.78,Clear
+"San Francisco, CA, United States",08/27/2019,75,58.3,65.6,,,0,0,0,18.2,303.71,,9.9,25.4,73.86,Partially cloudy
+"San Francisco, CA, United States",08/28/2019,74.2,60.5,66.3,,,0,0,0,19.8,290.79,24.2,9.8,58.9,74.43,Partially cloudy
+"San Francisco, CA, United States",08/29/2019,76.7,65.2,70.4,,,0,0,0,18.2,262.96,24.2,9.6,50.1,65.59,Partially cloudy
+"San Francisco, CA, United States",08/30/2019,73.5,62.9,66.9,,,0,0,0,19.5,279.83,29.8,9.9,43.6,75.09,Partially cloudy
+"San Francisco, CA, United States",08/31/2019,82.9,59.9,69.3,,82.4,0,0,0,16.8,295.33,31.1,9.9,12,68.49,Clear
+"San Francisco, CA, United States",09/01/2019,77.5,60.1,68.8,,,0,0,0,19.2,301.58,34.5,9.7,10.7,70.6,Clear
+"San Francisco, CA, United States",09/02/2019,71.2,62.1,66,,,0,0,0,19,292.17,31.1,9.8,35,73.36,Partially cloudy
+"San Francisco, CA, United States",09/03/2019,73.5,61.1,65.6,,,0,0,0,18.2,274.92,32.2,9.9,52.2,73.49,Partially cloudy
+"San Francisco, CA, United States",09/04/2019,73.8,58.2,64.5,,,0,0,0,19.2,296.5,30.1,9.9,43,76.26,Partially cloudy
+"San Francisco, CA, United States",09/05/2019,72.3,59.6,64.4,,,0,0,0,20.7,273.88,32.2,9.5,61.5,76.89,Partially cloudy
+"San Francisco, CA, United States",09/06/2019,69.7,61.1,64.4,,,0,0,0,18.7,267.5,30,9.7,57.2,76.24,Partially cloudy
+"San Francisco, CA, United States",09/07/2019,70.7,61.6,64.8,,,0,0,0,25,267.38,41.4,9.9,72.7,74.37,Partially cloudy
+"San Francisco, CA, United States",09/08/2019,71.9,61.3,65.1,,,0,0,0,19,267.54,37.5,9.9,29.5,72.67,Partially cloudy
+"San Francisco, CA, United States",09/09/2019,75.1,58.1,65.3,,,0,0,0,22.5,254.46,35.7,9.9,33.6,74.08,Partially cloudy
+"San Francisco, CA, United States",09/10/2019,71.3,59.5,64.5,,,0,0,0,21.5,256.92,35.7,9.9,37.6,74.5,Partially cloudy
+"San Francisco, CA, United States",09/11/2019,80.8,57.5,67.2,,80.8,0,0,0,18.3,253.33,,9.9,8.6,67.07,Clear
+"San Francisco, CA, United States",09/12/2019,89.1,60.2,72.4,,86.7,0,0,0,14.9,217.13,,9.9,9.3,54.16,Clear
+"San Francisco, CA, United States",09/13/2019,94.5,63.8,75.6,,91,0,0,0,15.6,210.04,,9.9,26.1,48.2,Partially cloudy
+"San Francisco, CA, United States",09/14/2019,75.5,61.4,67.4,,,0,0,0,18.2,296.5,32.2,9.9,20.7,66.74,Clear
+"San Francisco, CA, United States",09/15/2019,72.4,61.1,65.7,,,0,0,0,19.6,260.96,29.9,9.9,64.4,74.81,Partially cloudy
+"San Francisco, CA, United States",09/16/2019,71,61.5,66.3,,,0.09,0,0,17.6,267.92,29.8,9.1,53.9,74.78,"Rain, Partially cloudy"
+"San Francisco, CA, United States",09/17/2019,73.9,56.8,65.1,,,0,0,0,21.2,239.21,32.2,9.9,15.4,67.04,Clear
+"San Francisco, CA, United States",09/18/2019,73.4,62.8,67,,,0.05,0,0,18.9,246.79,19.7,9.6,56.2,73.05,"Rain, Partially cloudy"
+"San Francisco, CA, United States",09/19/2019,73.7,56.4,65,,,0,0,0,18.5,295.88,24.2,9.9,17.5,66.58,Clear
+"San Francisco, CA, United States",09/20/2019,80.8,57.7,68,,80.1,0,0,0,15,227.04,,9.9,5.8,57.85,Clear
+"San Francisco, CA, United States",09/21/2019,83.9,60.2,70,,81.9,0,0,0,17.1,244.25,,9.9,0.5,55.2,Clear
+"San Francisco, CA, United States",09/22/2019,72,59,64.8,,,0,0,0,17.3,301.25,27.7,9.9,26.9,72.11,Partially cloudy
+"San Francisco, CA, United States",09/23/2019,81.1,59.7,67.9,,80.9,0,0,0,17.9,289.63,,9.7,32.6,69.64,Partially cloudy
+"San Francisco, CA, United States",09/24/2019,90.4,61.2,74.4,,87.4,0,0,0,16.8,223.42,,9.9,6.2,49.88,Clear
+"San Francisco, CA, United States",09/25/2019,94.5,65.1,77.8,,93.1,0,0,0,16.3,258.5,,9.9,18,48.22,Clear
+"San Francisco, CA, United States",09/26/2019,79.5,64.8,71.2,,,0,0,0,16.3,257.13,31.1,9.9,16.5,64.99,Clear
+"San Francisco, CA, United States",09/27/2019,68,58.5,63.7,,,0,0,0,19.6,261.38,26.4,9.7,66.4,76.48,Partially cloudy
+"San Francisco, CA, United States",09/28/2019,67.9,56.2,60.8,,,0,0,0,28.6,270.83,48.4,9.9,37.9,62.95,Partially cloudy
+"San Francisco, CA, United States",09/29/2019,67.2,50,59.4,,,0,0,0,19.8,244.13,28.8,9.9,21.8,60.77,Clear
+"San Francisco, CA, United States",09/30/2019,66,53.2,59.1,,,0.01,0,0,21.8,269.54,31.1,9.9,32.3,63.88,"Rain, Partially cloudy"
+"San Francisco, CA, United States",10/01/2019,68.8,48.4,58.2,48,,0,0,0,19.6,244.13,,9.9,10.4,60.8,Clear
+"San Francisco, CA, United States",10/02/2019,71.9,49.8,59.4,,,0,0,0,17.1,235.08,,9.9,1.4,59.79,Clear
+"San Francisco, CA, United States",10/03/2019,66.3,51.7,58.8,,,0,0,0,19.2,271.88,33.4,9.9,9.9,67.5,Clear
+"San Francisco, CA, United States",10/04/2019,71.7,50.6,60.3,,,0,0,0,18.5,254,31.1,9.9,6.4,59.59,Clear
+"San Francisco, CA, United States",10/05/2019,78.9,51.9,63.2,,,0,0,0,12.8,209.42,24.2,9.9,1.4,51.51,Clear
+"San Francisco, CA, United States",10/06/2019,83.2,54.8,67.3,,81,0,0,0,11.7,180.25,,9.9,29.8,45.77,Partially cloudy
+"San Francisco, CA, United States",10/07/2019,82.3,58.6,68.5,,80.6,0,0,0,14,191.25,,9.9,36.9,48.23,Partially cloudy
+"San Francisco, CA, United States",10/08/2019,76.4,54.5,63.8,,,0,0,0,16.7,290.63,,9.9,29.4,60.27,Partially cloudy
+"San Francisco, CA, United States",10/09/2019,71,51.8,60.9,,,0,0,0,17.6,259.08,35.6,9.9,1,60,Clear
+"San Francisco, CA, United States",10/10/2019,76.2,56,64.6,,,0,0,0,15.8,150.38,31.7,9.9,30.2,27.93,Partially cloudy
+"San Francisco, CA, United States",10/11/2019,77,52.6,63.6,,,0,0,0,8.8,226.54,,9.9,25.2,36.72,Partially cloudy
+"San Francisco, CA, United States",10/12/2019,75.1,51.4,61.9,,,0,0,0,11.7,220.33,,9.9,34.1,44.29,Partially cloudy
+"San Francisco, CA, United States",10/13/2019,70,50,58.2,,,0,0,0,15.9,290,,9.9,38.1,63.64,Partially cloudy
+"San Francisco, CA, United States",10/14/2019,66.8,48.4,56.2,46.2,,0,0,0,15.8,232.04,,9.9,26.7,74.77,Partially cloudy
+"San Francisco, CA, United States",10/15/2019,65.3,47.2,55.2,44.2,,0,0,0,15,296.13,,8.3,42,78.87,Partially cloudy
+"San Francisco, CA, United States",10/16/2019,65.3,50.2,57.6,,,0,0,0,14.7,301.33,,9.9,49.2,75.77,Partially cloudy
+"San Francisco, CA, United States",10/17/2019,67.8,56.3,61.3,,,0,0,0,26.6,283.33,38.1,9.9,33.4,69.24,Partially cloudy
+"San Francisco, CA, United States",10/18/2019,65.6,52,58.7,,,0,0,0,19.6,209.17,17.2,9.9,27.3,70.45,Partially cloudy
+"San Francisco, CA, United States",10/19/2019,68,51.5,58.3,,,0,0,0,12.6,234.29,21.9,9.8,50.9,76.72,Partially cloudy
+"San Francisco, CA, United States",10/20/2019,70.1,51.1,60,,,0,0,0,15.3,243.67,,9.8,20.1,70.87,Clear
+"San Francisco, CA, United States",10/21/2019,78.9,52.8,63.8,,,0,0,0,8.9,221.25,,9.9,3.4,65.21,Clear
+"San Francisco, CA, United States",10/22/2019,82.7,55.8,67.1,,80.9,0,0,0,11.1,208.88,,9.9,12.9,52.8,Clear
+"San Francisco, CA, United States",10/23/2019,84.1,56.4,67.7,,81.7,0,0,0,13,235.58,19.7,9.9,11.6,53.93,Clear
+"San Francisco, CA, United States",10/24/2019,87.4,63.5,75.2,,83.8,0,0,0,10.8,132.42,18.3,9.9,22.5,23.52,Clear
+"San Francisco, CA, United States",10/25/2019,84.5,59.9,70.1,,81.5,0,0,0,11.7,169.96,,9.9,16.3,36.92,Clear
+"San Francisco, CA, United States",10/26/2019,73.3,54.3,62.5,,,0,0,0,16.9,263.71,,9.8,35.6,59.88,Partially cloudy
+"San Francisco, CA, United States",10/27/2019,69.8,51.5,62,,,0,0,0,27.1,157.79,39.5,9.1,19.7,35.8,Clear
+"San Francisco, CA, United States",10/28/2019,70.3,51.7,60.6,,,0,0,0,14.3,195.13,31.1,9.9,18.9,23.6,Clear
+"San Francisco, CA, United States",10/29/2019,71.7,47.4,57.5,45.2,,0,0,0,12.7,145.21,31.1,9.9,21,38.95,Clear
+"San Francisco, CA, United States",10/30/2019,68.7,50.6,58.3,,,0,0,0,12.1,116.21,,9.9,0.5,23.57,Clear
+"San Francisco, CA, United States",10/31/2019,69.9,50,58.1,,,0,0,0,10.3,186.54,,9.9,2.4,34.44,Clear
+"San Francisco, CA, United States",11/01/2019,70.1,45.8,56.6,43.3,,0,0,0,6.8,206.96,,9.9,0.5,39.13,Clear
+"San Francisco, CA, United States",11/02/2019,71.4,46.4,57.3,47.8,,0,0,0,5.3,194.25,,9.9,6.2,46.65,Clear
+"San Francisco, CA, United States",11/03/2019,73.5,46.6,58.3,45.2,,0,0,0,11.3,201.71,,9.9,2.4,47.72,Clear
+"San Francisco, CA, United States",11/04/2019,69.6,47.6,56.2,45.3,,0,0,0,12.3,312.38,,9.9,7.7,70.5,Clear
+"San Francisco, CA, United States",11/05/2019,68.2,47.4,55.4,45.3,,0,0,0,13.1,272.17,,7.8,21,78.79,Clear
+"San Francisco, CA, United States",11/06/2019,60.7,50.9,53.9,,,0,0,0,15.9,279.75,,8.7,49,82.42,Partially cloudy
+"San Francisco, CA, United States",11/07/2019,60.2,50.2,53.3,,,0,0,0,16.5,260.83,,4.7,67.7,85.22,Partially cloudy
+"San Francisco, CA, United States",11/08/2019,61.5,50.2,54.1,,,0,0,0,15.7,211.13,,3.6,58.9,83.77,Partially cloudy
+"San Francisco, CA, United States",11/09/2019,59.3,50.3,53.3,,,0,0,0,15.8,270,,4.3,54.8,87.06,Partially cloudy
+"San Francisco, CA, United States",11/10/2019,62.7,51.5,54.5,,,0,0,0,13.8,227.75,,6.4,48.2,82.47,Partially cloudy
+"San Francisco, CA, United States",11/11/2019,71.8,47.3,58,,,0,0,0,9.3,233.92,,8.2,43,72.19,Partially cloudy
+"San Francisco, CA, United States",11/12/2019,70.9,50.5,59.1,,,0,0,0,7.5,288.92,,9.7,49.9,69.13,Partially cloudy
+"San Francisco, CA, United States",11/13/2019,61.4,49.7,54.7,,,0,0,0,14.3,309.21,,8.2,53.9,81.03,Partially cloudy
+"San Francisco, CA, United States",11/14/2019,61.8,52.4,57.2,,,0,0,0,9.7,208.33,21.9,8.7,71.3,77.86,Partially cloudy
+"San Francisco, CA, United States",11/15/2019,66.3,55.7,59.2,,,0,0,0,17.1,247.29,,9.6,57.8,75.78,Partially cloudy
+"San Francisco, CA, United States",11/16/2019,65.5,53.1,56.4,,,0,0,0,11.5,218.29,,5,63.9,86.46,Partially cloudy
+"San Francisco, CA, United States",11/17/2019,73.8,50,59.6,,,0,0,0,8.7,210.38,,9.7,23.1,70.13,Clear
+"San Francisco, CA, United States",11/18/2019,69.1,50.6,59,,,0,0,0,13.6,162.38,29.8,8.9,12.9,70.49,Clear
+"San Francisco, CA, United States",11/19/2019,63,53.2,57.2,,,0,0,0,21.9,260.25,42,9.5,42.6,79.19,Partially cloudy
+"San Francisco, CA, United States",11/20/2019,69.4,49.6,58.5,48.1,,0,0,0,16.5,277.38,30.6,9.9,25.6,55.81,Partially cloudy
+"San Francisco, CA, United States",11/21/2019,61.9,51.5,56.4,,,0,0,0,11.7,155.38,,9.8,11.1,60.61,Clear
+"San Francisco, CA, United States",11/22/2019,63.4,47.4,54.4,45.5,,0,0,0,10.1,205.25,,9.6,15,73.82,Clear
+"San Francisco, CA, United States",11/23/2019,66,46.2,54.7,45.1,,0,0,0,8.7,223.63,,9.9,3.8,69.28,Clear
+"San Francisco, CA, United States",11/24/2019,66.5,45,54.2,43.5,,0,0,0,12,227.71,,9.9,16.9,67.36,Clear
+"San Francisco, CA, United States",11/25/2019,63.9,46.1,54.1,43.1,,0,0,0,19.9,283,29.9,9.8,18.3,62.62,Clear
+"San Francisco, CA, United States",11/26/2019,54.1,45.5,50.1,41.5,,0.78,0,0,32,222.08,43.2,9.1,48.6,63.02,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/27/2019,52.3,44.6,48,40.6,,0.31,0,0,19.4,225.67,35.5,9.4,63.3,73.15,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/28/2019,50,40.3,45.1,36.8,,0,0,0,14.3,116.08,,9.9,50.1,75.01,Partially cloudy
+"San Francisco, CA, United States",11/29/2019,52.5,39.2,45.5,35.3,,0.05,0,0,11.7,135.38,,9.9,43.6,75.5,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/30/2019,53.4,40,47.6,36.4,,0.13,0,0,23,115.79,36.8,9.3,58.5,77.19,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/01/2019,57.8,54.8,56.1,,,0.09,0,0,24.4,134.21,35,9.5,72.9,76.96,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/02/2019,59.6,54.6,56.4,,,0.29,0,0,14.9,100.83,32.2,8.4,74.1,83.02,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/03/2019,60.2,52.3,55.9,,,0.04,0,0,9.1,114.21,16.1,9.6,54,82.97,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/04/2019,56.7,53.4,55.2,,,0.24,0,0,8.8,77.75,,8.6,77.9,84.62,"Rain, Overcast"
+"San Francisco, CA, United States",12/05/2019,59,50.6,55.7,,,0.01,0,0,6.8,124.5,,8.1,67.5,85.07,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/06/2019,65.2,55.2,59.3,,,0.2,0,0,20.1,120.29,32.3,9.5,68.2,73.76,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/07/2019,64.2,56,60.1,,,0.48,0,0,26.1,170.17,41.8,8.1,67.1,80.58,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/08/2019,60.1,52.3,56.6,,,0.25,0,0,13.4,269.46,,9,58.8,86.19,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/09/2019,56.4,49.6,53.1,48.2,,0,0,0,8.2,146,,5.6,67.3,85.12,Partially cloudy
+"San Francisco, CA, United States",12/10/2019,58.5,50.9,54.4,,,0.18,0,0,11.4,188.63,,9,57,78.74,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/11/2019,60.7,53.8,57,,,0.05,0,0,7.7,127,,7.7,81.3,85.14,"Rain, Overcast"
+"San Francisco, CA, United States",12/12/2019,62,58.5,60.3,,,0.06,0,0,8.6,161.92,,9.1,72,88.32,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/13/2019,59.7,55.8,57,,,0.02,0,0,11.6,228.96,,5.7,70.4,88.38,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/14/2019,58.2,50.9,54.8,,,0.02,0,0,22.4,283.67,33.3,9.7,47.2,73.13,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/15/2019,57.2,47.1,51.7,42.7,,0,0,0,13,267.58,24.2,9.9,29.6,66.56,Partially cloudy
+"San Francisco, CA, United States",12/16/2019,57.4,42.6,49.2,39.5,,0,0,0,12.7,141.96,16.1,9.9,32,65.68,Partially cloudy
+"San Francisco, CA, United States",12/17/2019,56.4,44.4,49.4,41.2,,0,0,0,10.4,123.75,,9.9,54.4,64.22,Partially cloudy
+"San Francisco, CA, United States",12/18/2019,56.9,50.6,53.6,,,0.26,0,0,18.1,153.42,29.8,8.4,74.3,78.6,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/19/2019,58.8,52.1,55.3,,,0.03,0,0,7.8,195.71,,9.3,68.2,82.79,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/20/2019,56.6,47.3,52.1,,,0,0,0,6.3,200.96,,7.6,45.6,84.96,Partially cloudy
+"San Francisco, CA, United States",12/21/2019,61.3,47.9,54,46,,0,0,0,10,110.58,,9.1,59.9,73.8,Partially cloudy
+"San Francisco, CA, United States",12/22/2019,56.1,46.7,52.3,44,,0.55,0,0,17.7,169.79,36.8,8.3,53.9,77.02,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/23/2019,54.3,40.3,47.6,38.1,,0,0,0,8.4,269.75,,9.9,33.2,80.87,Partially cloudy
+"San Francisco, CA, United States",12/24/2019,53.9,42.9,49.1,39.9,,0,0,0,10.9,199.58,,9.8,49.5,74.06,Partially cloudy
+"San Francisco, CA, United States",12/25/2019,54.4,47.4,50.3,42.5,,0.06,0,0,24.5,104.17,31.6,9.7,64.2,76.82,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/26/2019,56.9,45.1,50.2,43,,0,0,0,18.4,183.38,37.3,9.9,35,63.61,Partially cloudy
+"San Francisco, CA, United States",12/27/2019,58.8,38.1,47.5,35.2,,0,0,0,11.8,190.08,,9.9,23.1,69.66,Clear
+"San Francisco, CA, United States",12/28/2019,57.2,38.9,47.6,37.4,,0,0,0,9.2,193.63,,9.8,24,77.04,Clear
+"San Francisco, CA, United States",12/29/2019,55.5,48.9,51.7,45.6,,0.44,0,0,13.5,136.25,,8.2,74.6,82.83,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/30/2019,56.6,46.9,51.2,44.1,,0.02,0,0,12.3,183.29,31.1,9.7,33.7,77.59,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/31/2019,59.9,43.1,50.5,41.6,,0,0,0,8.7,161.96,,9.8,26,77.46,Partially cloudy
+"San Francisco, CA, United States",01/01/2020,57.7,47.1,52.4,45.2,,0,0,0,15,213.13,32.2,8.7,61,86.67,Partially cloudy
+"San Francisco, CA, United States",01/02/2020,59.5,46.3,51.9,44.3,,0,0,0,8.7,254.25,29.8,8.3,43.8,82.37,Partially cloudy
+"San Francisco, CA, United States",01/03/2020,58.1,43.9,50.8,41.8,,0,0,0,7.9,148.88,,9.5,47.8,77.09,Partially cloudy
+"San Francisco, CA, United States",01/04/2020,59.3,49.2,52.8,46.2,,0.01,0,0,11.3,220.17,,9.7,49.2,80,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/05/2020,57.9,42,50.3,40.5,,0,0,0,12.1,269.75,29.8,9.9,25.7,76.05,Partially cloudy
+"San Francisco, CA, United States",01/06/2020,57.7,42,49.9,41.2,,0,0,0,6.7,192.17,,9.9,2.4,70.31,Clear
+"San Francisco, CA, United States",01/07/2020,56.4,41.2,49.5,42.9,,0.01,0,0,12.8,195.13,26.4,9.7,36,75.54,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/08/2020,56,47.8,52.5,46.1,,0.01,0,0,13.9,249.75,23,9.5,53.9,80.42,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/09/2020,55.2,46.7,51.6,46.3,,0.16,0,0,21.1,172.54,36.9,9.1,52.1,77.47,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/10/2020,56.6,40.8,48.1,37.8,,0,0,0,12.7,176.33,,9.9,31.4,77.82,Partially cloudy
+"San Francisco, CA, United States",01/11/2020,57.4,46.7,51.5,45.6,,0.03,0,0,15.9,243.29,29.8,9.1,46.5,77.26,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/12/2020,54.6,40.6,48,37.8,,0,0,0,14.4,233.17,,9.9,48.7,77.84,Partially cloudy
+"San Francisco, CA, United States",01/13/2020,55.9,45.5,51.2,42.5,,0.04,0,0,11.1,201.63,,9.1,59.4,81.31,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/14/2020,56.1,47.8,51.8,45.7,,0.07,0,0,16.3,253,29.8,9.2,47,72.59,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/15/2020,52.3,39.4,46,41.8,,0,0,0,10.8,143.08,,9.9,45.3,76.74,Partially cloudy
+"San Francisco, CA, United States",01/16/2020,51.5,46.5,49.1,41.2,,0.83,0,0,24.5,147.71,36.2,8.7,73.1,76,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/17/2020,54.1,39.3,47,37.9,,0.19,0,0,10.1,156,,9.9,47.1,77.55,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/18/2020,55.8,43.5,48.9,38.9,,0,0,0,10.3,91.17,,9.9,55.5,69.92,Partially cloudy
+"San Francisco, CA, United States",01/19/2020,54.3,45.4,49.1,41.9,,0,0,0,8.8,111,,9.9,59.6,67.31,Partially cloudy
+"San Francisco, CA, United States",01/20/2020,55.9,46.7,50.5,44.4,,0,0,0,7,136.17,,9.8,62.9,72.83,Partially cloudy
+"San Francisco, CA, United States",01/21/2020,57.5,49.9,53.8,47.9,,0.05,0,0,13.5,141.17,23,8.8,80,79.58,"Rain, Overcast"
+"San Francisco, CA, United States",01/22/2020,58.2,52.3,54.7,,,0,0,0,7.1,208,,8.4,52.4,84.05,Partially cloudy
+"San Francisco, CA, United States",01/23/2020,56.8,48.9,53.4,48.4,,0,0,0,6.1,165.13,,9.7,53.9,80.42,Partially cloudy
+"San Francisco, CA, United States",01/24/2020,62.1,47.8,54.7,46.6,,0,0,0,10,212,,9.1,49.5,83.36,Partially cloudy
+"San Francisco, CA, United States",01/25/2020,61.9,54.3,57.5,,,0,0,0,6.6,213.5,,6.6,69.9,85.69,Partially cloudy
+"San Francisco, CA, United States",01/26/2020,61,52.1,57.1,,,0.17,0,0,14.4,242.79,,9.1,55.8,81.84,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/27/2020,58.8,48.3,53.5,46.7,,0,0,0,11.9,169.29,,9.1,58.3,80.6,Partially cloudy
+"San Francisco, CA, United States",01/28/2020,61.3,50.7,54.9,,,0.03,0,0,10.4,198.38,,9.2,69.2,81.75,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/29/2020,60.3,45.1,52.7,43,,0,0,0,12.8,218.29,,9,38.8,79.99,Partially cloudy
+"San Francisco, CA, United States",01/30/2020,60.8,50.7,55,,,0,0,0,10.2,191.96,,8.6,56.5,86.49,Partially cloudy
+"San Francisco, CA, United States",01/31/2020,66.2,47.8,55,,,0,0,0,6.8,193.58,,8.3,32.5,82.43,Partially cloudy
+"San Francisco, CA, United States",02/01/2020,63.4,48.4,54.3,,,0,0,0,13.7,193.63,,7.1,29.7,85.04,Partially cloudy
+"San Francisco, CA, United States",02/02/2020,57.9,47.3,53.2,41.1,,0,0,0,24.7,270.42,38.6,8.7,48.1,65.75,Partially cloudy
+"San Francisco, CA, United States",02/03/2020,57.3,40.2,48.5,35.1,,0,0,0,16.7,319.75,27.7,9.9,14.7,42.89,Clear
+"San Francisco, CA, United States",02/04/2020,56.5,45.3,50.2,40.3,,0,0,0,17.5,238.42,32.2,9.9,26.9,38.82,Partially cloudy
+"San Francisco, CA, United States",02/05/2020,60,39.9,48.8,38.2,,0,0,0,13,179.58,,9.9,31.1,60.89,Partially cloudy
+"San Francisco, CA, United States",02/06/2020,63.3,43.1,52.2,45.3,,0,0,0,8.2,218.04,,9.9,13.9,70.65,Clear
+"San Francisco, CA, United States",02/07/2020,64.5,44.4,52,43.5,,0,0,0,14.2,234.42,,8.2,23.1,79.37,Clear
+"San Francisco, CA, United States",02/08/2020,60.3,47.3,53.2,44.5,,0,0,0,12.1,235.92,18.3,9.1,40.8,75.48,Partially cloudy
+"San Francisco, CA, United States",02/09/2020,62.9,49,56.1,45.1,,0,0,0,34.8,184.33,50.2,9.9,4.3,37.09,Clear
+"San Francisco, CA, United States",02/10/2020,69.6,49.2,58.5,48.8,,0,0,0,13.6,272.92,20.8,9.9,1.4,37.31,Clear
+"San Francisco, CA, United States",02/11/2020,70.9,51.1,60.3,,,0,0,0,8.3,231.17,,9.9,9.1,40,Clear
+"San Francisco, CA, United States",02/12/2020,65.6,46.4,54.6,44.5,,0,0,0,13,209.46,,9.9,20.5,63.97,Clear
+"San Francisco, CA, United States",02/13/2020,56.4,47.1,51.8,46.2,,0,0,0,16.5,254.25,,9.5,59.1,76.29,Partially cloudy
+"San Francisco, CA, United States",02/14/2020,59.3,50.2,53.1,,,0,0,0,11.8,246.29,,9.8,57.3,69.86,Partially cloudy
+"San Francisco, CA, United States",02/15/2020,62.3,46.6,53.3,45,,0,0,0,12.8,233.08,,9.7,33,74.04,Partially cloudy
+"San Francisco, CA, United States",02/16/2020,60.3,48.8,53.9,44.4,,0,0,0,14.7,237.04,23,9.9,43.6,76.53,Partially cloudy
+"San Francisco, CA, United States",02/17/2020,70.1,45.5,54.7,48.1,,0,0,0,12.7,188.88,,8.5,42.6,70.67,Partially cloudy
+"San Francisco, CA, United States",02/18/2020,65.3,49.1,56.1,47.7,,0,0,0,13.4,175.13,,9.9,38.6,44.01,Partially cloudy
+"San Francisco, CA, United States",02/19/2020,63,43.9,52.6,41.6,,0,0,0,11.7,246.63,,9.8,32.6,71.9,Partially cloudy
+"San Francisco, CA, United States",02/20/2020,65.8,46.9,54.9,44.9,,0,0,0,8.7,235.42,,9.7,53.6,65.49,Partially cloudy
+"San Francisco, CA, United States",02/21/2020,69.4,48.8,58.6,,,0,0,0,11,222.13,,9.9,51.4,56.09,Partially cloudy
+"San Francisco, CA, United States",02/22/2020,61.3,53.8,56.3,,,0,0,0,21.3,279.63,27.7,9.8,54.2,68.4,Partially cloudy
+"San Francisco, CA, United States",02/23/2020,59,51.1,54.3,,,0,0,0,19.3,262.63,32.2,9.9,59.4,73.46,Partially cloudy
+"San Francisco, CA, United States",02/24/2020,65.8,46.3,54.6,44.1,,0,0,0,16.3,232.04,,9.9,22.1,71.66,Clear
+"San Francisco, CA, United States",02/25/2020,73.8,46.2,59,48.8,,0,0,0,11.1,195.25,20.8,9.9,11,53.7,Clear
+"San Francisco, CA, United States",02/26/2020,73.2,48.2,59.7,46.6,,0,0,0,10.1,200,,9.9,17.2,53.86,Clear
+"San Francisco, CA, United States",02/27/2020,73.7,49.5,60.1,,,0,0,0,10.2,199.65,,9.8,43.8,60.58,Partially cloudy
+"San Francisco, CA, United States",02/28/2020,68.7,53.1,58.7,,,0,0,0,17.6,214.13,31.1,9.9,59.9,69.42,Partially cloudy
+"San Francisco, CA, United States",02/29/2020,58.4,50.8,53.6,,,0,0,0,30.6,272.17,43.7,9.9,44.2,68.38,Partially cloudy
+"San Francisco, CA, United States",03/01/2020,59.8,44.3,53.3,41.9,,0,0,0,21,202.33,36.6,9.9,47.9,51.73,Partially cloudy
+"San Francisco, CA, United States",03/02/2020,73.1,54.4,62,,,0,0,0,18.6,267.04,30,9.9,14.3,26.51,Clear
+"San Francisco, CA, United States",03/03/2020,72.9,48.9,60.5,47.3,,0,0,0,11.4,267.54,,9.9,13.5,53.71,Clear
+"San Francisco, CA, United States",03/04/2020,74.9,49,59.1,,,0,0,0,13.6,239.96,,9.8,29.1,65.41,Partially cloudy
+"San Francisco, CA, United States",03/05/2020,63.6,51.3,56.3,,,0,0,0,15.3,260.13,,9.3,53.4,74.73,Partially cloudy
+"San Francisco, CA, United States",03/06/2020,59.5,52.2,55.8,,,0,0,0,17.3,240.04,28.9,9.9,79.4,69.19,Overcast
+"San Francisco, CA, United States",03/07/2020,56.6,50.4,52.4,,,0.11,0,0,10.5,232.46,,8.9,65.1,76.59,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/08/2020,58.3,46.4,52.6,44.3,,0,0,0,11.3,187.42,,9.9,59.2,66.09,Partially cloudy
+"San Francisco, CA, United States",03/09/2020,65.9,49.3,56.6,47.3,,0,0,0,12,149.29,,9.9,55.2,59.61,Partially cloudy
+"San Francisco, CA, United States",03/10/2020,69.1,53.5,60.4,,,0,0,0,8.5,161.54,,9.9,60.1,53.16,Partially cloudy
+"San Francisco, CA, United States",03/11/2020,68.6,54,60.3,,,0.01,0,0,16.6,280.46,,9.9,50.6,66.39,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/12/2020,69.8,47.9,56.4,,,0,0,0,14.3,299.54,,9.2,21.3,74.26,Clear
+"San Francisco, CA, United States",03/13/2020,63.2,48.4,55.6,,,0,0,0,23.4,219.17,37.9,9.6,39.3,71.63,Partially cloudy
+"San Francisco, CA, United States",03/14/2020,54.3,50.3,52.2,,,0.47,0,0,14.5,222.83,21.9,8.7,71.7,77.83,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/15/2020,55.4,47.8,51.6,47,,0.3,0,0,18,201.08,30.5,9.3,68.6,71.15,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/16/2020,54.7,44.3,49,37.8,,0.24,0,0,14.7,149.63,,9.7,61.3,71.95,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/17/2020,55.4,43.9,49.7,40.8,,0.01,0,0,14.4,210.21,,9.9,57.8,67.8,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/18/2020,56.4,47.3,51.5,43.8,,0.01,0,0,10.9,204.42,,9.9,73.9,67.99,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/19/2020,61,47.1,53.4,44.4,,0,0,0,13.9,221,20.8,9.8,59,68.02,Partially cloudy
+"San Francisco, CA, United States",03/20/2020,63.1,46.2,54.7,43.8,,0,0,0,12.2,208.08,,9.9,47.1,66.05,Partially cloudy
+"San Francisco, CA, United States",03/21/2020,62.2,48.3,55,48.7,,0,0,0,9.1,161.33,,9.9,52.5,68.99,Partially cloudy
+"San Francisco, CA, United States",03/22/2020,64.9,49.2,56.4,48.2,,0,0,0,11.3,227.21,,9.9,46.7,70.55,Partially cloudy
+"San Francisco, CA, United States",03/23/2020,55.2,51.2,53.8,,,0,0,0,14.4,249.42,18.3,9.9,68.6,71.11,Partially cloudy
+"San Francisco, CA, United States",03/24/2020,56.9,49.8,53.3,47.3,,0.12,0,0,19.5,208.71,23.2,9.8,67.6,69.44,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/25/2020,57.1,45.6,51.1,43.2,,0.08,0,0,21.9,270.88,27.6,9.8,57.4,66.69,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/26/2020,58.7,39.8,50.2,36.5,,0.01,0,0,20.9,254.54,26.4,9.9,33.1,62.86,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/27/2020,58.5,45.2,52.5,40.5,,0,0,0,17.6,259.79,25.3,9.9,55.4,63.71,Partially cloudy
+"San Francisco, CA, United States",03/28/2020,57.7,50.8,54.3,,,0.1,0,0,9.5,200.04,,9.3,71.7,75.73,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/29/2020,59.9,51.5,55.6,,,0.13,0,0,13.5,196.67,,9.6,62.4,75.46,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/30/2020,62.5,52.6,56.9,,,0,0,0,15.1,253.92,,9.9,57.7,67.24,Partially cloudy
+"San Francisco, CA, United States",03/31/2020,64.4,51,56.6,,,0,0,0,20,263.04,33.3,9.8,59.1,76.69,Partially cloudy
+"San Francisco, CA, United States",04/01/2020,61.3,49.7,55.2,48.4,,0,0,0,21.3,293.33,33.3,9.9,22.1,58.87,Clear
+"San Francisco, CA, United States",04/02/2020,63.6,44.6,54.1,42.4,,0,0,0,21,299.54,35,9.9,3.8,56.41,Clear
+"San Francisco, CA, United States",04/03/2020,61,45.5,53.2,41,,0,0,0,20.2,293.25,36.8,9.9,27.7,61.4,Partially cloudy
+"San Francisco, CA, United States",04/04/2020,58.5,50.6,53.9,,,0.24,0,0,18.4,221.58,29.8,8.4,68.4,76.35,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/05/2020,55.7,50.9,53.7,,,0.45,0,0,17.4,224.5,32.2,8.6,65.1,74.72,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/06/2020,53,43.5,48,41.4,,0.44,0,0,9.4,211.92,,9.3,61.7,79.82,"Rain, Partially cloudy"
+"San Francisco, CA, United States",04/07/2020,62.9,42.1,51.6,40.1,,0,0,0,18.7,234.92,31.1,9.9,32.7,72.55,Partially cloudy
+"San Francisco, CA, United States",04/08/2020,61.3,51.8,55.7,,,0,0,0,12.5,232.67,20.8,9.7,66.3,74.04,Partially cloudy
+"San Francisco, CA, United States",04/09/2020,62.9,54.6,57.9,,,0,0,0,10.7,225.29,,9.8,68.4,71.32,Partially cloudy
+"San Francisco, CA, United States",04/10/2020,63.3,53.9,58.2,,,0,0,0,18.9,282.25,24.2,9.9,57.5,72.18,Partially cloudy
+"San Francisco, CA, United States",04/11/2020,60,53,55.1,,,0,0,0,14.6,259.58,,9.9,83.4,76.05,Overcast
+"San Francisco, CA, United States",04/12/2020,62.3,53.4,56.1,,,0,0,0,16.7,244.54,,9.1,70.5,74.95,Partially cloudy
+"San Francisco, CA, United States",04/13/2020,66.9,51.1,57.6,,,0,0,0,18.5,265,,9.7,37.3,68.06,Partially cloudy
+"San Francisco, CA, United States",04/14/2020,77.1,47.3,61.2,46,,0,0,0,20.2,259.67,20.8,9.8,14.3,56.68,Clear
+"San Francisco, CA, United States",04/15/2020,72.4,50.5,59.8,,,0,0,0,16.8,248.92,,9.9,24.1,63.1,Clear
+"San Francisco, CA, United States",04/16/2020,61.4,53.7,56.4,,,0,0,0,14.6,258.58,19.7,9.2,73.4,76.79,Partially cloudy
+"San Francisco, CA, United States",04/17/2020,61.7,54.4,57.3,,,0,0,0,17.7,236.08,27.7,9.9,83.2,68.55,Overcast
+"San Francisco, CA, United States",04/18/2020,64,55.7,58.8,,,0,0,0,15.7,237.54,20.5,9.9,60.8,58.53,Partially cloudy
+"San Francisco, CA, United States",04/19/2020,64.9,54.8,58.6,,,0,0,0,18.8,258.38,19.7,9.9,56.2,62.62,Partially cloudy
+"San Francisco, CA, United States",04/20/2020,62,54.8,57.8,,,0,0,0,19.8,269.46,29.8,9.9,69.7,63.47,Partially cloudy
+"San Francisco, CA, United States",04/21/2020,64.5,53.7,57.6,,,0,0,0,21.1,273.13,33.3,9.9,63,69.36,Partially cloudy
+"San Francisco, CA, United States",04/22/2020,70.1,52.8,60.1,,,0,0,0,21.1,246.29,43.9,9.8,36.1,72.74,Partially cloudy
+"San Francisco, CA, United States",04/23/2020,68.9,56,61.3,,,0,0,0,22.3,287.04,37.5,9.7,51.5,73.73,Partially cloudy
+"San Francisco, CA, United States",04/24/2020,73.4,53.7,62.9,,,0,0,0,17.6,242.13,33.4,9.9,27.5,64.56,Partially cloudy
+"San Francisco, CA, United States",04/25/2020,76.5,55.7,64,,,0,0,0,18.5,291.83,37.9,9.9,42.5,67.51,Partially cloudy
+"San Francisco, CA, United States",04/26/2020,66.5,54.3,59.6,,,0,0,0,22.9,280.75,41.4,9.9,40.2,69.24,Partially cloudy
+"San Francisco, CA, United States",04/27/2020,71.9,52.8,61.3,,,0,0,0,20.3,273.5,39.8,9.9,34.7,66.6,Partially cloudy
+"San Francisco, CA, United States",04/28/2020,72.5,55.2,62.4,,,0,0,0,21.5,233.67,34.4,9.9,20.4,73.73,Clear
+"San Francisco, CA, United States",04/29/2020,64,54.8,58.4,,,0,0,0,23.1,272.29,42.5,9.8,79,79.19,Overcast
+"San Francisco, CA, United States",04/30/2020,67.2,54.4,59.2,,,0,0,0,22.5,269.71,37.3,9.6,63.8,72.66,Partially cloudy
+"San Francisco, CA, United States",05/01/2020,70,51.8,60,,,0,0,0,20.2,279.67,32.2,9.9,36.3,62.45,Partially cloudy
+"San Francisco, CA, United States",05/02/2020,69.3,56,61.3,,,0,0,0,17,263.08,21.9,9.9,70.5,76.05,Partially cloudy
+"San Francisco, CA, United States",05/03/2020,65.9,50.8,58.9,,,0,0,0,19.2,282.33,29.8,9.9,24.8,62.24,Clear
+"San Francisco, CA, United States",05/04/2020,69.5,49.9,59.5,47.6,,0,0,0,21.3,272.38,36.7,9.9,20,59.65,Clear
+"San Francisco, CA, United States",05/05/2020,68.6,51.9,59.4,,,0,0,0,20.9,267.96,32.2,9.9,31.8,71.22,Partially cloudy
+"San Francisco, CA, United States",05/06/2020,74.6,52.5,62.7,,,0,0,0,22.7,269.42,36.8,9.9,32.4,57.79,Partially cloudy
+"San Francisco, CA, United States",05/07/2020,83.4,52.6,64.9,,80.8,0,0,0,18.8,226.38,31.1,9.9,37.3,56.42,Partially cloudy
+"San Francisco, CA, United States",05/08/2020,83.7,54.4,63.8,,81.7,0,0,0,19.8,294.92,,9.9,42.4,63.34,Partially cloudy
+"San Francisco, CA, United States",05/09/2020,66.1,52.5,57.8,,,0,0,0,21.6,300.63,25.3,9.9,44.3,76.7,Partially cloudy
+"San Francisco, CA, United States",05/10/2020,67.6,54.9,60.2,,,0,0,0,17.3,272.08,21.9,9.9,59.3,66.61,Partially cloudy
+"San Francisco, CA, United States",05/11/2020,70.6,54.5,61,,,0.03,0,0,22.5,187.67,40.9,9.8,67.5,64.19,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/12/2020,65.4,57,60.8,,,0.03,0,0,18.5,237.67,24.2,9.5,61,69.59,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/13/2020,66.4,53.6,60.5,,,0,0,0,16.4,215.25,23,9.9,63.7,68.61,Partially cloudy
+"San Francisco, CA, United States",05/14/2020,67.3,57.6,61.7,,,0,0,0,13.7,227.17,18,9.9,64.8,70.64,Partially cloudy
+"San Francisco, CA, United States",05/15/2020,68.8,56.2,61.7,,,0.01,0,0,22.7,276.63,34,9.9,48,68.83,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/16/2020,73.2,56.7,63.9,,,0,0,0,17.9,258.17,24.2,9.9,56.8,63.54,Partially cloudy
+"San Francisco, CA, United States",05/17/2020,72.9,60.1,65.4,,,0.17,0,0,22.6,207.5,33.3,8.3,62,70.43,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/18/2020,66.6,57.4,61.3,,,0.11,0,0,17,254.38,23,9.6,54.6,66.56,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/19/2020,65.9,56.7,60.6,,,0.01,0,0,24.9,265.75,35.7,9.9,52.7,67.47,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/20/2020,67.5,56.5,60.2,,,0,0,0,20.3,251,29.8,9.9,61.9,68.07,Partially cloudy
+"San Francisco, CA, United States",05/21/2020,70.5,54.5,61.5,,,0,0,0,21.4,265.17,37.4,9.9,31.1,68.42,Partially cloudy
+"San Francisco, CA, United States",05/22/2020,68,54.2,60.4,,,0,0,0,19.5,261.21,40.8,9.9,39.3,62.42,Partially cloudy
+"San Francisco, CA, United States",05/23/2020,74.4,51.2,61.1,,,0,0,0,19.4,242.25,35.6,9.9,28.1,64.86,Partially cloudy
+"San Francisco, CA, United States",05/24/2020,80.8,52.6,64.5,,80.2,0,0,0,20,277.71,32.2,9.9,32.2,61.66,Partially cloudy
+"San Francisco, CA, United States",05/25/2020,87.8,58.1,70.5,,85.2,0,0,0,14.5,298.08,,9.9,4.3,54.68,Clear
+"San Francisco, CA, United States",05/26/2020,88.8,59.5,72.6,,86.9,0,0,0,17.2,289.83,,9.9,13.9,57.16,Clear
+"San Francisco, CA, United States",05/27/2020,79.9,58.2,68.4,,,0,0,0,19.6,298.79,,9.9,17,63.48,Clear
+"San Francisco, CA, United States",05/28/2020,69.2,55.3,60.8,,,0,0,0,21.1,307.83,32.2,9.9,41.5,77.23,Partially cloudy
+"San Francisco, CA, United States",05/29/2020,71.4,57.6,63.6,,,0,0,0,21.9,279.38,38.6,9.9,64.3,71.68,Partially cloudy
+"San Francisco, CA, United States",05/30/2020,72.1,60.3,66.1,,,0.03,0,0,16.1,206.67,29.8,9.7,61.1,65.64,"Rain, Partially cloudy"
+"San Francisco, CA, United States",05/31/2020,67.6,57.7,62.2,,,0,0,0,15.3,286.92,23,9.9,55.4,70.27,Partially cloudy
+"San Francisco, CA, United States",06/01/2020,72.3,57.4,63.5,,,0,0,0,18,278.04,,9.9,42.9,67.55,Partially cloudy
+"San Francisco, CA, United States",06/02/2020,85.5,57.8,70.5,,83.8,0,0,0,17.6,259.75,,9.9,26.5,58.49,Partially cloudy
+"San Francisco, CA, United States",06/03/2020,87.7,61.6,72,,86.2,0,0,0,17.7,295.54,,9.9,17.3,58.57,Clear
+"San Francisco, CA, United States",06/04/2020,79.8,57.2,66.9,,,0,0,0,21.7,299,32.2,9.8,13.4,62.9,Clear
+"San Francisco, CA, United States",06/05/2020,64.4,57.2,60.2,,,0,0,0,22.5,253.67,45.4,9.7,52.1,68.74,Partially cloudy
+"San Francisco, CA, United States",06/06/2020,66.9,56.5,60.9,,,0,0,0,27,270.08,35.9,9.9,48.1,64.48,Partially cloudy
+"San Francisco, CA, United States",06/07/2020,66.9,54.6,60.7,,,0,0,0,28.3,285.75,42.1,9.9,17.6,57.85,Clear
+"San Francisco, CA, United States",06/08/2020,74,51.5,63.1,,,0,0,0,22.7,302.33,32.2,9.9,18.8,53.17,Clear
+"San Francisco, CA, United States",06/09/2020,82.2,53.9,66,,80.5,0,0,0,18.4,221.21,34.4,9.9,12.9,53.28,Clear
+"San Francisco, CA, United States",06/10/2020,77.1,57.2,65.4,,,0,0,0,20,293.54,33.3,9.9,35.7,67.42,Partially cloudy
+"San Francisco, CA, United States",06/11/2020,76.5,58,64.9,,,0,0,0,21,272.08,33.3,9.9,61.9,71.67,Partially cloudy
+"San Francisco, CA, United States",06/12/2020,67.4,58.2,62,,,0,0,0,23.7,258.92,32.3,9.9,65.1,71.4,Partially cloudy
+"San Francisco, CA, United States",06/13/2020,68.2,57.5,62.6,,,0,0,0,20.4,273.5,32.2,9.9,44.4,62.13,Partially cloudy
+"San Francisco, CA, United States",06/14/2020,69.7,60.1,63.7,,,0,0,0,22.7,293.04,34.4,9.7,60.8,71.86,Partially cloudy
+"San Francisco, CA, United States",06/15/2020,70.3,58,63.5,,,0,0,0,26.5,254.83,39.2,9.9,34.2,69.82,Partially cloudy
+"San Francisco, CA, United States",06/16/2020,70.6,56.5,63.2,,,0,0,0,23.1,267.29,38.6,9.9,22,61.59,Clear
+"San Francisco, CA, United States",06/17/2020,82.7,55.3,67.9,,80.5,0,0,0,20.6,214.42,32.2,9.9,0.5,52.79,Clear
+"San Francisco, CA, United States",06/18/2020,84.5,58.4,69.9,,82.2,0,0,0,17.5,281.04,,9.9,25.4,51,Partially cloudy
+"San Francisco, CA, United States",06/19/2020,72.3,56.4,63.1,,,0,0,0,19.4,321.46,25.3,9.9,28.7,72.06,Partially cloudy
+"San Francisco, CA, United States",06/20/2020,71.5,57,62,,,0,0,0,20.4,300.04,32.2,9.9,58.4,75.19,Partially cloudy
+"San Francisco, CA, United States",06/21/2020,68.9,59,63.1,,,0,0,0,21.9,282.96,37.9,9.9,56.1,75.29,Partially cloudy
+"San Francisco, CA, United States",06/22/2020,74.4,57.6,64.1,,,0,0,0,18.7,301.17,23,9.9,44.7,72.56,Partially cloudy
+"San Francisco, CA, United States",06/23/2020,72.2,58.5,64,,,0,0,0,19.6,272.25,25.4,9.9,46,74.76,Partially cloudy
+"San Francisco, CA, United States",06/24/2020,73.6,59.2,64.1,,,0,0,0,19.2,315.88,,9.9,50.7,73.54,Partially cloudy
+"San Francisco, CA, United States",06/25/2020,70.8,57.9,63,,,0,0,0,18.8,291.5,20.8,9.9,41.3,73.82,Partially cloudy
+"San Francisco, CA, United States",06/26/2020,70.9,58.5,63.8,,,0,0,0,21.8,295.75,29.8,9.9,46.1,75.42,Partially cloudy
+"San Francisco, CA, United States",06/27/2020,71.7,59,63.2,,,0,0,0,19.3,313.63,24.2,9.9,55.9,74.94,Partially cloudy
+"San Francisco, CA, United States",06/28/2020,66.6,57.2,61.2,,,0,0,0,22.8,251.46,39.1,9.7,40.5,65.7,Partially cloudy
+"San Francisco, CA, United States",06/29/2020,74.9,54.6,64.3,,,0,0,0,18.9,212.13,,9.8,10.1,61.97,Clear
+"San Francisco, CA, United States",06/30/2020,77.2,56.5,64.5,,,0,0,0,22.1,288.33,32.2,9.5,12.1,68.1,Clear
+"San Francisco, CA, United States",07/01/2020,72.9,55.9,62.9,,,0,0,0,15.2,281.63,23.1,9.8,33.2,70.66,Partially cloudy
+"San Francisco, CA, United States",07/02/2020,71.6,57.1,63,,,0,0,0,14.1,255.54,19.7,9.9,39.4,67.01,Partially cloudy
+"San Francisco, CA, United States",07/03/2020,67.7,57,61.6,,,0,0,0,18.6,290.58,21.9,9.8,37.8,69.5,Partially cloudy
+"San Francisco, CA, United States",07/04/2020,78.1,54.6,65.5,,,0,0,0,19.4,302.21,32.2,9.8,3.8,62.84,Clear
+"San Francisco, CA, United States",07/05/2020,72.8,57.4,64.8,,,0,0,0,21.1,295.71,39.8,9.7,2.4,62.67,Clear
+"San Francisco, CA, United States",07/06/2020,69,56.2,61.6,,,0,0,0,27.4,262.96,45.9,9.9,20.8,67.33,Clear
+"San Francisco, CA, United States",07/07/2020,75.7,54,62.6,,,0,0,0,20.8,271.88,43.1,9.9,21.9,65.68,Clear
+"San Francisco, CA, United States",07/08/2020,73.1,56.6,63.1,,,0,0,0,19.5,279.92,29.8,9.9,13.8,68.58,Clear
+"San Francisco, CA, United States",07/09/2020,75.2,55.2,64.1,,,0,0,0,19.1,280.5,36.7,9.9,10.6,66.3,Clear
+"San Francisco, CA, United States",07/10/2020,74.3,54.4,62.8,,,0,0,0,17.1,301.79,,9.9,41.9,70.25,Partially cloudy
+"San Francisco, CA, United States",07/11/2020,76.9,55.3,65.4,,,0,0,0,19.6,307.21,34.4,9.9,14.6,64.72,Clear
+"San Francisco, CA, United States",07/12/2020,78.4,56.1,65.7,,,0,0,0,20.4,301.25,32.2,9.9,2.9,63.32,Clear
+"San Francisco, CA, United States",07/13/2020,70.3,58.2,62.5,,,0,0,0,15.3,288.13,23.5,9.6,39.3,71.45,Partially cloudy
+"San Francisco, CA, United States",07/14/2020,73.7,58.4,64.1,,,0,0,0,14.3,259.21,,9.9,35.7,67.68,Partially cloudy
+"San Francisco, CA, United States",07/15/2020,72.2,59.6,64.4,,,0,0,0,16.7,304.25,24.2,9.9,56.1,70.24,Partially cloudy
+"San Francisco, CA, United States",07/16/2020,70.9,59.4,63.5,,,0,0,0,21.6,313.33,25.7,9.9,49.7,71.66,Partially cloudy
+"San Francisco, CA, United States",07/17/2020,74,60.1,65.3,,,0,0,0,13.5,292.58,,9.9,44.7,68.33,Partially cloudy
+"San Francisco, CA, United States",07/18/2020,73.4,59.4,65,,,0,0,0,18.2,299.67,20.8,9.9,42.4,71.46,Partially cloudy
+"San Francisco, CA, United States",07/19/2020,71,59.5,63.8,,,0,0,0,19.8,311.67,,9.9,52.9,72.91,Partially cloudy
+"San Francisco, CA, United States",07/20/2020,68.2,57.9,62.6,,,0,0,0,21.4,288.79,31.7,9.9,59.1,73.36,Partially cloudy
+"San Francisco, CA, United States",07/21/2020,69,58.2,62.6,,,0,0,0,21.4,278.21,26.4,9.9,60.3,73.33,Partially cloudy
+"San Francisco, CA, United States",07/22/2020,73.7,60.6,64.9,,,0,0,0,18.7,249.38,24.2,9.9,49.4,69,Partially cloudy
+"San Francisco, CA, United States",07/23/2020,71.5,58.6,63.3,,,0,0,0,19,293,,9.9,49.9,71.48,Partially cloudy
+"San Francisco, CA, United States",07/24/2020,67.2,57.7,61.7,,,0,0,0,19.1,272.42,29.8,9.9,46.6,71.4,Partially cloudy
+"San Francisco, CA, United States",07/25/2020,74.1,59.4,65,,,0,0,0,15.7,283.88,24.2,9.9,42,68.91,Partially cloudy
+"San Francisco, CA, United States",07/26/2020,71.9,59.6,64,,,0,0,0,20,317.08,23,9.8,47.6,72.49,Partially cloudy
+"San Francisco, CA, United States",07/27/2020,70.9,57.4,62.7,,,0,0,0,20.7,308.29,,9.9,46.9,74.11,Partially cloudy
+"San Francisco, CA, United States",07/28/2020,68.9,57.9,62,,,0,0,0,17.7,302.33,31.1,9.8,48.4,74.64,Partially cloudy
+"San Francisco, CA, United States",07/29/2020,70.2,57.2,62,,,0,0,0,20.4,304.54,30.1,9.7,52.7,76.41,Partially cloudy
+"San Francisco, CA, United States",07/30/2020,69.3,58.8,62.5,,,0,0,0,18.8,294.92,33.3,9.8,57.5,74.03,Partially cloudy
+"San Francisco, CA, United States",07/31/2020,69.1,57.2,61.9,,,0,0,0,17.6,286.92,26.4,9.9,53.6,75.19,Partially cloudy
+"San Francisco, CA, United States",08/01/2020,70,58.4,63.3,,,0,0,0,17.9,282.13,32.2,9.9,49,74.54,Partially cloudy
+"San Francisco, CA, United States",08/02/2020,70.4,57.7,63.9,,,0,0,0,20.7,291.08,31.7,9.9,51,71.61,Partially cloudy
+"San Francisco, CA, United States",08/03/2020,74.6,58.5,65.3,,,0,0,0,23.1,261.71,41.4,9.8,32.3,70.48,Partially cloudy
+"San Francisco, CA, United States",08/04/2020,69.5,59.9,63.7,,,0,0,0,23.1,269.46,45.6,9.5,69.1,75.22,Partially cloudy
+"San Francisco, CA, United States",08/05/2020,66.9,59.2,62.7,,,0,0,0,22.6,256.54,38,9.2,91.9,75.19,Overcast
+"San Francisco, CA, United States",08/06/2020,73.9,59.3,64.9,,,0,0,0,17.9,259.25,37.5,9.6,50.9,70.69,Partially cloudy
+"San Francisco, CA, United States",08/07/2020,76.1,60.3,66.1,,,0,0,0,15.3,281.71,20.8,9.9,27.3,67.53,Partially cloudy
+"San Francisco, CA, United States",08/08/2020,75.9,59.3,65.7,,,0,0,0,16.6,283.67,18.3,9.7,35.4,71.91,Partially cloudy
+"San Francisco, CA, United States",08/09/2020,74.7,59.2,65.5,,,0,0,0,17.3,299.75,,9.7,32.6,73.06,Partially cloudy
+"San Francisco, CA, United States",08/10/2020,73.5,59.2,64.9,,,0,0,0,18.3,315.5,26.4,9.7,38.5,73.41,Partially cloudy
+"San Francisco, CA, United States",08/11/2020,73.3,60.4,65.5,,,0,0,0,20.5,305.04,29.9,9.9,43.1,71.28,Partially cloudy
+"San Francisco, CA, United States",08/12/2020,72.5,59.9,65.1,,,0,0,0,17.5,304.79,29.8,9.9,48.4,72.33,Partially cloudy
+"San Francisco, CA, United States",08/13/2020,86.8,58.6,70.9,,85.3,0,0,0,15.3,287.63,,9.9,35.6,59.6,Partially cloudy
+"San Francisco, CA, United States",08/14/2020,98.9,68.2,80,,96,0,0,0,15.9,273.17,,9.9,45.7,45.16,Partially cloudy
+"San Francisco, CA, United States",08/15/2020,94.2,68.2,78.6,,90.9,0,0,0,18.7,310.67,,9.9,25.8,47.17,Partially cloudy
+"San Francisco, CA, United States",08/16/2020,86,68.1,76,,86.9,0.05,0,0,20.1,262.54,39.1,9.9,50,61.81,"Rain, Partially cloudy"
+"San Francisco, CA, United States",08/17/2020,80.2,66.7,71.7,,80.8,0.01,0,0,18.2,293.67,31.1,9.9,51.5,65.21,"Rain, Partially cloudy"
+"San Francisco, CA, United States",08/18/2020,83,64.6,72.6,,83,0,0,0,15.8,292.21,,9.8,45.5,61.73,Partially cloudy
+"San Francisco, CA, United States",08/19/2020,78.9,63.2,70.6,,,0,0,0,18.4,300.75,32.2,6.9,50.5,58.51,Partially cloudy
+"San Francisco, CA, United States",08/20/2020,75.4,57.6,65.9,,,0,0,0,20.9,294.83,43.7,9.4,39.6,71.05,Partially cloudy
+"San Francisco, CA, United States",08/21/2020,79.2,62.4,68.9,,,0,0,0,22.9,266.46,43.6,8.2,50.1,72.97,Partially cloudy
+"San Francisco, CA, United States",08/22/2020,79.8,60,68.2,,,0,0,0,18,307.46,,7.8,45.1,70.3,Partially cloudy
+"San Francisco, CA, United States",08/23/2020,75.4,60.9,67,,,0,0,0,15.3,312.96,,7,66.3,71.08,Partially cloudy
+"San Francisco, CA, United States",08/24/2020,76.9,61.8,67.1,,,0,0,0,19.5,306.5,,7.6,53.5,72.13,Partially cloudy
+"San Francisco, CA, United States",08/25/2020,72.3,60.4,65,,,0,0,0,19,304.21,,6.8,55.7,76.68,Partially cloudy
+"San Francisco, CA, United States",08/26/2020,66.6,58.2,61.4,,,0,0,0,17.3,295.29,,9.4,68.5,76.85,Partially cloudy
+"San Francisco, CA, United States",08/27/2020,68.8,57.5,61.5,,,0,0,0,17.9,285.42,23,9.5,53.6,74.88,Partially cloudy
+"San Francisco, CA, United States",08/28/2020,69,57.4,62,,,0,0,0,16.6,320.21,18.3,6.5,56.7,77.49,Partially cloudy
+"San Francisco, CA, United States",08/29/2020,70.1,58.2,62.7,,,0,0,0,15,303.46,23,6.9,63,76.03,Partially cloudy
+"San Francisco, CA, United States",08/30/2020,70,59.7,62.8,,,0,0,0,16.7,293.67,,7.7,64.8,75.09,Partially cloudy
+"San Francisco, CA, United States",08/31/2020,70.9,58.2,62.7,,,0,0,0,17,267.92,,6.6,58.2,76.65,Partially cloudy
+"San Francisco, CA, United States",09/01/2020,70.1,59.2,63.6,,,0,0,0,14.3,261.75,,7.1,55.7,74,Partially cloudy
+"San Francisco, CA, United States",09/02/2020,71.4,61.3,64.5,,,0,0,0,17.9,291.67,,9.3,52.9,70.7,Partially cloudy
+"San Francisco, CA, United States",09/03/2020,68.7,59.9,62.8,,,0,0,0,20.1,282.92,31.1,9.4,65.2,75.29,Partially cloudy
+"San Francisco, CA, United States",09/04/2020,73.1,59.2,64.5,,,0,0,0,15.1,293.5,27.7,9.2,47.7,71.69,Partially cloudy
+"San Francisco, CA, United States",09/05/2020,93.2,59.4,73.8,,91.8,0,0,0,12.1,245.96,,9.8,17.4,54.14,Clear
+"San Francisco, CA, United States",09/06/2020,102.4,69.7,82.3,,100.1,0,0,0,15.9,234,,8.6,14.8,42.14,Clear
+"San Francisco, CA, United States",09/07/2020,96.5,67.7,79.7,,94.4,0,0,0,18.9,236.33,36.7,9.2,23.9,46.28,Clear
+"San Francisco, CA, United States",09/08/2020,76.9,61.6,66.7,,,0,0,0,17.7,303.08,31.1,9.3,60.9,71.57,Partially cloudy
+"San Francisco, CA, United States",09/09/2020,64.8,60.8,62.6,,,0,0,0,7.9,314.71,,7.1,78.4,81.63,Overcast
+"San Francisco, CA, United States",09/10/2020,67.1,59.7,63.4,,,0,0,0,6.5,271.5,,2.9,87.3,78.07,Overcast
+"San Francisco, CA, United States",09/11/2020,74.3,55.4,63.9,,,0,0,0,12.3,257.42,,1.4,85.3,75.84,Overcast
+"San Francisco, CA, United States",09/12/2020,77.9,57,63.9,,,0,0,0,14.9,288.25,,1.9,82.9,77.15,Overcast
+"San Francisco, CA, United States",09/13/2020,66.9,57.4,60.9,,,0,0,0,16.7,308.88,,2.1,90.6,79.08,Overcast
+"San Francisco, CA, United States",09/14/2020,69.4,59.7,63.4,,,0,0,0,17.1,293.21,29.8,2.3,73.5,71.43,Partially cloudy
+"San Francisco, CA, United States",09/15/2020,74.9,61.5,66.4,,,0,0,0,19.1,283.71,,7.8,54.6,73.31,Partially cloudy
+"San Francisco, CA, United States",09/16/2020,77.2,64.8,69.6,,,0,0,0,18.7,198.88,,8.9,64.8,77.37,Partially cloudy
+"San Francisco, CA, United States",09/17/2020,72.8,64,67.4,,,0,0,0,20,286.83,,6.7,60.9,80.46,Partially cloudy
+"San Francisco, CA, United States",09/18/2020,74.3,64.2,68.2,,,0,0,0,17.1,283.13,24.2,9.9,50.6,73.41,Partially cloudy
+"San Francisco, CA, United States",09/19/2020,76.4,63,67.8,,,0,0,0,18.4,288.29,,9.9,51.6,71.51,Partially cloudy
+"San Francisco, CA, United States",09/20/2020,83.7,59.3,68.6,,83.1,0,0,0,16.4,297.79,,9.8,18.4,68.25,Clear
+"San Francisco, CA, United States",09/21/2020,74.6,57.8,65.3,,,0,0,0,16.8,300.08,28.9,9.4,25,73.48,Clear
+"San Francisco, CA, United States",09/22/2020,73.4,61.3,65.7,,,0,0,0,21,277.88,36.7,9.8,46.6,71.47,Partially cloudy
+"San Francisco, CA, United States",09/23/2020,76.8,58.3,67.1,,,0,0,0,17.8,269.92,,9.9,21.5,68.41,Clear
+"San Francisco, CA, United States",09/24/2020,77.5,63.2,67.8,,,0,0,0,18.1,264.63,31.1,9.6,45.2,75.75,Partially cloudy
+"San Francisco, CA, United States",09/25/2020,72.6,61.8,65.9,,,0,0,0,18.7,267.75,34.4,9.8,35.4,70.06,Partially cloudy
+"San Francisco, CA, United States",09/26/2020,77.8,59.7,68.1,,,0,0,0,17.8,234.21,32.2,9.9,31.1,68.2,Partially cloudy
+"San Francisco, CA, United States",09/27/2020,94.5,61.6,75.4,,90.8,0,0,0,13.5,179.58,25.3,9.8,21.5,51.8,Clear
+"San Francisco, CA, United States",09/28/2020,94,64.1,77.4,,89.8,0,0,0,16.7,207.88,,9.9,17.8,45.96,Clear
+"San Francisco, CA, United States",09/29/2020,73.5,60.1,64.6,,,0,0,0,18.6,310.58,29.8,9.8,31.9,76.33,Partially cloudy
+"San Francisco, CA, United States",09/30/2020,80.9,60.3,68.4,,81.4,0,0,0,12.7,273.46,,6.9,52.9,70.89,Partially cloudy
+"San Francisco, CA, United States",10/01/2020,89.4,64.3,74,,87.1,0,0,0,9.6,242.58,,6.2,60.9,52.26,Partially cloudy
+"San Francisco, CA, United States",10/02/2020,87.7,62,70.7,,86.5,0,0,0,13.3,285.25,25.3,5,49.3,61.25,Partially cloudy
+"San Francisco, CA, United States",10/03/2020,85.7,57.2,67.1,,84.1,0,0,0,14.2,274.54,21.9,8.8,35.5,69.43,Partially cloudy
+"San Francisco, CA, United States",10/04/2020,71.6,56.7,62.4,,,0,0,0,17.9,302.5,33.3,9.9,18.9,76.13,Clear
+"San Francisco, CA, United States",10/05/2020,76.7,54.2,61.5,,,0,0,0,16.2,290.29,,6.8,31.3,78.83,Partially cloudy
+"San Francisco, CA, United States",10/06/2020,70,53.7,60.6,,,0,0,0,15.5,309.38,,9.1,33.8,77.23,Partially cloudy
+"San Francisco, CA, United States",10/07/2020,66.1,56.2,60.1,,,0,0,0,17.5,305,,6,56.7,77.86,Partially cloudy
+"San Francisco, CA, United States",10/08/2020,66.8,60.1,62.7,,,0,0,0,15.6,274.25,17.2,9.1,92.8,72.75,Overcast
+"San Francisco, CA, United States",10/09/2020,69.7,59.7,63.3,,,0,0,0,10.5,260.17,,9.7,74.8,74.89,Partially cloudy
+"San Francisco, CA, United States",10/10/2020,72.8,59.7,65.4,,,0,0,0,14.7,210.58,,9.9,72.4,75.7,Partially cloudy
+"San Francisco, CA, United States",10/11/2020,76.2,58.4,65.5,,,0,0,0,17.9,259.58,,9.8,33.3,69.17,Partially cloudy
+"San Francisco, CA, United States",10/12/2020,82.5,57.1,67.4,,81.3,0,0,0,14.7,211.92,,9.9,15.4,57.71,Clear
+"San Francisco, CA, United States",10/13/2020,84.5,58.4,68.3,,82.9,0,0,0,14.4,216.92,,9.9,8.6,60.18,Clear
+"San Francisco, CA, United States",10/14/2020,86.3,60.9,71.6,,84.8,0,0,0,14.2,244.38,,9.9,1,57.53,Clear
+"San Francisco, CA, United States",10/15/2020,93.9,63.3,77.9,,89.4,0,0,0,10.9,102.79,26.4,9.9,2.4,33.75,Clear
+"San Francisco, CA, United States",10/16/2020,91.7,70,79.4,,87.5,0,0,0,11.7,182.54,21.9,9.9,12,26.83,Clear
+"San Francisco, CA, United States",10/17/2020,90.2,62.2,73.1,,86.7,0,0,0,13.4,186.67,,9.9,13.9,40.75,Clear
+"San Francisco, CA, United States",10/18/2020,83.3,59.7,68.7,,81.6,0,0,0,17.4,274.54,,9.9,11.1,55.75,Clear
+"San Francisco, CA, United States",10/19/2020,73.9,56.7,63.4,,,0,0,0,13,300.92,,9.9,14.4,71.09,Clear
+"San Francisco, CA, United States",10/20/2020,81.4,55.6,65.4,,80.5,0,0,0,13.3,277.79,,9.9,17.3,67.07,Clear
+"San Francisco, CA, United States",10/21/2020,81.9,56.3,66.1,,80.8,0,0,0,14.7,292,,9.9,9.6,62.87,Clear
+"San Francisco, CA, United States",10/22/2020,72.3,56.3,62.5,,,0,0,0,15.7,317.88,,9.6,11.7,70.72,Clear
+"San Francisco, CA, United States",10/23/2020,70.9,54.9,61.2,,,0,0,0,15.9,285.17,,9.8,32.3,72.1,Partially cloudy
+"San Francisco, CA, United States",10/24/2020,70.2,54.6,60.9,,,0,0,0,15.8,218.63,,9.6,49.4,74.19,Partially cloudy
+"San Francisco, CA, United States",10/25/2020,72.2,59.2,63,,,0,0,0,21.1,247.79,37.2,9.9,60.2,62.34,Partially cloudy
+"San Francisco, CA, United States",10/26/2020,77.6,58.3,65.7,,,0,0,0,23.9,117.08,38.6,9.7,20.1,19.65,Clear
+"San Francisco, CA, United States",10/27/2020,77.8,53.7,65.7,,,0,0,0,10,238.17,25.3,9.9,13.7,28.87,Clear
+"San Francisco, CA, United States",10/28/2020,74,50.7,61.6,,,0,0,0,10.6,252.96,,9.9,2.9,43.94,Clear
+"San Francisco, CA, United States",10/29/2020,75.2,50.7,60.5,,,0,0,0,13.8,181.38,,9.7,0.5,49.85,Clear
+"San Francisco, CA, United States",10/30/2020,67,49.1,57.4,47.3,,0,0,0,14,322.96,,9,15.8,72.18,Clear
+"San Francisco, CA, United States",10/31/2020,75.9,49.1,59.9,47.7,,0,0,0,9.7,255.92,,9.4,6.3,65.85,Clear
+"San Francisco, CA, United States",11/01/2020,76.6,50.6,61.4,,,0,0,0,7.9,236.08,,9.7,33.8,62.03,Partially cloudy
+"San Francisco, CA, United States",11/02/2020,75.5,52.3,61.8,,,0,0,0,16.3,276,29.9,9.5,16.1,61.41,Clear
+"San Francisco, CA, United States",11/03/2020,65.6,51.4,57.7,,,0,0,0,17.4,283.67,,9.5,34.3,75.87,Partially cloudy
+"San Francisco, CA, United States",11/04/2020,71.9,53.6,60.7,,,0,0,0,13.6,250.54,,9.9,42.8,78.54,Partially cloudy
+"San Francisco, CA, United States",11/05/2020,78.2,56,62.9,,,0,0,0,11.8,201.13,,9.2,30.8,75.82,Partially cloudy
+"San Francisco, CA, United States",11/06/2020,63.3,54.6,58.9,,,0,0,0,22.7,284.25,42.1,9.9,59.9,61.99,Partially cloudy
+"San Francisco, CA, United States",11/07/2020,61.6,49.8,55,47.1,,0,0,0,19.2,280.38,32.2,9.9,54.1,62.78,Partially cloudy
+"San Francisco, CA, United States",11/08/2020,58.8,46.9,53.7,43.7,,0.02,0,0,26.7,298.21,41.4,9.9,35.2,54.51,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/09/2020,59,41.5,49.6,37.1,,0,0,0,11.2,248.63,,9.9,26.9,47.76,Partially cloudy
+"San Francisco, CA, United States",11/10/2020,61.4,42.4,51.6,40.1,,0,0,0,11.7,211,,9.9,44.3,52.93,Partially cloudy
+"San Francisco, CA, United States",11/11/2020,61.2,53.5,56.8,,,0,0,0,9.2,220.92,,9.9,86.9,68.67,Overcast
+"San Francisco, CA, United States",11/12/2020,63.2,45.5,53.3,44.6,,0,0,0,13.4,252.42,,9.9,36.7,65.47,Partially cloudy
+"San Francisco, CA, United States",11/13/2020,60.5,47.4,54.4,46.9,,0.02,0,0,17.5,208.54,29.8,9.4,75.8,74.96,"Rain, Overcast"
+"San Francisco, CA, United States",11/14/2020,61,48.2,53.9,46.3,,0,0,0,9,238,,9.2,42.2,75.17,Partially cloudy
+"San Francisco, CA, United States",11/15/2020,65,43.8,54,43.6,,0,0,0,9.1,175.96,,9.9,12.5,70.08,Clear
+"San Francisco, CA, United States",11/16/2020,70.4,50.7,59.1,,,0,0,0,7.7,184.63,,9.9,26.9,63.93,Partially cloudy
+"San Francisco, CA, United States",11/17/2020,65.7,55.1,60,,,0.12,0,0,21.6,179.75,34.5,8.7,80.5,71.18,"Rain, Overcast"
+"San Francisco, CA, United States",11/18/2020,64.8,54.2,60.4,,,0.12,0,0,13,207.25,,9.4,80.7,79.94,"Rain, Overcast"
+"San Francisco, CA, United States",11/19/2020,62,49.3,54.3,48,,0,0,0,13.7,250.08,,8.9,49.3,79.27,Partially cloudy
+"San Francisco, CA, United States",11/20/2020,64.9,46.2,53.8,45.5,,0,0,0,9.2,208.17,,9.9,24.8,63.33,Clear
+"San Francisco, CA, United States",11/21/2020,63.6,43.4,53.1,46.9,,0,0,0,6.6,194.71,,9.9,38.5,56.44,Partially cloudy
+"San Francisco, CA, United States",11/22/2020,59.2,42,51.1,39.3,,0,0,0,15.8,229.42,31.1,9.9,40.2,68.24,Partially cloudy
+"San Francisco, CA, United States",11/23/2020,60.2,50.9,55,,,0.01,0,0,12.4,231.58,,9.2,60.3,76.85,"Rain, Partially cloudy"
+"San Francisco, CA, United States",11/24/2020,64,44,53.1,46.8,,0,0,0,12.3,188.79,,9.7,20.3,75.54,Clear
+"San Francisco, CA, United States",11/25/2020,62,50.5,55.7,,,0,0,0,16.6,290.42,28.9,9.9,39.3,67.94,Partially cloudy
+"San Francisco, CA, United States",11/26/2020,65.3,45.3,55.5,42.4,,0,0,0,16.6,153.67,33.3,9.9,4.3,45.59,Clear
+"San Francisco, CA, United States",11/27/2020,63.9,43.5,53.4,42.8,,0,0,0,6.7,184,21.9,9.9,7.2,43.63,Clear
+"San Francisco, CA, United States",11/28/2020,62.1,40.5,50.8,40.2,,0,0,0,6.2,171.25,,9.9,3.4,55.23,Clear
+"San Francisco, CA, United States",11/29/2020,60.8,40.1,50.2,38.3,,0,0,0,8.2,217.25,,9.8,36.1,62.29,Partially cloudy
+"San Francisco, CA, United States",11/30/2020,62.4,41.6,50.5,37.8,,0,0,0,10.6,266,,9.9,21.1,69.22,Clear
+"San Francisco, CA, United States",12/01/2020,62.6,43.3,51.5,41.9,,0,0,0,11.2,253.13,,8,33.6,72.7,Partially cloudy
+"San Francisco, CA, United States",12/02/2020,64.7,43.1,52.5,41.3,,0,0,0,9.5,239.88,,9.9,40.6,63.96,Partially cloudy
+"San Francisco, CA, United States",12/03/2020,62.4,45.8,53.3,44.8,,0,0,0,6.9,228.63,,9.3,47.1,65.44,Partially cloudy
+"San Francisco, CA, United States",12/04/2020,63.4,44.3,52.7,,,0,0,0,6.4,219.67,,8.6,12.2,61.57,Clear
+"San Francisco, CA, United States",12/05/2020,62.3,45.1,51.7,43.3,,0,0,0,11.1,224.5,,9.6,35.9,66.78,Partially cloudy
+"San Francisco, CA, United States",12/06/2020,62,45.1,52.6,44.2,,0,0,0,10.4,189.71,,8.4,60.2,74.91,Partially cloudy
+"San Francisco, CA, United States",12/07/2020,75.5,44.5,60,42.4,,0,0,0,11.8,128.08,36.7,9.9,9.1,44.58,Clear
+"San Francisco, CA, United States",12/08/2020,71.3,45.2,56.5,46.2,,0,0,0,7.5,190.04,,9.9,13.3,49.62,Clear
+"San Francisco, CA, United States",12/09/2020,67.4,46.9,55.4,44.5,,0,0,0,8.2,259.25,,9.5,55.2,56.29,Partially cloudy
+"San Francisco, CA, United States",12/10/2020,62.5,46.7,53.2,44.5,,0,0,0,15.5,205.71,29.8,9.6,40.6,65.7,Partially cloudy
+"San Francisco, CA, United States",12/11/2020,55.9,47.7,52.5,45.2,,0.19,0,0,14.6,228.67,24.2,9.5,82.5,70.02,"Rain, Overcast"
+"San Francisco, CA, United States",12/12/2020,58.3,50.5,55.8,,,0.12,0,0,18.2,170.33,33.3,8.3,83.5,80.03,"Rain, Overcast"
+"San Francisco, CA, United States",12/13/2020,60.2,50.5,54.8,,,0.51,0,0,16.9,182.13,28.8,7.3,85.1,81.97,"Rain, Overcast"
+"San Francisco, CA, United States",12/14/2020,57.1,46.1,51.5,44.3,,0,0,0,13.3,245.42,,9.9,22.7,71.8,Clear
+"San Francisco, CA, United States",12/15/2020,57.9,45,50.9,44.1,,0,0,0,6.2,220.17,,9.9,67.6,72.96,Partially cloudy
+"San Francisco, CA, United States",12/16/2020,58.3,45.9,52.1,44.3,,0,0,0,8.1,217.29,,9.9,59.9,71.45,Partially cloudy
+"San Francisco, CA, United States",12/17/2020,58.8,50.5,55.4,,,0.58,0,0,17.2,271.29,34.4,8.9,65.2,74.07,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/18/2020,61.3,42.1,50.9,40.3,,0,0,0,8.7,238.71,,9.9,10.5,63.03,Clear
+"San Francisco, CA, United States",12/19/2020,60.5,41.2,50.3,40.3,,0,0,0,7.6,164.25,,9.9,24.8,67.26,Clear
+"San Francisco, CA, United States",12/20/2020,62.6,41.7,50.6,39.9,,0,0,0,5.7,169.04,,9.7,20.1,70.92,Clear
+"San Francisco, CA, United States",12/21/2020,57.8,40.9,49.7,39,,0,0,0,9.7,200.13,,9.5,25.1,75.55,Partially cloudy
+"San Francisco, CA, United States",12/22/2020,61.3,46.9,53.4,47.3,,0,0,0,15,157.67,18.3,9.9,36.9,65.52,Partially cloudy
+"San Francisco, CA, United States",12/23/2020,60.8,42.8,51.8,40.3,,0,0,0,13.7,89.63,27.7,9.9,40.2,43.14,Partially cloudy
+"San Francisco, CA, United States",12/24/2020,55.2,45.4,50.4,40.7,,0,0,0,12.5,130.42,,8.6,75.6,64.72,Overcast
+"San Francisco, CA, United States",12/25/2020,61.3,46.7,54.1,45.1,,0.12,0,0,18,159.79,37.2,8.5,82.5,68.05,"Rain, Overcast"
+"San Francisco, CA, United States",12/26/2020,60.7,50.3,56.4,,,0,0,0,12.3,248.67,,9.8,72.7,74.35,Partially cloudy
+"San Francisco, CA, United States",12/27/2020,58.8,46.5,51.8,45.4,,0,0,0,11.2,125.92,,9.9,72.6,72.63,Partially cloudy
+"San Francisco, CA, United States",12/28/2020,57.7,47.4,52.2,45.6,,0.07,0,0,13,106.67,,9.7,77.9,70.3,"Rain, Overcast"
+"San Francisco, CA, United States",12/29/2020,59.9,40.5,49.4,38.9,,0,0,0,8.7,205.92,,9.9,23.5,68.58,Clear
+"San Francisco, CA, United States",12/30/2020,56.6,40.3,49,38.4,,0.01,0,0,9,218.83,,9.6,64.7,70.93,"Rain, Partially cloudy"
+"San Francisco, CA, United States",12/31/2020,57.1,46.7,52.3,45.6,,0.09,0,0,12,278.42,,9.3,39.7,74.07,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/01/2021,55.5,43.8,50.4,41.7,,0,0,0,8.7,181.54,,9.6,55.3,75.66,Partially cloudy
+"San Francisco, CA, United States",01/02/2021,53.9,51.1,52.7,,,0.17,0,0,5.7,138.21,,5.6,96.7,85.39,"Rain, Overcast"
+"San Francisco, CA, United States",01/03/2021,52.7,51.2,52,,,0.01,0,0,5.7,167.96,,2.7,84.8,86.77,"Rain, Overcast"
+"San Francisco, CA, United States",01/04/2021,60.8,47.9,55.2,46.5,,0.45,0,0,19.7,204.13,37.8,7.7,73.1,78.63,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/05/2021,54.7,45.8,50.2,44.6,,0,0,0,6.2,122.83,,9.6,48.6,79.89,Partially cloudy
+"San Francisco, CA, United States",01/06/2021,54,44.2,49.5,41.8,,0.01,0,0,6.4,170.17,,9.5,55.4,79.23,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/07/2021,56.3,48.5,52.3,46.5,,0,0,0,10.8,141.5,,9,74.3,77.57,Partially cloudy
+"San Francisco, CA, United States",01/08/2021,56.9,48.2,53,46.4,,0,0,0,8.2,254.58,,9.3,65.3,79.14,Partially cloudy
+"San Francisco, CA, United States",01/09/2021,56.4,44.2,50.3,42.7,,0,0,0,10,222.75,,8.6,34.2,73.39,Partially cloudy
+"San Francisco, CA, United States",01/10/2021,57.1,45.8,51.7,44.1,,0,0,0,9.8,192.33,,9.9,65.2,71.23,Partially cloudy
+"San Francisco, CA, United States",01/11/2021,57.6,46.4,52.3,45.4,,0,0,0,8.1,162.96,,9.5,59.9,72.55,Partially cloudy
+"San Francisco, CA, United States",01/12/2021,57.4,50.1,54,,,0,0,0,5.3,163.63,,9.1,78.2,75.58,Overcast
+"San Francisco, CA, United States",01/13/2021,62.3,50.8,56.5,,,0,0,0,7.5,170.25,,9.6,47.6,79.7,Partially cloudy
+"San Francisco, CA, United States",01/14/2021,63,48.9,55.8,,,0,0,0,8.8,228.75,,9.4,31.2,78.19,Partially cloudy
+"San Francisco, CA, United States",01/15/2021,62.1,48.3,55.8,,,0,0,0,5.1,220.13,,9.6,50.5,74.38,Partially cloudy
+"San Francisco, CA, United States",01/16/2021,63.8,50.7,55.7,,,0,0,0,9.6,250.26,,9.6,24.9,75.37,Clear
+"San Francisco, CA, United States",01/17/2021,72.3,50.3,59.2,,,0,0,0,7.7,283.67,,9.9,27.6,62.33,Partially cloudy
+"San Francisco, CA, United States",01/18/2021,74.5,53.2,64.9,,,0,0,0,22.6,221.58,40.3,9.9,28.3,35.4,Partially cloudy
+"San Francisco, CA, United States",01/19/2021,63.7,54.2,60.1,,,0,0,0,31.3,77.92,44.5,9.9,10.7,25.55,Clear
+"San Francisco, CA, United States",01/20/2021,62.4,47.9,54.8,46.2,,0,0,0,7.9,233.42,,9.9,5.8,39.12,Clear
+"San Francisco, CA, United States",01/21/2021,55.3,42.6,50,39.7,,0,0,0,12.3,253.63,,9.9,51.4,63.48,Partially cloudy
+"San Francisco, CA, United States",01/22/2021,53.8,47.9,51.3,47.6,,0.08,0,0,12.3,230.38,25.3,9.6,83.8,73.96,"Rain, Overcast"
+"San Francisco, CA, United States",01/23/2021,54.7,47.6,50.9,44.5,,0,0,0,10.9,204.33,,9.9,48.8,71.72,Partially cloudy
+"San Francisco, CA, United States",01/24/2021,52.6,47.7,50.2,40.8,,0.19,0,0,21.8,262.17,39.1,9.5,82.4,71.32,"Rain, Overcast"
+"San Francisco, CA, United States",01/25/2021,52.5,43.2,49,38.4,,0,0,0,23.4,310.5,38.1,9.9,25.5,55.12,Partially cloudy
+"San Francisco, CA, United States",01/26/2021,50,39.7,46.1,35.4,,0.65,0,0,28.2,155.04,43,9.3,66.9,67.56,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/27/2021,53.8,49.4,51.5,42.8,,0.61,0,0,19.8,144.21,39.5,8.9,93.6,77.52,"Rain, Overcast"
+"San Francisco, CA, United States",01/28/2021,53.8,48.4,51.6,46.2,,0.93,0,0,12.9,121.08,25.3,8.6,96,83.35,"Rain, Overcast"
+"San Francisco, CA, United States",01/29/2021,53.6,46.1,50,43.5,,0.11,0,0,6.4,154.5,,9.9,58.5,75.62,"Rain, Partially cloudy"
+"San Francisco, CA, United States",01/30/2021,56.7,47.3,52.5,46.5,,0,0,0,5.7,183.61,,9.9,83,68.12,Overcast
+"San Francisco, CA, United States",01/31/2021,59.6,52.3,55.9,,,0,0,0,6.9,144.88,,9.9,80.2,64.64,Overcast
+"San Francisco, CA, United States",02/01/2021,61.5,49.2,56.1,,,0.58,0,0,15,177.04,25.3,8.8,66.4,67.44,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/02/2021,58,49,55.3,47.7,,0.25,0,0,10.9,220.79,,8.4,67.6,78.64,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/03/2021,56.5,44.7,51.4,42.6,,0,0,0,13,268.79,,9.9,48.3,71.67,Partially cloudy
+"San Francisco, CA, United States",02/04/2021,58.2,45.9,52.1,44.3,,0,0,0,10.6,262.96,23,9.9,17.2,57.76,Clear
+"San Francisco, CA, United States",02/05/2021,60.3,44.1,52.2,43.6,,0,0,0,10.4,246.46,,9.9,5.5,62.63,Clear
+"San Francisco, CA, United States",02/06/2021,61.6,45.3,53.8,43.9,,0,0,0,8.7,239.17,,9.9,14.1,66.99,Clear
+"San Francisco, CA, United States",02/07/2021,61.5,46,53.5,45.3,,0,0,0,9.5,278.67,,9.9,31.5,70.44,Partially cloudy
+"San Francisco, CA, United States",02/08/2021,56.2,46.1,51.6,43.9,,0,0,0,10.3,288.13,,8.8,68.8,77.39,Partially cloudy
+"San Francisco, CA, United States",02/09/2021,56.9,52.5,54.6,,,0,0,0,9.8,284.25,,9.7,87.8,74.56,Overcast
+"San Francisco, CA, United States",02/10/2021,58.7,51.2,54.3,,,0,0,0,13.9,262.08,,9.9,34.5,72.71,Partially cloudy
+"San Francisco, CA, United States",02/11/2021,56.6,49.2,53.5,48.6,,0.62,0,0,17.8,157.46,39.1,8.7,82.6,76.92,"Rain, Overcast"
+"San Francisco, CA, United States",02/12/2021,58.6,52.6,55.4,,,0,0,0,19.5,282.92,29.8,9.8,63.1,74.06,Partially cloudy
+"San Francisco, CA, United States",02/13/2021,58.9,50.8,55.4,,,0.04,0,0,24.7,288.33,42.5,9.3,62.1,70.76,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/14/2021,56.3,48.5,53.3,45.9,,0.11,0,0,9.3,239.13,27.7,8.8,82.1,70.69,"Rain, Overcast"
+"San Francisco, CA, United States",02/15/2021,57.7,52.1,55.5,,,0.22,0,0,18,237.5,31.1,6.5,89.5,82.54,"Rain, Overcast"
+"San Francisco, CA, United States",02/16/2021,56.5,48.4,52.3,46,,0,0,0,14.1,307.17,31.1,9.7,53.5,71.55,Partially cloudy
+"San Francisco, CA, United States",02/17/2021,60.7,44.4,52.9,41.9,,0,0,0,12.5,305.63,23,9.9,35.2,58.99,Partially cloudy
+"San Francisco, CA, United States",02/18/2021,60.5,44.2,54.1,43.7,,0,0,0,8.6,176.71,,9.9,67.1,52.5,Partially cloudy
+"San Francisco, CA, United States",02/19/2021,57.6,52.3,55,,,0.07,0,0,20.1,207.25,,8.7,86.4,73.13,"Rain, Overcast"
+"San Francisco, CA, United States",02/20/2021,61,50.2,54.8,,,0.02,0,0,20.3,301.04,35.1,9.9,44.7,63.34,"Rain, Partially cloudy"
+"San Francisco, CA, United States",02/21/2021,60.2,47.3,54,46.5,,0,0,0,9.4,270.04,,9.9,17,59.46,Clear
+"San Francisco, CA, United States",02/22/2021,67.7,50.6,59.1,,,0,0,0,10.1,227.33,18.3,9.9,22.1,52.42,Clear
+"San Francisco, CA, United States",02/23/2021,71.2,50.2,59.4,,,0,0,0,13.9,279.63,,9.9,37.3,55.44,Partially cloudy
+"San Francisco, CA, United States",02/24/2021,67.7,49,59.2,47.3,,0,0,0,15.9,324.42,27.5,9.9,4,40.98,Clear
+"San Francisco, CA, United States",02/25/2021,62.1,49.5,56.4,47.7,,0,0,0,11.8,217.46,28.9,9.9,25.3,40.43,Partially cloudy
+"San Francisco, CA, United States",02/26/2021,58.8,47,52.9,43.6,,0,0,0,18.5,280,39.1,9.9,13,65.22,Clear
+"San Francisco, CA, United States",02/27/2021,59.5,46.3,53.6,43,,0,0,0,17.5,301.63,33.3,9.9,13.1,54.49,Clear
+"San Francisco, CA, United States",02/28/2021,65.7,48.7,56.7,47.9,,0,0,0,10.5,228.63,17.2,9.9,21.8,42.93,Clear
+"San Francisco, CA, United States",03/01/2021,64.6,46.5,56.1,45.1,,0,0,0,11.5,278.67,,9.9,15.3,44.24,Clear
+"San Francisco, CA, United States",03/02/2021,60.8,46.5,54.6,44.6,,0,0,0,12.9,257.71,,9.9,72.2,55.83,Partially cloudy
+"San Francisco, CA, United States",03/03/2021,58.5,50.1,53.8,,,0,0,0,17.5,218.71,,9.8,65.1,64.31,Partially cloudy
+"San Francisco, CA, United States",03/04/2021,60.2,48.1,54,45.5,,0,0,0,10.8,238.58,,9.9,18.1,64.4,Clear
+"San Francisco, CA, United States",03/05/2021,62.6,47.1,55.8,46.3,,0.22,0,0,22.8,212.33,48.8,9.7,51.4,66.16,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/06/2021,56.7,48.5,52.8,45.4,,0.16,0,0,20.8,286.79,43.8,9.7,48.4,68.1,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/07/2021,60.1,43,51.7,39,,0,0,0,16.1,273.08,,9.9,20.4,66.34,Clear
+"San Francisco, CA, United States",03/08/2021,59.1,51.1,53.9,,,0,0,0,16.2,231.21,17.2,9.9,73.5,53.46,Partially cloudy
+"San Francisco, CA, United States",03/09/2021,59,49.2,52.9,44.6,,0.17,0,0,15.3,180.75,25.3,9.6,73.5,63.82,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/10/2021,54.4,46.9,50,42.1,,0.62,0,0,12.9,176.83,31.1,9.4,87.5,72.36,"Rain, Overcast"
+"San Francisco, CA, United States",03/11/2021,57.3,44.6,50.1,41.8,,0.24,0,0,21.8,195.25,29.5,9.6,73.9,69.85,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/12/2021,63.3,44.4,52.6,41.6,,0,0,0,16.5,201.25,,9.9,17.7,69.32,Clear
+"San Francisco, CA, United States",03/13/2021,56.4,50.9,52.7,,,0,0,0,17.8,271.29,24.2,9.8,84.3,67.87,Overcast
+"San Francisco, CA, United States",03/14/2021,58.7,49,53.3,42.3,,0.18,0,0,20,199.38,28.9,9.3,96.8,64,"Rain, Overcast"
+"San Francisco, CA, United States",03/15/2021,54.3,46.2,50.1,39.1,,0.02,0,0,26.4,290.5,41.4,9.8,60.7,59.5,"Rain, Partially cloudy"
+"San Francisco, CA, United States",03/16/2021,56.6,42.7,49.4,38.3,,0,0,0,16.9,242.5,,9.9,26,64.27,Partially cloudy

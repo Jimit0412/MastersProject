@@ -1,0 +1,368 @@
+Name,Date time,Maximum Temperature,Minimum Temperature,Temperature,Wind Chill,Heat Index,Precipitation,Snow,Snow Depth,Wind Speed,Wind Direction,Wind Gust,Visibility,Cloud Cover,Relative Humidity,Conditions
+"Bronx, NY, United States",02/14/2020,39.6,19.4,30.5,6.7,,0,0,0,19.1,303.75,32.3,9.9,17.3,44.28,Clear
+"Bronx, NY, United States",02/15/2020,29.7,14.8,22.7,6.6,,0,0,0,11.1,194.96,21.9,9.9,19.1,47.21,Clear
+"Bronx, NY, United States",02/16/2020,42.9,28.7,36.3,18.4,,0,0,0,12.6,204.92,20.8,9.9,55.2,58.65,Partially cloudy
+"Bronx, NY, United States",02/17/2020,50.7,37.2,43.6,31.8,,0,0,0,12,210.5,20.8,9.9,36.9,45.92,Partially cloudy
+"Bronx, NY, United States",02/18/2020,45.3,37.3,40.9,29.6,,0,0,0,11.7,100.79,20.8,7.6,87.6,73.91,Overcast
+"Bronx, NY, United States",02/19/2020,46.8,33.6,42.5,28.1,,0,0,0,17.1,310.42,30.3,9.6,41,46.96,Partially cloudy
+"Bronx, NY, United States",02/20/2020,35.1,27.8,31.9,18.3,,0,0,0,15.9,308.17,25.3,9.9,36.6,40.75,Partially cloudy
+"Bronx, NY, United States",02/21/2020,35.5,20.3,28.4,9.8,,0,0,0,15.6,225.63,24.4,9.9,6.3,35.98,Clear
+"Bronx, NY, United States",02/22/2020,50.2,30.4,39.7,21.9,,0,0,0,10.8,243.96,23,9.9,7.1,26.24,Clear
+"Bronx, NY, United States",02/23/2020,55.5,36.7,46.2,35.2,,0,0,0,12,211,18.3,9.9,9.7,25.95,Clear
+"Bronx, NY, United States",02/24/2020,60.3,40.1,49.3,38.1,,0,0,0,10.5,155.91,21.9,9.9,44.6,42.1,Partially cloudy
+"Bronx, NY, United States",02/25/2020,51.5,45.3,48.4,41.5,,0.14,0,0,8.3,136.88,,7.1,88.8,75.49,"Rain, Overcast"
+"Bronx, NY, United States",02/26/2020,47.3,44.5,45.6,38.6,,0.01,0,0,13.5,59.88,23,4.8,96.1,89.75,"Rain, Overcast"
+"Bronx, NY, United States",02/27/2020,44,32.4,39.6,21.1,,0.41,0,0,24.3,227.38,43,8.4,79,58.25,"Rain, Overcast"
+"Bronx, NY, United States",02/28/2020,40.7,29.3,34.8,17.6,,0,0,0,20.2,261.04,32.9,9.9,51.4,34.82,Partially cloudy
+"Bronx, NY, United States",02/29/2020,34.4,26.7,30.9,14.9,,0,0,0,18.1,287,32.3,9.9,39.8,37.95,Partially cloudy
+"Bronx, NY, United States",03/01/2020,43.5,25.3,34.4,12.8,,0,0,0,16.6,278.79,27.7,9.9,14.1,41.79,Clear
+"Bronx, NY, United States",03/02/2020,56.1,37.9,48,33.2,,0,0,0,12.3,183.71,26.4,9.9,42.7,48.55,Partially cloudy
+"Bronx, NY, United States",03/03/2020,58.2,49.5,53,45.5,,0.31,0,0,13.5,197.13,34.3,8.4,65.6,72.95,"Rain, Partially cloudy"
+"Bronx, NY, United States",03/04/2020,55.8,46.3,50.4,39.6,,0.05,0,0,25.1,275.96,38.1,9.9,31.2,45.3,"Rain, Partially cloudy"
+"Bronx, NY, United States",03/05/2020,51.9,39.2,44.7,32.1,,0,0,0,17,253.52,31.1,9.9,26.6,48.9,Partially cloudy
+"Bronx, NY, United States",03/06/2020,44.2,37.7,41.2,30.6,,0.23,0,0,14.2,91.54,24.8,9,64.6,76.4,"Rain, Partially cloudy"
+"Bronx, NY, United States",03/07/2020,47.5,36.4,40.8,27.8,,0,0,0,19.2,330.75,31.8,9.9,32,44.32,Partially cloudy
+"Bronx, NY, United States",03/08/2020,59,35.7,46.7,29.2,,0,0,0,12,257.13,23,9.9,24.9,29.44,Clear
+"Bronx, NY, United States",03/09/2020,71.5,46,58.6,42.4,,0,0,0,13.6,221.04,29.8,9.9,23.9,27.02,Clear
+"Bronx, NY, United States",03/10/2020,65.3,54.1,60.4,,,0,0,0,14.3,231.13,32.9,9.9,64.1,48.6,Partially cloudy
+"Bronx, NY, United States",03/11/2020,55.7,43.4,50.4,38.2,,0,0,0,16,163.88,31.1,9.9,46.6,44.48,Partially cloudy
+"Bronx, NY, United States",03/12/2020,48.1,42.6,45.3,38.5,,0.03,0,0,9.8,58.38,,9.7,76.4,68.27,"Rain, Overcast"
+"Bronx, NY, United States",03/13/2020,69.7,43.9,55.8,37.3,,0.26,0,0,20.8,196.58,38.3,6.8,63.5,63.51,"Rain, Partially cloudy"
+"Bronx, NY, United States",03/14/2020,55.1,43.8,48.5,37.5,,0,0,0,18.3,305.92,27.7,9.9,37.6,34.04,Partially cloudy
+"Bronx, NY, United States",03/15/2020,53.1,42,46.6,36.3,,0,0,0,11.6,164.21,19.7,9.9,40,35.12,Partially cloudy
+"Bronx, NY, United States",03/16/2020,42.6,33.3,39.1,24.4,,0,0,0,13.9,76.58,32.2,9.9,44.6,46.35,Partially cloudy
+"Bronx, NY, United States",03/17/2020,54.5,41.4,47.3,35.8,,0.16,0,0,10.1,181.38,20.8,9.5,84.7,72.19,"Rain, Overcast"
+"Bronx, NY, United States",03/18/2020,52.5,42.4,47.2,38.6,,0,0,0,13.4,195.83,24.2,9.9,36.8,45.16,Partially cloudy
+"Bronx, NY, United States",03/19/2020,51.6,41.6,46.7,36.2,,0.94,0,0,13.3,69.75,16.1,7.4,98.1,80.57,"Rain, Overcast"
+"Bronx, NY, United States",03/20/2020,75.9,47.3,59.3,43.2,,0,0,0,17.8,198.46,32.2,7.7,81.5,70.62,Overcast
+"Bronx, NY, United States",03/21/2020,66.3,41.8,48.2,36,,0,0,0,18.7,192.08,31.8,9.9,43.2,37.93,Partially cloudy
+"Bronx, NY, United States",03/22/2020,43.7,34.3,38.1,24.6,,0,0,0,14.9,76.13,24.2,9.9,56.1,39.67,Partially cloudy
+"Bronx, NY, United States",03/23/2020,41.7,36.2,38.2,28.2,,1.15,0,0,15.4,133.88,26,6.4,85.9,78.76,"Rain, Overcast"
+"Bronx, NY, United States",03/24/2020,53.7,36.5,44.7,28.5,,0,0,0,13.3,225.22,24.2,9.9,32.7,62.75,Partially cloudy
+"Bronx, NY, United States",03/25/2020,44.5,40.7,42.5,33.5,,0.01,0,0,17.6,59.75,29.8,9.9,71.1,70.96,"Rain, Partially cloudy"
+"Bronx, NY, United States",03/26/2020,57.9,37.6,46.8,32.4,,0,0,0,13.7,207.63,20.8,9.9,15.8,58.52,Clear
+"Bronx, NY, United States",03/27/2020,66.9,50.4,57.7,,,0,0,0,10.5,196.88,20.8,9.9,42.8,46.09,Partially cloudy
+"Bronx, NY, United States",03/28/2020,52.7,44.8,47.2,38.5,,0.41,0,0,14.7,56.5,,8,70.8,68.23,"Rain, Partially cloudy"
+"Bronx, NY, United States",03/29/2020,46.7,45,45.5,37.3,,0.05,0,0,19.4,55.08,30.5,2.9,99.6,92.64,"Rain, Overcast"
+"Bronx, NY, United States",03/30/2020,50.2,42.3,46.1,36.8,,0.06,0,0,9.2,65.25,,9.3,96,81.7,"Rain, Overcast"
+"Bronx, NY, United States",03/31/2020,47.9,40.8,43.9,34,,0.06,0,0,11.7,99.5,17.2,9.4,92.8,72.7,"Rain, Overcast"
+"Bronx, NY, United States",04/01/2020,54.4,38.5,46.5,30.4,,0,0,0,13.6,149.88,27.7,9.9,42.5,50.01,Partially cloudy
+"Bronx, NY, United States",04/02/2020,57.2,38.8,48.7,31,,0,0,0,24.4,320.54,36.5,9.9,53.5,44.43,Partially cloudy
+"Bronx, NY, United States",04/03/2020,52.1,45.5,49.5,39.4,,0.11,0,0,22.3,286.5,33.7,9.7,82.8,65.87,"Rain, Overcast"
+"Bronx, NY, United States",04/04/2020,60.5,46.1,51.3,41.5,,0.01,0,0,11.6,82.92,19.7,9.4,80.5,67.75,"Rain, Overcast"
+"Bronx, NY, United States",04/05/2020,63.3,46.9,53.3,45.6,,0,0,0,11.2,101.75,17.2,9.8,64.7,70.85,Partially cloudy
+"Bronx, NY, United States",04/06/2020,65.8,49,56.1,46.3,,0.06,0,0,11.6,207.04,17.2,9.6,30.9,46.68,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/07/2020,65.2,52.8,57.2,,,0,0,0,16.3,227.58,26.4,9.9,51.6,36.04,Partially cloudy
+"Bronx, NY, United States",04/08/2020,63.1,49.7,55.5,47,,0.19,0,0,8.6,128.29,18.3,8.6,61.9,71.78,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/09/2020,57.1,46.8,51.1,41.4,,0.18,0,0,25.6,223.38,46.9,9.6,51.2,64.99,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/10/2020,48.5,38.8,43.8,30.3,,0.01,0,0,28.9,282.96,42.2,9.9,69.4,50.7,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/11/2020,54.8,38.8,47.1,31,,0,0,0,15.9,281,27,9.9,19,33.49,Clear
+"Bronx, NY, United States",04/12/2020,61.6,43.7,53.4,42.1,,0,0,0,13.5,135.88,24.4,9.9,39.3,47.71,Partially cloudy
+"Bronx, NY, United States",04/13/2020,67,53.8,58.9,,,1.63,0,0,24,195.25,42.6,5.7,75.3,82.63,"Rain, Overcast"
+"Bronx, NY, United States",04/14/2020,58.3,47.3,52.1,42.1,,0,0,0,16.5,265.29,28.8,9.9,43,43.6,Partially cloudy
+"Bronx, NY, United States",04/15/2020,51.9,42.4,47.6,35.7,,0,0,0,13.5,290.71,24.2,9.9,44.4,37.73,Partially cloudy
+"Bronx, NY, United States",04/16/2020,47.2,38.6,44.6,31.7,,0,0,0,19.5,283.92,30.4,9.9,62.4,38.5,Partially cloudy
+"Bronx, NY, United States",04/17/2020,50,37.1,43,30.2,,0.03,0,0,13.4,218.63,27.8,9.7,46.9,47.77,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/18/2020,46.3,41.6,43.9,35.6,,0.25,0,0,13.2,191.38,23.1,8.2,74.1,74.57,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/19/2020,61.1,40.4,51.9,35.3,,0,0,0,16,227.25,28.3,9.9,31.9,41.04,Partially cloudy
+"Bronx, NY, United States",04/20/2020,55.9,49.2,52.3,45.3,,0,0,0,10.9,162.38,17.2,9.9,38.7,42.91,Partially cloudy
+"Bronx, NY, United States",04/21/2020,58.2,40.1,49.5,32.7,,0.24,0,0,20,233.13,37.9,9.4,33.8,63.34,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/22/2020,51,36.8,43.6,28,,0,0,0,22.3,293.29,35.6,9.9,26.3,32.13,Partially cloudy
+"Bronx, NY, United States",04/23/2020,49.9,40.6,44.7,34.9,,0.05,0,0,8.9,203.79,,9.8,61.1,41,"Rain, Partially cloudy"
+"Bronx, NY, United States",04/24/2020,49.4,42.5,46.3,35.7,,0.56,0,0,14.9,92.38,27.7,6.6,83.4,87.39,"Rain, Overcast"
+"Bronx, NY, United States",04/25/2020,62.4,43.6,52.7,,,0,0,0,12.9,97.67,20.3,9.8,34.1,59.21,Partially cloudy
+"Bronx, NY, United States",04/26/2020,50.5,43.5,47.4,38,,0.14,0,0,24.3,52.21,37.1,7.3,90.3,78.7,"Rain, Overcast"
+"Bronx, NY, United States",04/27/2020,48.8,40,44.5,33.2,,0,0,0,15.9,281.46,26.4,9.7,84,71.85,Overcast
+"Bronx, NY, United States",04/28/2020,65.5,42.5,52.4,37.3,,0,0,0,9.5,260.08,20.8,9.9,28.5,52.74,Partially cloudy
+"Bronx, NY, United States",04/29/2020,57.2,47.4,50.7,42.9,,0.01,0,0,17.3,77.83,21.9,9.7,81.4,74.72,"Rain, Overcast"
+"Bronx, NY, United States",04/30/2020,61.3,49.2,55.6,45,,0.77,0,0,27,125.54,43.2,7.2,89.3,84.51,"Rain, Overcast"
+"Bronx, NY, United States",05/01/2020,65.5,54.3,58.8,,,0.24,0,0,12.4,193.25,23.4,8,80.5,79.08,"Rain, Overcast"
+"Bronx, NY, United States",05/02/2020,72.4,52.3,63.3,,,0,0,0,16.2,295.46,26.4,9.9,26.5,39.9,Partially cloudy
+"Bronx, NY, United States",05/03/2020,79.7,55,68.1,,,0.04,0,0,12.2,221.96,26.4,9.9,43.4,51.18,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/04/2020,70.4,50.4,62.3,,,0,0,0,21.2,234.67,38,9.9,61,42.55,Partially cloudy
+"Bronx, NY, United States",05/05/2020,62.6,46.4,54.1,40.9,,0,0,0,17.6,258.54,23.5,9.9,32.1,33.46,Partially cloudy
+"Bronx, NY, United States",05/06/2020,52.4,46.2,49.1,44.1,,0.05,0,0,16.2,77.13,20.8,9.8,78.4,68.8,"Rain, Overcast"
+"Bronx, NY, United States",05/07/2020,66,47.1,57,42.8,,0,0,0,15.6,274.17,29,9.9,54.4,39.51,Partially cloudy
+"Bronx, NY, United States",05/08/2020,57.1,42.6,48.6,35.1,,0.36,0,0,15.2,209.13,27.6,8.7,78.9,58.99,"Rain, Overcast"
+"Bronx, NY, United States",05/09/2020,47.5,34.8,40.8,24.5,,0.05,0,0,20.5,298.25,37.8,9.8,51.4,48.64,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/10/2020,64.1,40.1,52.6,32.5,,0,0,0,18.1,240.75,30.1,9.9,16.2,34.34,Clear
+"Bronx, NY, United States",05/11/2020,59.6,45.8,52.8,39.6,,0.08,0,0,19.6,242.54,43.3,9.9,54.1,59.91,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/12/2020,58.8,43.7,51.4,37.5,,0,0,0,25.1,299.96,33.8,9.9,39.2,37.85,Partially cloudy
+"Bronx, NY, United States",05/13/2020,63,41.8,52.2,36.2,,0,0,0,16.8,273.75,23.7,9.9,4.7,36.42,Clear
+"Bronx, NY, United States",05/14/2020,64.3,47.6,58.2,46.1,,0,0,0,15.9,121.79,25.3,9.9,33.9,44.26,Partially cloudy
+"Bronx, NY, United States",05/15/2020,84.5,60,72.5,,83.7,0.06,0,0,15.1,208.58,28.8,9.7,52.3,58.6,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/16/2020,75.7,63.1,69.2,,,0,0,0,11.2,205.04,21.9,9.9,44.7,54.78,Partially cloudy
+"Bronx, NY, United States",05/17/2020,67.4,55.1,59.7,,,0,0,0,16.2,124.42,20.8,9.9,57.4,57.33,Partially cloudy
+"Bronx, NY, United States",05/18/2020,67.8,55.1,60,,,0,0,0,13.9,60.96,17.2,9.9,64.2,60.78,Partially cloudy
+"Bronx, NY, United States",05/19/2020,67.3,54.9,59.9,,,0,0,0,23,76.13,34,9.9,33.7,43.45,Partially cloudy
+"Bronx, NY, United States",05/20/2020,64.3,50.6,56.5,,,0,0,0,17.1,81.5,18.3,9.9,36.7,43.85,Partially cloudy
+"Bronx, NY, United States",05/21/2020,66.4,46.6,56.3,45.2,,0,0,0,15.3,116.63,16.1,9.9,15.3,63.58,Clear
+"Bronx, NY, United States",05/22/2020,75.2,54.7,64.8,,,0.02,0,0,15.9,117.04,21.9,8.9,60.5,72.7,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/23/2020,66.7,56.7,61.6,,,0.53,0,0,21.4,65.33,34.4,5.8,95,85.75,"Rain, Overcast"
+"Bronx, NY, United States",05/24/2020,67.5,52.5,59.2,,,0,0,0,17.3,74.71,26.7,9.9,74,63.66,Partially cloudy
+"Bronx, NY, United States",05/25/2020,68.4,56,61.4,,,0.01,0,0,13.5,62.33,,8.9,66,78.81,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/26/2020,75.8,58.3,65.7,,,0,0,0,11.7,124.75,,7.4,46.6,77.23,Partially cloudy
+"Bronx, NY, United States",05/27/2020,78.5,60.3,67.1,,,0,0,0,14,174.96,16.1,8.2,54.7,78.37,Partially cloudy
+"Bronx, NY, United States",05/28/2020,75.6,63.5,68.9,,,0,0,0,20.6,169.75,30.1,7.6,91,85.26,Overcast
+"Bronx, NY, United States",05/29/2020,80.8,66.1,72.6,,83.3,0.05,0,0,19,171.08,26.4,8.4,70.5,80.18,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/30/2020,81.5,67.3,73.6,,80,0.01,0,0,17.1,267.79,31.1,9.9,43.2,55.35,"Rain, Partially cloudy"
+"Bronx, NY, United States",05/31/2020,69.6,57.4,63.5,,,0,0,0,21,326.83,33.4,9.9,19.4,37.91,Clear
+"Bronx, NY, United States",06/01/2020,70.6,52.4,61.8,,,0,0,0,16.4,258.46,30.6,9.9,38.6,38.29,Partially cloudy
+"Bronx, NY, United States",06/02/2020,73.4,60.6,67.6,,,0,0,0,16.5,227.52,21.9,9.9,63,40.43,Partially cloudy
+"Bronx, NY, United States",06/03/2020,79.9,62,71.2,,,0.29,0,0,14.4,223.21,29.9,9.2,44.7,71.02,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/04/2020,86.2,67.3,76.1,,84.1,0,0,0,13.7,196.78,23,9.9,38.8,61.41,Partially cloudy
+"Bronx, NY, United States",06/05/2020,80.4,69.3,73.4,,82.7,0.43,0,0,12.8,202.08,19.7,8.4,73.2,81.97,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/06/2020,86.8,70.5,77.9,,89.2,0.15,0,0,23.6,238.54,36.7,8.7,47.4,61.81,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/07/2020,76,63.9,70.6,,,0,0,0,18.9,283.96,28.5,9.9,44.9,41.91,Partially cloudy
+"Bronx, NY, United States",06/08/2020,79.2,61.2,70.8,,,0,0,0,10.4,249.5,19.7,9.9,20.5,40.97,Clear
+"Bronx, NY, United States",06/09/2020,88.7,66.7,78.9,,87.2,0,0,0,14.5,217.54,23,9.9,19.1,42.32,Clear
+"Bronx, NY, United States",06/10/2020,82.8,70.4,75.8,,86.2,0,0,0,17.3,123.54,29.9,9.9,35.4,64.11,Partially cloudy
+"Bronx, NY, United States",06/11/2020,81.8,70.5,74.5,,85,0.05,0,0,14.5,180.29,24.2,9.3,65.4,79.83,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/12/2020,84.7,69.3,77.6,,82.4,0,0,0,12.5,276.5,25.3,9.9,39.3,47.12,Partially cloudy
+"Bronx, NY, United States",06/13/2020,74.5,61.1,67.7,,,0,0,0,14.5,204.74,24.2,9.9,21.9,41.3,Clear
+"Bronx, NY, United States",06/14/2020,74,54.9,64.2,,,0,0,0,12.8,77.26,17.2,9.9,18.2,46.43,Clear
+"Bronx, NY, United States",06/15/2020,75.1,60.6,66.9,,,0,0,0,14.6,85.83,,9.9,22.9,54.27,Clear
+"Bronx, NY, United States",06/16/2020,77.4,61,69.4,,,0,0,0,14.5,76.75,18.3,9.9,22.2,52.48,Clear
+"Bronx, NY, United States",06/17/2020,77.7,61.7,69.4,,,0,0,0,15.9,80.79,19.7,9.9,45.5,65.49,Partially cloudy
+"Bronx, NY, United States",06/18/2020,76.7,65.8,70.4,,,0,0,0,11.9,104.13,,8.6,80.6,80.08,Overcast
+"Bronx, NY, United States",06/19/2020,83.9,67,74.1,,84.6,0,0,0,18.1,184.29,24.2,9.2,55.1,69.89,Partially cloudy
+"Bronx, NY, United States",06/20/2020,85.8,71.2,77.4,,86.6,0,0,0,12.2,141.33,20.8,9.9,35.3,64.09,Partially cloudy
+"Bronx, NY, United States",06/21/2020,86.4,71.9,78.2,,87,0,0,0,13.3,164.21,18.3,9.9,30.4,63.22,Partially cloudy
+"Bronx, NY, United States",06/22/2020,90.8,73.7,81.3,,92.5,0,0,0,14.5,169.33,23,9.9,28.3,58.99,Partially cloudy
+"Bronx, NY, United States",06/23/2020,86.1,74.6,79.8,,88.5,0,0,0,12.8,153.63,27.7,9.8,22.4,64.39,Clear
+"Bronx, NY, United States",06/24/2020,86,75,80.3,,84,0,0,0,18.1,239,25,9.7,40.3,52.72,Partially cloudy
+"Bronx, NY, United States",06/25/2020,86.3,72.8,78.5,,84.1,0,0,0,19.7,211.92,24.2,9.9,32.2,43.65,Partially cloudy
+"Bronx, NY, United States",06/26/2020,87.2,70.9,79.3,,84.6,0,0,0,12.3,244.83,21.9,9.9,31.5,45.78,Partially cloudy
+"Bronx, NY, United States",06/27/2020,81,72.8,77.5,,83.2,0.18,0,0,12,151.08,33.3,9.6,40,62.51,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/28/2020,90.2,73.8,79.9,,92.3,0.07,0,0,11.9,140.29,21.9,9.7,42.4,67.23,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/29/2020,87,71.2,76.9,,86.9,0.28,0,0,13,249.96,47.2,9.8,29.9,65.89,"Rain, Partially cloudy"
+"Bronx, NY, United States",06/30/2020,78.6,68.2,72.8,,,0,0,0,11.5,149.25,,9.8,42,70.74,Partially cloudy
+"Bronx, NY, United States",07/01/2020,80.5,68.1,73.9,,81.4,0.04,0,0,8.7,112.46,20.8,9.7,48.3,72.09,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/02/2020,92.5,69.3,80.9,,91.3,0,0,0,10.2,187.13,21.9,9.9,28.4,55.96,Partially cloudy
+"Bronx, NY, United States",07/03/2020,90.7,72,81.3,,92.2,0.19,0,0,12.8,178.58,26.4,9.3,54.1,61.25,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/04/2020,86.7,69.1,76,,86.3,0.04,0,0,10.1,98.46,20.8,9.3,56.7,69.27,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/05/2020,93.6,72.8,81.8,,90.9,0,0,0,10.2,196.17,17.2,8.9,36,58.51,Partially cloudy
+"Bronx, NY, United States",07/06/2020,94.8,72.9,80.5,,94.5,0.23,0,0,14.7,87.13,31.8,9.2,38.3,61.06,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/07/2020,79.9,72.4,75.8,,,0,0,0,11.5,88.83,,9.7,81,76.82,Overcast
+"Bronx, NY, United States",07/08/2020,84.6,76.5,79.9,,90.5,0.02,0,0,10.2,171.67,18.3,9.7,61.4,74.47,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/09/2020,88.8,76.2,81.7,,91.3,0,0,0,13.1,158.96,16.9,9.7,26.9,66.91,Partially cloudy
+"Bronx, NY, United States",07/10/2020,78.1,73.7,75.4,,,2.14,0,0,19.5,81.63,35.1,6.1,85.1,88.27,"Rain, Overcast"
+"Bronx, NY, United States",07/11/2020,84.6,73.9,78.7,,91.3,0.23,0,0,13.9,173.83,31.1,8.9,51.3,80.06,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/12/2020,89.3,73.7,81,,89,0.26,0,0,11.7,255.33,29.9,9.8,29.3,56.1,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/13/2020,86.8,73.5,80.7,,87.2,0.01,0,0,10.9,261,18.7,9.9,41.4,54.94,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/14/2020,85.5,72.2,79,,84.8,0,0,0,10.4,280.17,19.7,9.9,30.1,52.29,Partially cloudy
+"Bronx, NY, United States",07/15/2020,80.3,71.4,75.3,,81.9,0,0,0,12,98.43,16.1,9.9,54.2,67.71,Partially cloudy
+"Bronx, NY, United States",07/16/2020,77.7,70.1,73.5,,,0,0,0,10.6,134.83,24.2,9.9,62.8,62.11,Partially cloudy
+"Bronx, NY, United States",07/17/2020,84.5,70.1,76.5,,89.3,0.03,0,0,9,158,17.2,9.8,64.7,74.17,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/18/2020,91.7,72.7,82.2,,90.5,0,0,0,7.8,111.96,,9.6,26.9,59.1,Partially cloudy
+"Bronx, NY, United States",07/19/2020,94.8,78.5,85.9,,98.8,0,0,0,15.7,185.46,25.3,9.9,26.6,56.65,Partially cloudy
+"Bronx, NY, United States",07/20/2020,93.3,83,87.9,,98.5,0,0,0,12.3,260.96,21.9,9.9,30.3,54.91,Partially cloudy
+"Bronx, NY, United States",07/21/2020,91.7,78.3,84.8,,92.4,0,0,0,10.3,154.42,18.3,9.9,22.5,49.53,Clear
+"Bronx, NY, United States",07/22/2020,91.6,74.1,81.7,,98.8,1.03,0,0,11,146.67,39.2,9.4,56,72.3,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/23/2020,88.4,74.4,81,,94.6,0.03,0,0,10.9,216.83,20.8,9.9,47.3,72.07,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/24/2020,81.3,74.2,77.2,,85.2,0.18,0,0,9.6,97.88,19.7,9.6,57.6,77.43,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/25/2020,89,73.1,81.8,,91.5,0,0,0,11.4,147.92,20.8,9.4,35.6,66.36,Partially cloudy
+"Bronx, NY, United States",07/26/2020,93.1,78.3,85.9,,93.4,0,0,0,14.4,245.13,26.1,9.9,33.4,53.33,Partially cloudy
+"Bronx, NY, United States",07/27/2020,95.2,79,87.8,,96,0,0,0,15.6,236.42,25.6,9.9,30.9,45.8,Partially cloudy
+"Bronx, NY, United States",07/28/2020,94,82,86.6,,98.2,0.03,0,0,13.7,245,22.4,9.9,33.8,54.75,"Rain, Partially cloudy"
+"Bronx, NY, United States",07/29/2020,88.8,78,83.3,,92.3,0,0,0,11,119.88,17.2,9.9,30.3,58.88,Partially cloudy
+"Bronx, NY, United States",07/30/2020,93.2,78.5,85,,94.3,0,0,0,10.9,179.29,21.9,9.9,32.3,48.55,Partially cloudy
+"Bronx, NY, United States",07/31/2020,82.1,72,76.1,,83.8,0.87,0,0,8.5,93.63,,8.6,60.1,75.65,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/01/2020,87.9,71.9,80,,88.3,0,0,0,11.4,120.58,21.9,9.9,27.3,62.32,Partially cloudy
+"Bronx, NY, United States",08/02/2020,89,77,82.8,,98.7,0,0,0,14.2,171.21,32.2,9.9,57.8,72.2,Partially cloudy
+"Bronx, NY, United States",08/03/2020,89.9,73.9,83.1,,90.7,0.4,0,0,13.3,214.17,43.1,9.8,30.6,56.03,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/04/2020,80.7,72.7,76.7,,82.3,0.59,0,0,35,151.92,61.3,8.2,64.6,78.12,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/05/2020,87,75.1,80.9,,86.1,0,0,0,12,242.42,19.7,9.9,34.9,56.76,Partially cloudy
+"Bronx, NY, United States",08/06/2020,80.2,72.7,76.3,,81.7,0,0,0,10.5,86.92,,9.9,49,58.96,Partially cloudy
+"Bronx, NY, United States",08/07/2020,78.9,69.3,74,,,0.39,0,0,10.6,68.63,,8.7,52.5,74.01,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/08/2020,82.7,70.3,75.6,,85.4,0,0,0,9.8,115.75,,9.6,44,76.5,Partially cloudy
+"Bronx, NY, United States",08/09/2020,87.7,73.2,79.7,,91.1,0,0,0,17.3,184.79,21.9,9.6,26.3,70.58,Partially cloudy
+"Bronx, NY, United States",08/10/2020,91.7,77.1,83.9,,95.9,0,0,0,13.6,178.88,19.7,9.8,15.6,65.09,Clear
+"Bronx, NY, United States",08/11/2020,87,79.3,82.5,,92.9,0,0,0,11.7,172.08,25.5,9.9,28.6,71.65,Partially cloudy
+"Bronx, NY, United States",08/12/2020,89.4,76,81.7,,97.1,1.48,0,0,15.4,135.79,35.6,8.7,39.3,75.35,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/13/2020,80,74,77,,83.4,0.15,0,0,7.8,65.71,,9.1,43.6,78.61,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/14/2020,86.4,73.6,79.3,,86.6,0,0,0,11.6,56.13,19.7,9.8,47.1,65.11,Partially cloudy
+"Bronx, NY, United States",08/15/2020,83.9,72.7,76.6,,83.7,0,0,0,13.2,62.54,20.8,9.9,39.4,57.22,Partially cloudy
+"Bronx, NY, United States",08/16/2020,72.5,68,69.8,,,0.18,0,0,15.2,44.25,23,8.7,89.1,79.04,"Rain, Overcast"
+"Bronx, NY, United States",08/17/2020,81.7,66.2,72.2,,82.5,0.5,0,0,16.7,178.52,25.3,9.5,46.7,71.53,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/18/2020,82.3,65.4,74.8,,82.1,0.16,0,0,14.8,235.67,30.2,9.7,35.5,62.23,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/19/2020,75.8,68.2,71.6,,,0.14,0,0,7.6,70.21,,9.7,51,71.92,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/20/2020,81.2,65.1,72.8,,79.8,0,0,0,7.7,133.7,,9.9,17.3,52.8,Clear
+"Bronx, NY, United States",08/21/2020,84.9,69.5,77.4,,85.8,0,0,0,14.5,219.21,20.5,9.9,36.3,61.53,Partially cloudy
+"Bronx, NY, United States",08/22/2020,88.7,75.2,81.1,,90.4,0,0,0,10.1,218.29,23,9.9,32.3,62.95,Partially cloudy
+"Bronx, NY, United States",08/23/2020,85.4,75.5,80,,88.5,0,0,0,10.2,149.79,20.8,9.9,25.6,68.76,Partially cloudy
+"Bronx, NY, United States",08/24/2020,91.2,76.2,83.3,,93,0,0,0,12,211.67,19.7,9.9,27.3,60.98,Partially cloudy
+"Bronx, NY, United States",08/25/2020,90.2,75.2,81.4,,92.4,0.35,0,0,15.6,265.13,43.6,9.9,27.8,58.06,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/26/2020,77.5,68.4,73.3,,,0,0,0,17.8,301.13,26.4,9.9,25.6,47.88,Partially cloudy
+"Bronx, NY, United States",08/27/2020,91.4,68.8,78.9,,94.9,0.44,0,0,18.3,175.79,41.4,9.8,54.2,60.48,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/28/2020,86.6,72.9,78.2,,87.7,0.02,0,0,11.4,237.04,21,9.8,33.2,66.64,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/29/2020,82.1,73.2,77,,86.6,0.03,0,0,14.1,210.92,31.1,9.9,63.4,79.01,"Rain, Partially cloudy"
+"Bronx, NY, United States",08/30/2020,79.6,69,73.9,,,0,0,0,23.3,283.54,31.1,9.9,36.6,49.9,Partially cloudy
+"Bronx, NY, United States",08/31/2020,75.7,64.6,70.6,,,0,0,0,8.7,88.88,,9.9,37.4,59.59,Partially cloudy
+"Bronx, NY, United States",09/01/2020,77.5,67.3,72.3,,,0.2,0,0,10.6,116.33,18.3,9,68.7,75.31,"Rain, Partially cloudy"
+"Bronx, NY, United States",09/02/2020,79.9,69.9,74.9,,,0.11,0,0,10.1,128.63,,7.8,76.7,84.39,"Rain, Overcast"
+"Bronx, NY, United States",09/03/2020,86,72.9,78.2,,85.4,0.83,0,0,12.8,176.79,18.3,8.9,60.9,66.12,"Rain, Partially cloudy"
+"Bronx, NY, United States",09/04/2020,85.1,71.3,77.5,,86.2,0,0,0,12.2,257.33,20.1,9.3,19.9,61.05,Clear
+"Bronx, NY, United States",09/05/2020,79.5,66.6,72.9,,,0,0,0,9.3,189.87,20.8,9.9,26.4,46,Partially cloudy
+"Bronx, NY, United States",09/06/2020,82.4,67.2,74.2,,81.9,0,0,0,15.6,207.04,,9.9,20.5,54.68,Clear
+"Bronx, NY, United States",09/07/2020,79.2,68.3,73.5,,,0,0,0,12.6,141.79,24.2,9.9,25.4,65.07,Partially cloudy
+"Bronx, NY, United States",09/08/2020,83.6,69,75.1,,84.9,0,0,0,10.4,108.42,,9.9,32.4,69.44,Partially cloudy
+"Bronx, NY, United States",09/09/2020,80.3,70.4,75.4,,82.5,0,0,0,7.3,79.54,,9.9,44.9,75.46,Partially cloudy
+"Bronx, NY, United States",09/10/2020,82.9,74,77.2,,88.4,1.13,0,0,9,116.21,,7.6,80.9,84.76,"Rain, Overcast"
+"Bronx, NY, United States",09/11/2020,76.9,66.2,72.9,,,0,0,0,12.3,129.33,19.4,9.4,59.5,67.34,Partially cloudy
+"Bronx, NY, United States",09/12/2020,72.5,62.1,66.6,,,0,0,0,12.3,72.54,,9.9,58.9,63.99,Partially cloudy
+"Bronx, NY, United States",09/13/2020,75,62.5,70.2,,,0,0,0,12.3,139.5,23,9.9,72.8,72.92,Partially cloudy
+"Bronx, NY, United States",09/14/2020,75.9,61.9,71.4,,,0,0,0,15.9,263.21,26.4,9.9,45.2,55.76,Partially cloudy
+"Bronx, NY, United States",09/15/2020,66,54.6,60.4,,,0,0,0,10.9,79.96,26.4,9.9,37.5,52.68,Partially cloudy
+"Bronx, NY, United States",09/16/2020,71.1,57.5,65.2,,,0,0,0,11.7,189,19.7,9.9,44.5,62.77,Partially cloudy
+"Bronx, NY, United States",09/17/2020,75.7,64.9,70.3,,,0,0,0,8.7,170.75,,9.9,49.6,71.35,Partially cloudy
+"Bronx, NY, United States",09/18/2020,71.1,57.7,65.8,,,0,0,0,14.6,114.33,28.5,9.9,49.6,58.02,Partially cloudy
+"Bronx, NY, United States",09/19/2020,63.6,49.9,57.2,46.1,,0,0,0,16,88,30.1,9.9,12,36.18,Clear
+"Bronx, NY, United States",09/20/2020,63.3,50.5,57.1,,,0,0,0,14.5,58.58,24.3,9.9,14.8,37.87,Clear
+"Bronx, NY, United States",09/21/2020,64.7,50.6,57.9,,,0,0,0,11.9,90.42,21.9,9.9,11.4,43.12,Clear
+"Bronx, NY, United States",09/22/2020,72.7,51.2,62,,,0,0,0,12.9,271.25,23,9.9,18.7,41.84,Clear
+"Bronx, NY, United States",09/23/2020,79.5,59.6,69.8,,,0,0,0,16.5,277.04,25.2,9.9,13.5,46.51,Clear
+"Bronx, NY, United States",09/24/2020,75.9,63.3,70,,,0,0,0,8.7,207.67,,9.9,34.8,54.61,Partially cloudy
+"Bronx, NY, United States",09/25/2020,78,62.9,69.5,,,0,0,0,8.5,152,,8.9,34.2,69.68,Partially cloudy
+"Bronx, NY, United States",09/26/2020,75.1,65.8,70,,,0,0,0,10.7,116.71,,9.3,64.2,75.86,Partially cloudy
+"Bronx, NY, United States",09/27/2020,78,68.2,72.7,,,0,0,0,8.5,78.88,,9.1,84,79.49,Overcast
+"Bronx, NY, United States",09/28/2020,77.7,70.1,72.6,,,0.05,0,0,14.8,168.04,19.7,9,54,79.96,"Rain, Partially cloudy"
+"Bronx, NY, United States",09/29/2020,73.6,68.4,71.2,,,0.3,0,0,16,158.21,39.1,8.5,70,86.55,"Rain, Partially cloudy"
+"Bronx, NY, United States",09/30/2020,71.6,61.5,66.3,,,0.99,0,0,22.8,231.63,35.3,9,47.7,65.13,"Rain, Partially cloudy"
+"Bronx, NY, United States",10/01/2020,71.7,60.5,65.9,,,0,0,0,9.7,232.83,21.9,9.9,46.6,56.76,Partially cloudy
+"Bronx, NY, United States",10/02/2020,65.5,56.5,60.7,,,0.04,0,0,9.3,266.79,19.7,9.8,62.3,60.03,"Rain, Partially cloudy"
+"Bronx, NY, United States",10/03/2020,67,52.9,59.5,,,0,0,0,8.3,271.67,,9.9,16.3,52.98,Clear
+"Bronx, NY, United States",10/04/2020,65.9,51.6,59.3,,,0,0,0,10.5,73.5,,9.9,26.3,60.77,Partially cloudy
+"Bronx, NY, United States",10/05/2020,68,54.2,61.4,,,0,0,0,7.6,128.08,,9.9,34.5,65.76,Partially cloudy
+"Bronx, NY, United States",10/06/2020,69.4,57.3,63.3,,,0,0,0,10.6,180.29,19.7,9.9,27.4,62.06,Partially cloudy
+"Bronx, NY, United States",10/07/2020,75,61.1,66.3,,,0.02,0,0,16.5,250.83,29.1,9.9,52,57.41,"Rain, Partially cloudy"
+"Bronx, NY, United States",10/08/2020,63.5,54.4,59.2,,,0,0,0,17,300.21,28.5,9.9,13.5,47.96,Clear
+"Bronx, NY, United States",10/09/2020,69.3,52.1,60.9,,,0,0,0,11.9,165.63,23,9.9,29.6,49.1,Partially cloudy
+"Bronx, NY, United States",10/10/2020,71.3,59,65.6,,,0,0,0,12.5,218.38,21.7,9.9,39.8,66.47,Partially cloudy
+"Bronx, NY, United States",10/11/2020,67.5,60.4,64.5,,,0,0,0,13.9,141.67,20.8,9.9,78.9,65.79,Overcast
+"Bronx, NY, United States",10/12/2020,57.9,50.5,53.5,,,0.89,0,0,17.7,66.67,31,5.5,100,87.61,"Rain, Overcast"
+"Bronx, NY, United States",10/13/2020,58.6,53.9,56.7,,,0.32,0,0,16.1,188.21,31.1,6.1,94.5,89.31,"Rain, Overcast"
+"Bronx, NY, United States",10/14/2020,68.8,52.1,60.3,,,0,0,0,10.7,240.42,19.7,9.9,9.1,56.46,Clear
+"Bronx, NY, United States",10/15/2020,71.7,56.5,64.2,,,0,0,0,16.6,182.46,31.4,9.9,33,68.28,Partially cloudy
+"Bronx, NY, United States",10/16/2020,65.1,49.6,57.2,44.9,,1.32,0,0,13.8,256.38,23,7.7,90.9,84.54,"Rain, Overcast"
+"Bronx, NY, United States",10/17/2020,60.1,46.4,52.7,43,,0.04,0,0,13.5,222.25,20.8,9.9,27.2,54.29,"Rain, Partially cloudy"
+"Bronx, NY, United States",10/18/2020,62.8,47.2,55.3,,,0,0,0,13.4,88.92,20.8,9.9,36.5,63.93,Partially cloudy
+"Bronx, NY, United States",10/19/2020,65.1,52.3,59,,,0,0,0,10.8,98.71,,9.9,56.4,74.85,Partially cloudy
+"Bronx, NY, United States",10/20/2020,70.8,58.6,63.8,,,0.01,0,0,7.9,126.29,,7.6,75.1,86.16,"Rain, Overcast"
+"Bronx, NY, United States",10/21/2020,69.3,61.2,64.5,,,0,0,0,8.3,128.75,,5,89.6,90.17,Overcast
+"Bronx, NY, United States",10/22/2020,69,64.5,66.4,,,0,0,0,5.5,74.58,20.8,5.7,88.3,87.82,Overcast
+"Bronx, NY, United States",10/23/2020,69.1,63.4,65.2,,,0,0,0,7.3,152.5,29.8,6.9,97.3,86,Overcast
+"Bronx, NY, United States",10/24/2020,69.4,50.1,62.7,,,0,0,0,14.8,240.5,23,9.8,83.2,70.69,Overcast
+"Bronx, NY, United States",10/25/2020,52.5,45.7,49.6,40.9,,0.02,0,0,13.8,83.08,18.3,9.6,45.4,60.21,"Rain, Partially cloudy"
+"Bronx, NY, United States",10/26/2020,58.8,51.6,55.2,,,0.03,0,0,12,86.42,17.2,4.1,100,89.49,"Rain, Overcast"
+"Bronx, NY, United States",10/27/2020,58.7,53.3,56.6,,,0,0,0,9.5,164.17,19.7,8.3,83.6,74.41,Overcast
+"Bronx, NY, United States",10/28/2020,57.9,52.4,55.1,,,0.12,0,0,6.9,161.29,,7.3,89.1,80.76,"Rain, Overcast"
+"Bronx, NY, United States",10/29/2020,56.5,46.9,51.6,41.6,,1.54,0,0,18.8,70.42,33.5,5.5,96.3,84.31,"Rain, Overcast"
+"Bronx, NY, United States",10/30/2020,46.6,37.7,41.3,29.8,,0.65,0,0,16.9,93.96,29.2,7.8,83.9,83.69,"Rain, Overcast"
+"Bronx, NY, United States",10/31/2020,46.6,33.6,40.7,31,,0,0,0,9.8,159.58,,9.9,26,63.12,Partially cloudy
+"Bronx, NY, United States",11/01/2020,55.4,43.6,50.4,39.9,,0.35,0,0,19.9,201.46,33.5,9,93.7,67.83,"Rain, Overcast"
+"Bronx, NY, United States",11/02/2020,45.7,39.2,42.4,30.7,,0,0,0,25.7,281.04,42.7,9.9,41.7,44.69,Partially cloudy
+"Bronx, NY, United States",11/03/2020,54,40.4,47.5,31.9,,0,0,0,18.3,235.21,33.1,9.9,54.8,45.2,Partially cloudy
+"Bronx, NY, United States",11/04/2020,62.1,40.9,52,36.9,,0,0,0,10.3,120.33,41.4,9.9,2.7,55.09,Clear
+"Bronx, NY, United States",11/05/2020,68.5,50.9,58.3,,,0,0,0,10.2,191.67,21.9,9.7,24.7,71.2,Clear
+"Bronx, NY, United States",11/06/2020,71.1,55.2,61.9,,,0,0,0,12.4,187.54,,9.9,24.9,60.64,Clear
+"Bronx, NY, United States",11/07/2020,74.5,55.2,64.6,,,0,0,0,6.8,176,,9.9,18.6,46.93,Clear
+"Bronx, NY, United States",11/08/2020,75,55.1,63.6,,,0,0,0,4.8,116.96,,9.8,6.3,49.14,Clear
+"Bronx, NY, United States",11/09/2020,75.6,52.7,62.6,,,0,0,0,6.7,108.21,,9.3,6,60.33,Clear
+"Bronx, NY, United States",11/10/2020,74,59.1,65.6,,,0,0,0,11.9,198.5,21.9,9.5,17.2,71.78,Clear
+"Bronx, NY, United States",11/11/2020,70.8,62.4,66.1,,,0.65,0,0,9.3,157.33,,8.1,81.4,87.22,"Rain, Overcast"
+"Bronx, NY, United States",11/12/2020,67.8,47.6,56.8,43.9,,0.25,0,0,14.9,137.79,27.2,8.1,99.6,81.25,"Rain, Overcast"
+"Bronx, NY, United States",11/13/2020,50.6,47.3,48.7,44.1,,0.17,0,0,10.7,160.63,17.2,6.1,71.6,83.32,"Rain, Partially cloudy"
+"Bronx, NY, United States",11/14/2020,52.5,44.3,48.5,40.2,,0,0,0,14.2,272.42,28.9,9.9,14.3,50.73,Clear
+"Bronx, NY, United States",11/15/2020,62.8,41.1,51.4,36.9,,0.08,0,0,22.5,147.13,51.8,9.7,61.1,63.34,"Rain, Partially cloudy"
+"Bronx, NY, United States",11/16/2020,55.8,47.8,51.1,41.7,,0,0,0,21,260.96,33,9.9,17.3,39.11,Clear
+"Bronx, NY, United States",11/17/2020,49.6,38.2,44.7,29.7,,0,0,0,21.6,277.33,35.7,9.9,56.1,46.93,Partially cloudy
+"Bronx, NY, United States",11/18/2020,37.1,31.7,34.5,21.6,,0,0,0,23.1,313.38,37.2,9.9,25.6,45.1,Partially cloudy
+"Bronx, NY, United States",11/19/2020,48.8,30.9,40.1,25.7,,0,0,0,12.2,213.04,23,9.9,15.9,46.13,Clear
+"Bronx, NY, United States",11/20/2020,63,45.4,53.3,41,,0,0,0,12.7,215.88,20.8,9.9,11.8,46.75,Clear
+"Bronx, NY, United States",11/21/2020,64,50.8,57,,,0,0,0,10.9,241.33,16.1,9.9,25.5,44.83,Partially cloudy
+"Bronx, NY, United States",11/22/2020,57.2,44.9,49.6,38.5,,0,0,0,13.8,75.25,19.7,9.8,58.8,65.98,Partially cloudy
+"Bronx, NY, United States",11/23/2020,60.4,43.2,52,35.7,,0.53,0,0,21.6,265.13,36.7,8.6,59.4,66.81,"Rain, Partially cloudy"
+"Bronx, NY, United States",11/24/2020,48.9,42.6,45.2,36.4,,0,0,0,14.5,254.42,23,9.9,47,48.53,Partially cloudy
+"Bronx, NY, United States",11/25/2020,55.2,45,50.2,41.6,,0,0,0,10.4,158.04,23,9.9,78.3,55.53,Overcast
+"Bronx, NY, United States",11/26/2020,65,54.2,59.4,,,0.81,0,0,11.1,185.74,18.3,8.4,74.4,74.68,"Rain, Partially cloudy"
+"Bronx, NY, United States",11/27/2020,61.8,51.4,56.4,,,0,0,0,8.9,229.17,,9.9,49.1,60.85,Partially cloudy
+"Bronx, NY, United States",11/28/2020,55.3,45.4,50.7,41.9,,0,0,0,12.2,270.13,20.8,9.9,56.9,54.53,Partially cloudy
+"Bronx, NY, United States",11/29/2020,54.4,40.6,48.2,38,,0,0,0,7.7,175.08,,9.9,10.7,43.38,Clear
+"Bronx, NY, United States",11/30/2020,64.1,48.8,57.4,46.5,,1.16,0,0,26,128.79,40.3,6.3,87,77.97,"Rain, Overcast"
+"Bronx, NY, United States",12/01/2020,59.8,38.8,50.3,31.1,,0,0,0,22,213.25,32.2,9.9,78,66.29,Overcast
+"Bronx, NY, United States",12/02/2020,43.8,37.1,40.4,28.6,,0,0,0,19.2,249.29,31.2,9.9,57,55.24,Partially cloudy
+"Bronx, NY, United States",12/03/2020,50.1,35.6,43.1,30,,0,0,0,12.8,233.5,20.8,9.9,28.4,45.5,Partially cloudy
+"Bronx, NY, United States",12/04/2020,52.3,45.5,48.1,41.3,,0.07,0,0,12.5,205.75,23,9.8,73.3,59.77,"Rain, Partially cloudy"
+"Bronx, NY, United States",12/05/2020,47.3,40.3,44.1,32.2,,0.94,0,0,20,220.17,34,8.1,39.4,73.53,"Rain, Partially cloudy"
+"Bronx, NY, United States",12/06/2020,40.9,34.2,38.1,26.2,,0,0,0,21.2,295.13,37.5,9.9,9.3,50.76,Clear
+"Bronx, NY, United States",12/07/2020,40.5,32.2,35.7,23.3,,0,0,0,13.4,280.5,23,9.9,16.3,52.69,Clear
+"Bronx, NY, United States",12/08/2020,36.9,30.9,33.5,20.6,,0,0,0,14.7,263.83,24.5,9.9,72.5,57.22,Partially cloudy
+"Bronx, NY, United States",12/09/2020,37.7,33.1,35.3,23.8,,0.03,0,0,12.7,247.83,24.2,8.6,69.7,63.47,"Rain, Partially cloudy"
+"Bronx, NY, United States",12/10/2020,48.9,37.4,43.3,31.7,,0,0,0,15.1,266.13,23.4,9.8,34.2,60.05,Partially cloudy
+"Bronx, NY, United States",12/11/2020,55.4,38.5,47,36.2,,0,0,0,10.9,162,18.7,9.6,26.1,63.32,Partially cloudy
+"Bronx, NY, United States",12/12/2020,54.7,44.7,50,42.4,,0,0,0,7.3,130.63,17.2,6.2,64.5,83.61,Partially cloudy
+"Bronx, NY, United States",12/13/2020,60.9,47.3,53.9,44.3,,0,0,0,17.5,233.96,26.6,9.7,36.3,64.58,Partially cloudy
+"Bronx, NY, United States",12/14/2020,47.6,37.2,40.8,29,,0.24,0,0,17.1,223.04,34.9,9.3,69,69.45,"Rain, Partially cloudy"
+"Bronx, NY, United States",12/15/2020,39.8,31.3,35.8,23.9,,0,0,0,16.5,301.5,31.1,9.9,25.5,45.48,Partially cloudy
+"Bronx, NY, United States",12/16/2020,31.6,25.9,29,12.6,,0.5,5.66,5.66,24.5,47.46,39.7,6.8,57,58.32,"Snow, Partially cloudy"
+"Bronx, NY, United States",12/17/2020,32.8,24.9,28.8,10.9,,0.62,3.57,9.23,22.2,258.79,39.3,5.3,56.3,76.17,"Snow, Partially cloudy"
+"Bronx, NY, United States",12/18/2020,32.4,26.2,28.5,16.2,,0,0,7.99,11.9,280.25,21.9,9.9,66.2,58.2,Partially cloudy
+"Bronx, NY, United States",12/19/2020,32.5,22,27.8,13.3,,0,0,6.91,9.5,179.17,,9.9,30,57.91,Partially cloudy
+"Bronx, NY, United States",12/20/2020,39.3,30.7,35.4,27.2,,0.01,0,6.16,7.8,116.79,17.2,8.4,86.3,68,"Rain, Overcast"
+"Bronx, NY, United States",12/21/2020,46.2,37.6,41,35.5,,0,0,4.92,9.5,183.5,,7.2,79.5,72.67,Overcast
+"Bronx, NY, United States",12/22/2020,45.8,38.5,42.2,33,,0,0,3.66,17,263.04,32,8.1,89,61.77,Overcast
+"Bronx, NY, United States",12/23/2020,44.7,37.3,40.8,32,,0,0,2.22,13.3,210.79,27.7,9.9,30,50.58,Partially cloudy
+"Bronx, NY, United States",12/24/2020,60.3,42.4,53.5,38.1,,0.03,0.26,0.99,20.7,153.63,40.6,9.4,90.3,75.6,"Snow, Overcast"
+"Bronx, NY, United States",12/25/2020,61.9,31.5,50.2,20.3,,0.92,0,0.31,27.1,191.96,52.8,7.4,96,78.4,"Rain, Overcast"
+"Bronx, NY, United States",12/26/2020,32.8,24.9,28.7,11.3,,0,0,0,18.2,259.21,30.8,9.9,39,49.65,Partially cloudy
+"Bronx, NY, United States",12/27/2020,38,25.3,31.7,16.6,,0,0,0,9.1,214.46,18.3,9.9,15.8,52.09,Clear
+"Bronx, NY, United States",12/28/2020,50.4,34.8,44.2,30.2,,0,0,0,12.6,191.08,19.8,9.9,54.9,58.43,Partially cloudy
+"Bronx, NY, United States",12/29/2020,44.2,31.8,37.7,23.6,,0,0,0,19.8,306.58,31.8,9.9,32.5,42.16,Partially cloudy
+"Bronx, NY, United States",12/30/2020,42.6,29,35.7,22.9,,0,0,0,14.5,214.75,26.4,9.9,47,48.62,Partially cloudy
+"Bronx, NY, United States",12/31/2020,48.2,37.1,43.8,31.9,,0.4,0,0,15.6,279.46,23,8.9,52.6,66.26,"Rain, Partially cloudy"
+"Bronx, NY, United States",01/01/2021,39.2,33.3,36.7,28.1,,0.58,0,0,9.7,77.08,,8.8,53.9,66.87,"Rain, Partially cloudy"
+"Bronx, NY, United States",01/02/2021,51.6,36.8,42.8,30,,0.1,0,0,18.2,240.58,35.4,7.7,67.3,72.09,"Rain, Partially cloudy"
+"Bronx, NY, United States",01/03/2021,38.1,35.1,36.9,27.2,,0.19,0,0,16.4,74.25,27.4,8.3,83.6,78.72,"Rain, Overcast"
+"Bronx, NY, United States",01/04/2021,43.1,35.9,38.8,29.1,,0.03,0,0,12.1,173.21,,9.7,89.2,75.05,"Rain, Overcast"
+"Bronx, NY, United States",01/05/2021,40.9,37.8,39.1,31.2,,0,0,0,10,172.75,,9.9,98.2,67.3,Overcast
+"Bronx, NY, United States",01/06/2021,40.9,35.9,37.8,27.1,,0,0,0,18.5,302.46,29.4,9.9,49.3,63.34,Partially cloudy
+"Bronx, NY, United States",01/07/2021,42,31.8,35.9,23.5,,0,0,0,14.1,321.63,23,9.9,9.2,54.53,Clear
+"Bronx, NY, United States",01/08/2021,38,29.2,32.7,19.9,,0,0,0,12.8,268.38,26.7,9.9,30.1,58.49,Partially cloudy
+"Bronx, NY, United States",01/09/2021,36.4,26.2,32.1,16.9,,0,0,0,17.8,311.79,31.9,9.9,53.7,49.87,Partially cloudy
+"Bronx, NY, United States",01/10/2021,41.6,30.3,35,22.5,,0,0,0,12.1,242.71,21.9,9.9,17.4,50.91,Clear
+"Bronx, NY, United States",01/11/2021,37.3,29.1,33,25.5,,0,0,0,7.1,134.21,,9.9,37.7,62.11,Partially cloudy
+"Bronx, NY, United States",01/12/2021,44.3,33.1,37.9,26.8,,0,0,0,8.1,172.63,,9.7,17.7,55.71,Clear
+"Bronx, NY, United States",01/13/2021,43.4,36,39.4,32.1,,0,0,0,13.3,159.46,20.8,9.3,85.9,53.12,Overcast
+"Bronx, NY, United States",01/14/2021,49.3,38.6,43.2,36.1,,0,0,0,5.5,106.67,,8.8,70.4,59.98,Partially cloudy
+"Bronx, NY, United States",01/15/2021,46.1,37.4,41.6,31.6,,0.29,0,0,15.1,67.79,27.7,6.9,82.3,79.11,"Rain, Overcast"
+"Bronx, NY, United States",01/16/2021,47,39.3,43.1,33,,0.8,0,0,21.5,209.79,30.9,8.8,81.7,74.63,"Rain, Overcast"
+"Bronx, NY, United States",01/17/2021,44.9,36.7,40.9,28.3,,0,0,0,18,258.04,37.7,9.9,57.2,51.49,Partially cloudy
+"Bronx, NY, United States",01/18/2021,45,38.6,41.5,32.5,,0,0,0,14.5,258.25,26.2,9.9,52.3,53.82,Partially cloudy
+"Bronx, NY, United States",01/19/2021,42.8,35.9,38.6,28.6,,0,0,0,17.2,255.08,28.8,9.9,56.9,52.17,Partially cloudy
+"Bronx, NY, United States",01/20/2021,40,27.8,35.7,19.3,,0.01,0,0,19.4,265.63,33.1,9.5,65.4,48.93,"Rain, Partially cloudy"
+"Bronx, NY, United States",01/21/2021,43.5,26.7,34.5,19.6,,0,0,0,13.7,193.83,27.7,9.9,38.7,48.14,Partially cloudy
+"Bronx, NY, United States",01/22/2021,44.8,36.8,41.4,29.2,,0,0,0,17.7,271.08,28.9,9.9,68.1,44.9,Partially cloudy
+"Bronx, NY, United States",01/23/2021,36.8,25.5,30.6,11.5,,0,0,0,22.7,305.92,35.5,9.9,45.1,39.12,Partially cloudy
+"Bronx, NY, United States",01/24/2021,32.8,22.9,27.7,8.7,,0,0,0,20.2,308.29,33.1,9.9,32,39.97,Partially cloudy
+"Bronx, NY, United States",01/25/2021,38,24.3,30.9,15,,0,0,0,14.2,227.88,19.7,9.9,48.2,43.48,Partially cloudy
+"Bronx, NY, United States",01/26/2021,34.8,32.4,33.7,23.4,,0.09,0,0,12.2,61,16.1,6.8,97.1,65.46,"Rain, Overcast"
+"Bronx, NY, United States",01/27/2021,37.4,32.7,35.1,25.3,,0,0,0,13.9,276.71,26.4,8.8,91.8,68.69,Overcast
+"Bronx, NY, United States",01/28/2021,33.6,21.4,29.3,5.7,,0,0,0,25.4,322.88,37.8,9.9,46.6,47.62,Partially cloudy
+"Bronx, NY, United States",01/29/2021,26,16.3,21.3,-1.4,,0,0,0,28.5,309.5,41.7,9.9,18.1,43.14,Clear
+"Bronx, NY, United States",01/30/2021,33,18.3,24.5,4.2,,0,0,0,16.2,308.83,26,9.9,16.4,44.32,Clear
+"Bronx, NY, United States",01/31/2021,29.4,20,23.2,9.5,,0.06,3.3,3.3,18.5,94.13,24.2,8.1,67.4,59.5,"Snow, Partially cloudy"
+"Bronx, NY, United States",02/01/2021,33.5,22.8,29.5,10.1,,1.46,7.31,10.61,24,39.58,37.8,0.8,90.1,88.67,"Snow, Overcast"
+"Bronx, NY, United States",02/02/2021,33.6,29.8,32.1,17.7,,0.1,3.18,13.79,18.1,278.21,30.6,5.1,100,82.34,"Snow, Overcast"
+"Bronx, NY, United States",02/03/2021,37.6,29.3,32.9,20.3,,0.01,0,13.14,15.9,316.5,31.1,9.1,93.7,65.33,"Rain, Overcast"
+"Bronx, NY, United States",02/04/2021,42.6,31.3,36.7,22.8,,0,0,11.31,15.3,282.29,23.9,9.9,43.2,51.89,Partially cloudy
+"Bronx, NY, United States",02/05/2021,46.8,36.5,41.2,30.4,,0.07,0,9.15,12.4,196.42,58.6,9.7,60.5,61.45,"Rain, Partially cloudy"
+"Bronx, NY, United States",02/06/2021,44.2,33,39.1,26.5,,0,0.31,6.88,22.9,253.04,35.2,9.9,31.6,37.59,"Snow, Partially cloudy"
+"Bronx, NY, United States",02/07/2021,38.3,27.8,33.6,15.6,,0.39,2.46,7.35,16.6,123.58,25.1,6.2,77.6,70.48,"Snow, Overcast"
+"Bronx, NY, United States",02/08/2021,29.9,17.8,24.1,4.6,,0,1.92,9.27,17.4,262.13,28.9,9.9,12.8,47.93,Snow
+"Bronx, NY, United States",02/09/2021,33,26,29.7,20.3,,0.01,0,8.91,10.9,180.71,,8.5,77.9,73.81,"Rain, Overcast"
+"Bronx, NY, United States",02/10/2021,35.3,26.4,30.4,17.8,,0,0.12,8.14,8.7,241.17,17.2,9.7,56.9,55.11,"Snow, Partially cloudy"
+"Bronx, NY, United States",02/11/2021,32.4,25.8,28.9,17.3,,0.1,0.07,8.05,10.7,156.5,,7.5,81.1,65.15,"Snow, Overcast"
+"Bronx, NY, United States",02/12/2021,29.8,20.5,26.1,10.7,,0,0,7.61,10.6,165.46,18.3,9.9,70.6,38.61,Partially cloudy
+"Bronx, NY, United States",02/13/2021,29.8,25,27.6,14.5,,0,0,6.64,11.7,49.79,18.3,9.9,94.1,41.41,Overcast
+"Bronx, NY, United States",02/14/2021,37.6,27.7,32.4,19,,0,0,6.19,11.7,137.63,,9.6,88.7,69.94,Overcast
